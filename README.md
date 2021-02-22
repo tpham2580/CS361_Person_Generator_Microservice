@@ -2,6 +2,10 @@
 
 ## HOW TO RUN Person-Generator
 
+### Video Walkthrough
+
+![](person-generator-sprint3.gif)
+
 To open GUI for Person-Generator, input in terminal:
   
     $ python3 person-generator.py
