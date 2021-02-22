@@ -1,0 +1,4403 @@
+NUMBER,STREET,CITY,POSTCODE
+2061,W 800   N,Cambridge,83333
+54,N 1900   W,Pocatello,83383
+79,N 2200   W,Pocatello,83606
+121,N 1900   W,Pocatello,83522
+1851,W 600   N,Caldwell,83535
+2104,S 3400   W,Pocatello,83417
+352,S 2800   W,Pocatello,83491
+2726,W 500   S,Cambridge,83552
+2948,W 1300   S,Sun Valley,83440
+1198,S 3000   W,Cambridge,83340
+2851,900   S,Caldwell,83359
+2897,W 900   S,Cambridge,83516
+1008,S 2800   W,Sun Valley,83549
+798,S 2600   W,Sun Valley,83497
+2852,W 900   S,Caldwell,83363
+2751,W 1000   S,Pocatello,83456
+1009,S 2800   W,Cambridge,83567
+2710,W 800   S,Sun Valley,83547
+1820,W 400   S,Caldwell,83434
+372,S 1800   W,Pocatello,83608
+372,S 1800   W,Caldwell,83515
+466,S 1800   W,Cambridge,83498
+428,S 1800   W,Caldwell,83373
+1826,W 200   S,Sun Valley,83606
+2035,W 200   S,Caldwell,83361
+2120,W 400   S,Cambridge,83541
+1902,W 100   S,Caldwell,83433
+2087,W HOFF RD,Pocatello,83320
+2151,W HOFF,Pocatello,83417
+2287,W HOFF RD,Caldwell,83309
+203,W 2200   W,Pocatello,83340
+2220,W 200   S,Sun Valley,83405
+150,S 2100   W,Sun Valley,83537
+2004,W 200   S,Pocatello,83609
+179,S 2100   W,Cambridge,83385
+2058,W 200   S,Sun Valley,83347
+1250,W 200   N,Caldwell,83446
+1241,W 300   N,Cambridge,83369
+158,N 1200   W,Caldwell,83380
+134,N 1200   W,Cambridge,83515
+184,N 1400   W,Caldwell,83364
+1499,W 200   N,Pocatello,83572
+1415,W 200   N,Cambridge,83369
+152,N 1400   W,Caldwell,83484
+116,N 1400   W,Caldwell,83407
+1415,W 200   N,Sun Valley,83577
+1650,W HOFF,Sun Valley,83416
+2,N 1600   W,Caldwell,83555
+1650,W HOFF,Cambridge,83582
+1346,W 300   N,Sun Valley,83572
+318,N 1400   W,Cambridge,83582
+350,N 1400   W,Cambridge,83321
+320,N 1400   W,Pocatello,83444
+366,N 1400   W,Caldwell,83560
+1547,W 400   N,Cambridge,83513
+1598,W 300   N,Caldwell,83473
+1547,W 200   N,Caldwell,83564
+1540,W 300   N,Caldwell,83587
+1675,W 400   N,Caldwell,83525
+1624,W 300   N,Sun Valley,83359
+1674,W 300   N,Caldwell,83502
+1473,W TABER,Caldwell,83567
+559,N 1400   W,Pocatello,83476
+511,N 1400   W,Pocatello,83320
+561,N 1400   W,Sun Valley,83353
+1650,W 500   N,Caldwell,83534
+701,N 1500   W,Caldwell,83568
+758,N 1400   W,Caldwell,83395
+904,N 1200   W,Sun Valley,83407
+631,N 1100   W,Caldwell,83472
+802,W 1050   N,Cambridge,83403
+932,S 1500   W,Cambridge,83357
+943,S 1600   W,Sun Valley,83372
+1501,W 800   S,Cambridge,83459
+894,S 1500   W,Sun Valley,83311
+822,S 1500   W,Pocatello,83495
+894,S 1500   W,Cambridge,83361
+1795,W 800   S,Sun Valley,83592
+1346,W 1000   N,Caldwell,83313
+1615,W 200   S,Caldwell,83419
+1767,W 200   S,Sun Valley,83549
+2048,W HOFF RD,Cambridge,83383
+1198,S 3000   W,Caldwell,83489
+2134,W 200   S,Caldwell,83611
+2004,W 200   S,Caldwell,83530
+179,S 2100   W,Pocatello,83404
+114,N 1600   W,Sun Valley,83609
+460,N 1400   W,Cambridge,83471
+480,N 1400   W,Caldwell,83342
+602,N 1400   W,Sun Valley,83472
+950,N 1200   W,Cambridge,83390
+975,N 700   W,Caldwell,83546
+1099,N 900   W,Cambridge,83505
+773,N 850   W,Caldwell,83610
+1720,W 500   S,Pocatello,83311
+198,S 1700   W,Caldwell,83512
+1575,W 100   S,Cambridge,83580
+1533,W 100   S,Cambridge,83540
+434,W 1500   N,Cambridge,83307
+1459,N 400   W,Pocatello,83351
+1459,N 400   W,Caldwell,83336
+1252,N 400   W,Pocatello,83355
+425,W 1250   N,Sun Valley,83407
+651,N 350   W,Cambridge,83577
+647,N 350   W,Pocatello,83373
+868,N 150   W,Pocatello,83381
+93,W 1000   N,Caldwell,83322
+99,W 1000   N,Sun Valley,83369
+99,W 1000   N,Caldwell,83424
+165,W 1050   N,Caldwell,83379
+700,N 315   W,Sun Valley,83587
+549,N 700   W,Caldwell,83362
+22,N 2550   E,Pocatello,83519
+702,N CENTER ST,Pocatello,83519
+702,N CENTER ST,Caldwell,83584
+120,W 1050   N,Sun Valley,83386
+70,CREEK,Cambridge,83366
+1333,S 2300   W,Sun Valley,83359
+1321,S 2300   W,Pocatello,83320
+1260,N 400   E,Cambridge,83463
+1298,N 400   E,Pocatello,83555
+482,E 1500   N,Sun Valley,83333
+484,E 1500   N,Cambridge,83429
+402,E 1450   N,Caldwell,83383
+269,N 200   E,Pocatello,83364
+207,N 200   E,Cambridge,83367
+294,E 200   N,Pocatello,83475
+269,N 200   E,Cambridge,83430
+289,N 200   E,Sun Valley,83319
+201,E 300   N,Sun Valley,83312
+281,N 200   E,Cambridge,83454
+209,N 200   E,Pocatello,83585
+625,E 1200   N,Pocatello,83520
+247,N 200   E,Pocatello,83537
+2181,E 1100   S,Cambridge,83348
+1462,W HOFF,Caldwell,83468
+1468,W HOFF RD,Cambridge,83466
+1498,W HOFF,Pocatello,83449
+1468,W HOFF RD,Cambridge,83351
+68,N 1400   W,Cambridge,83435
+914,N 150   W,Sun Valley,83311
+914,N 150   W,Cambridge,83478
+2298,N 1600   W,Pocatello,83562
+2308,W 900   S,Cambridge,83517
+2375,W 800   S,Cambridge,83568
+2351,W 800   S,Caldwell,83351
+2340,W 900   S,Pocatello,83485
+49,S BLACKFOOT RESERVOIR RD,Caldwell,83567
+1527,WOLVERINE RD,Cambridge,83456
+1525,E WOLVERINE RD,Caldwell,83336
+1577,WOLVERINE RD,Sun Valley,83478
+1525,E WOLVERINE RD,Pocatello,83460
+396,N BLACKFOOT RIVER RD,Cambridge,83469
+2394,E CEDAR CREEK,Pocatello,83317
+2360,W 900   S,Cambridge,83434
+1565,W 200   N,Caldwell,83467
+80,S 250   E,Pocatello,83548
+42,S 200   E,Sun Valley,83345
+24,S 200   E,Cambridge,83308
+24,S 200   E,Sun Valley,83373
+42,S 200   E,Sun Valley,83489
+46,S 200   E,Sun Valley,83585
+46,S 200   E,Pocatello,83577
+84,S 250   E,Pocatello,83591
+605,N SKUNK TAIL LN,Pocatello,83361
+202,W 500   N,Caldwell,83397
+514,N 400   W,Pocatello,83369
+576,N 400   W,Sun Valley,83397
+578,N 400   W,Cambridge,83351
+510,N 400   W,Pocatello,83408
+510,N 400   W,Sun Valley,83329
+524,N 400   W,Sun Valley,83476
+506,N 400   W,Pocatello,83505
+524,N 400   W,Pocatello,83342
+164,S 1900   W,Sun Valley,83554
+134,S 1900   W,Caldwell,83483
+134,S 1900   W,Cambridge,83418
+1044,N 1000   E,Sun Valley,83417
+959,E 1100   N,Cambridge,83326
+1049,N 900   E,Cambridge,83471
+950,E 1000   N,Caldwell,83501
+1054,N 1000   E,Pocatello,83341
+1095,N 900   E,Sun Valley,83313
+1002,N 1000   E,Sun Valley,83522
+1060,N 1000   E,Pocatello,83568
+755,N 1900   W,Caldwell,83535
+796,N 1800   W,Pocatello,83332
+2062,W 800   N,Cambridge,83478
+2060,W 800   N,Caldwell,83379
+960,W 650   N,Sun Valley,83516
+165,W 750   N,Caldwell,83415
+742,N 150   W,Caldwell,83431
+742,N 150   W,Caldwell,83342
+742,N 150   W,Pocatello,83502
+775,N 200   W,Sun Valley,83500
+600,N 150   W,Pocatello,83499
+604,N 150   W,Caldwell,83396
+658,N 150   W,Sun Valley,83606
+134,W 600   N,Sun Valley,83363
+1240,W 600   S,Caldwell,83570
+595,S 1300   W,Pocatello,83406
+1201,W 600   S,Sun Valley,83389
+1270,W 600   S,Pocatello,83372
+1280,W 600   S,Sun Valley,83466
+1286,W 600   S,Caldwell,83529
+554,S 1200   W,Sun Valley,83393
+1272,W 600   S,Sun Valley,83460
+1242,W 600   S,Pocatello,83450
+547,S 1300   W,Cambridge,83417
+1762,W 800   S,Caldwell,83437
+754,S 1700   W,Cambridge,83541
+1755,W 700   S,Caldwell,83473
+736,S 1700   W,Sun Valley,83566
+736,S 1700   W,Cambridge,83439
+736,S 1700   W,Sun Valley,83579
+1753,W 700   S,Cambridge,83563
+749,S 1800   W,Caldwell,83552
+1751,W 700   S,Sun Valley,83437
+736,S 1700   W,Pocatello,83414
+762,S 1700   W,Cambridge,83386
+776,S 1700   W,Pocatello,83561
+1762,W 800   S,Caldwell,83498
+1735,W 700   S,Cambridge,83421
+1762,W 800   S,Cambridge,83431
+771,S 1800   W,Pocatello,83460
+781,S 1800   W,Cambridge,83600
+1579,W 200   N,Caldwell,83429
+147,E RICH LN,Caldwell,83575
+510,N 250   W,Caldwell,83387
+203,W 600   N,Pocatello,83492
+164,S 1900   W,Caldwell,83512
+959,E 1100   N,Cambridge,83493
+959,E 1100   N,Cambridge,83474
+1297,W 600   N,Caldwell,83549
+0,HILLTOP,Pocatello,83422
+914,W 650   N,Caldwell,83539
+610,N 150   W,Caldwell,83313
+608,N 150   W,Caldwell,83517
+1204,E 900   N,Caldwell,83380
+1201,E 1000   N,Pocatello,83357
+1202,E 900   N,Pocatello,83576
+722,S 1700   W,Pocatello,83380
+2990,E 600   S,Caldwell,83498
+417,E 1200   N,Cambridge,83391
+2344,W 1500   S,Sun Valley,83493
+2328,W 1450   S,Sun Valley,83558
+2370,W 1500   S,Caldwell,83378
+2321,W 1400   S,Cambridge,83418
+2321,W 1400   S,Pocatello,83414
+2321,W 1400   S,Pocatello,83607
+3101,W 2000   S,Pocatello,83336
+3122,W 2100   S,Cambridge,83313
+1205,W HOFF RD,Caldwell,83456
+1775,W 950   S,Caldwell,83397
+1425,N 475   E,Caldwell,83528
+1482,N 475   E,Sun Valley,83383
+1484,N 475   E,Sun Valley,83499
+475,E 1490   N,Pocatello,83348
+1486,N 475   E,Sun Valley,83314
+1490,N 475   E,Cambridge,83410
+482,E 1500   N,Cambridge,83586
+1476,N 475   E,Sun Valley,83406
+1420,N 475   E,Caldwell,83452
+1402,N 475   E,Sun Valley,83322
+1402,N 475   E,Cambridge,83427
+1396,N 475   E,Cambridge,83425
+1396,N 475   E,Cambridge,83464
+1351,N 475   E,Caldwell,83610
+1357,N 475   E,Pocatello,83398
+1297,N 400   E,Sun Valley,83485
+482,E 1200   N,Sun Valley,83522
+462,E 1000   N,Sun Valley,83432
+482,E 1000   N,Cambridge,83578
+460,E 1000   N,Pocatello,83583
+1070,N 500   E,Pocatello,83336
+460,E 1000   N,Sun Valley,83525
+1070,N 500   E,Pocatello,83499
+102,E RIVER RD,Pocatello,83483
+31,E 600,Caldwell,83411
+11,E 600   N,Pocatello,83429
+60,E 600   N,Cambridge,83378
+2163,S 2900   W,Caldwell,83478
+2854,W 2200   S,Cambridge,83447
+2855,W 2100   S,Sun Valley,83495
+2112,S 2800   W,Sun Valley,83304
+2142,S 2800   W,Sun Valley,83587
+2851,W 2100   S,Cambridge,83473
+2164,S 2800   W,Cambridge,83327
+2146,S 2800   W,Caldwell,83594
+503,N 400   W,Caldwell,83317
+583,N 400   W,Cambridge,83591
+501,N 325   W,Cambridge,83543
+525,N 400   W,Cambridge,83534
+224,BERGGREN,Sun Valley,83462
+102,E RIVER RD,Caldwell,83576
+166,E BERGGREN LN,Cambridge,83379
+178,BERGGREN LN,Pocatello,83492
+102,E RIVER RD,Pocatello,83334
+102,E RIVER RD,Cambridge,83460
+298,W 450   N,Caldwell,83503
+408,N 300   W,Sun Valley,83410
+227,W 450   N,Sun Valley,83512
+224,W 450   N,Pocatello,83302
+456,N 250   W,Cambridge,83607
+482,N 250   W,Pocatello,83506
+410,N 200   W,Sun Valley,83525
+255,W 450   N,Cambridge,83419
+227,W 450   N,Pocatello,83527
+220,W 450   N,Cambridge,83319
+216,W 450   N,Caldwell,83599
+227,W 450   N,Pocatello,83566
+255,W 450   N,Sun Valley,83513
+280,W 450   N,Caldwell,83571
+257,W 450   N,Cambridge,83588
+282,W 450   N,Sun Valley,83457
+680,E 1000   N,Sun Valley,83387
+2361,W 1450   S,Sun Valley,83301
+3031,E LONG VALLEY RD,Sun Valley,83524
+2523,W HWY 26,Caldwell,83504
+1480,N 475   E,Caldwell,83395
+550,E 1250   N,Pocatello,83406
+1351,N 475   E,Pocatello,83439
+274,W 400   N,Caldwell,83564
+274,W 400   N,Pocatello,83552
+294,W 450   N,Caldwell,83591
+298,W 450   N,Cambridge,83426
+679,E 1100   N,Cambridge,83445
+690,E 1050   N,Caldwell,83466
+909,E 1000   N,Caldwell,83315
+951,N 900   E,Cambridge,83602
+927,N 900   E,Cambridge,83509
+941,N 900   E,Cambridge,83611
+941,N 900   E,Pocatello,83419
+937,N 900   E,Sun Valley,83435
+933,N 900   E,Pocatello,83349
+929,N 900   E,Sun Valley,83341
+925,N 900   E,Caldwell,83338
+931,N 900   E,Cambridge,83393
+964,E 900   N,Caldwell,83426
+960,E 900   N,Pocatello,83551
+972,E 900   N,Sun Valley,83470
+948,E 900   N,Sun Valley,83465
+948,N 1000   E,Pocatello,83535
+914,N 1000   E,Sun Valley,83374
+904,N 1000   E,Cambridge,83517
+937,E 1000   N,Caldwell,83441
+953,N 900   E,Sun Valley,83447
+970,N 1000   E,Caldwell,83512
+940,N 1000   E,Caldwell,83303
+933,N 900   E,Caldwell,83480
+1175,E 900   N,Pocatello,83571
+831,N 1100   E,Caldwell,83305
+1122,E 800   N,Sun Valley,83591
+1158,E 800   N,Pocatello,83403
+1170,E 800   N,Pocatello,83361
+841,N 1100   E,Cambridge,83368
+843,N 1100   E,Cambridge,83492
+811,N 1100   E,Pocatello,83550
+859,N 1100   E,Cambridge,83534
+911,N 500   E,Caldwell,83358
+475,E 1000   N,Caldwell,83479
+786,E 900   N,Caldwell,83301
+721,E 1000   N,Caldwell,83418
+747,E 1000   N,Cambridge,83579
+747,E 1000   N,Pocatello,83414
+747,E 1000   N,Pocatello,83421
+747,E 1000   N,Pocatello,83368
+747,E 1000   N,Caldwell,83353
+700,E 950   N,Cambridge,83462
+982,HWY 91,Caldwell,83482
+747,E 1000   N,Caldwell,83354
+748,E 900   N,Caldwell,83362
+748,E 900   N,Caldwell,83543
+986,N HWY 91,Caldwell,83339
+998,N 800   E,Cambridge,83377
+948,N 800   E,Sun Valley,83313
+747,E 1000   N,Caldwell,83354
+751,E 1000   N,Caldwell,83356
+669,E 950   N,Sun Valley,83420
+965,S 2400   W,Pocatello,83378
+935,S 2400   W,Sun Valley,83563
+981,S 2400   W,Caldwell,83333
+953,S 2400   W,Sun Valley,83408
+1164,E 1000   N,Cambridge,83524
+1048,N 1200   E,Caldwell,83456
+1152,E 1000   N,Sun Valley,83478
+1195,E 1100   N,Pocatello,83434
+1036,N 1200   E,Pocatello,83410
+1042,N 1200   E,Sun Valley,83515
+751,N 1200   W,Pocatello,83397
+739,N 1200   W,Caldwell,83475
+873,N 1200   W,Sun Valley,83396
+865,N 1200   W,Sun Valley,83472
+803,N 1200   W,Caldwell,83301
+734,W 700   N,Pocatello,83585
+702,W 700   N,Caldwell,83446
+282,S 1500   W,Pocatello,83407
+901,N 1400   W,Pocatello,83589
+1353,W 1000   N,Cambridge,83331
+1365,W 1000   N,Cambridge,83506
+949,N 1400   W,Pocatello,83474
+998,N 1500   W,Caldwell,83366
+726,N 1900   W,Sun Valley,83525
+726,N 1900   W,Pocatello,83454
+1921,W TABER,Sun Valley,83336
+654,W 700   N,Caldwell,83474
+1475,W HOFF RD,Cambridge,83553
+1424,W 100   S,Caldwell,83516
+1448,W 100   S,Sun Valley,83545
+1473,W HOFF,Cambridge,83390
+41,S 1500   W,Sun Valley,83443
+1428,W 100   S,Pocatello,83329
+3000,W GRANDVIEW,Caldwell,83595
+1006,S 3100   W,Cambridge,83336
+3200,W 1200   S,Caldwell,83386
+3166,W 1300   S,Cambridge,83442
+3166,W 1300   S,Pocatello,83593
+3450,W 1400   S,Sun Valley,83376
+1396,S 3200   W,Cambridge,83341
+1356,S 3000   W,Sun Valley,83436
+3030,W 1400   S,Sun Valley,83362
+3089,W 1300   S,Pocatello,83481
+3070,W 1500   S,Cambridge,83391
+3070,W 1500   S,Sun Valley,83546
+1433,S 3100   W,Sun Valley,83501
+3080,W 1500   S,Pocatello,83596
+1433,S 3100   W,Sun Valley,83399
+3202,W 1600   S,Sun Valley,83501
+3018,W 1700   S,Sun Valley,83574
+3018,W 1700   S,Caldwell,83500
+1634,S 3200   W,Pocatello,83355
+3204,W 1800   S,Cambridge,83326
+1046,N 575   E,Pocatello,83444
+1023,N 500   E,Pocatello,83352
+1029,N 500   E,Pocatello,83469
+1087,N 575   E,Sun Valley,83601
+548,E 1000   N,Caldwell,83365
+1050,N 575   E,Sun Valley,83404
+1025,N 575   E,Caldwell,83336
+1043,N 575   E,Cambridge,83534
+1053,N 500   E,Caldwell,83570
+1053,N 500   E,Caldwell,83440
+1057,N 575   E,Cambridge,83541
+1051,N 575   E,Pocatello,83607
+1055,N 575   E,Caldwell,83549
+1001,N 575   E,Pocatello,83543
+1073,N 575   E,Pocatello,83484
+1045,N 575   E,Pocatello,83384
+1006,N 575   E,Pocatello,83443
+1050,N 575   E,Caldwell,83323
+1054,N 575   E,Cambridge,83397
+560,E 1000   N,Cambridge,83595
+1003,N 575   E,Caldwell,83353
+1049,N 575   E,Caldwell,83547
+517,E 1100   N,Pocatello,83421
+1076,N 575   E,Sun Valley,83569
+1072,N 575   E,Caldwell,83325
+506,E 1000   N,Caldwell,83348
+518,E 1000   N,Caldwell,83336
+1002,N 575   E,Sun Valley,83464
+1033,N 500   E,Cambridge,83538
+1015,N 575   E,Caldwell,83479
+3350,W 2000   S,Caldwell,83407
+3182,W 2000   S,Cambridge,83341
+3152,W 2000   S,Pocatello,83493
+3146,W 2000   S,Sun Valley,83595
+3282,W 2100   S,Caldwell,83534
+2046,S 3200   W,Sun Valley,83590
+3344,W 2200   S,Pocatello,83365
+2174,S 3200   W,Cambridge,83608
+3040,W 2300   S,Pocatello,83459
+3050,W 2300   S,Cambridge,83361
+949,N 900   E,Pocatello,83321
+949,N 900   E,Pocatello,83475
+968,N 1000   E,Sun Valley,83468
+744,E 900   N,Cambridge,83330
+1369,W 1000   N,Cambridge,83436
+3502,W 1300   S,Pocatello,83313
+1591,S 3100   W,Caldwell,83369
+3033,W 1500   S,Caldwell,83482
+1003,N 575   E,Sun Valley,83592
+3058,W 2300   S,Cambridge,83489
+3042,W 2300   S,Sun Valley,83420
+3040,W 2300   S,Pocatello,83557
+2298,S 3000   W,Sun Valley,83454
+2282,S 3000   W,Cambridge,83600
+2640,W 800   S,Pocatello,83508
+850,S 2600   W,Sun Valley,83442
+2691,W 800   S,Pocatello,83363
+2400,W 1000   S,Cambridge,83372
+1000,S 2460   W,Sun Valley,83570
+2498,W 1000   S,Sun Valley,83532
+976,S 2400   W,Pocatello,83436
+976,S 2400   W,Sun Valley,83379
+1000,S 2460   W,Cambridge,83516
+2453,W 1000   S,Pocatello,83607
+1098,S 2400   W,Pocatello,83307
+2498,W 1100   S,Sun Valley,83395
+2453,W 1000   S,Cambridge,83480
+1056,S 2500   W,Cambridge,83397
+2481,W 1000   S,Cambridge,83585
+2453,W 1000   S,Caldwell,83518
+1050,S 2400   W,Caldwell,83474
+2498,W 1100   S,Caldwell,83559
+2431,W 1000   S,Sun Valley,83321
+2988,W 1400   S,Sun Valley,83534
+1353,S 3000   W,Pocatello,83456
+2884,W 1400   S,Pocatello,83321
+1378,S 2800   W,Caldwell,83385
+2870,W 1400   S,Cambridge,83308
+2804,W 1400   S,Sun Valley,83460
+1348,S 2800   W,Caldwell,83317
+1398,S 2800   W,Caldwell,83479
+2502,W 1400   S,Pocatello,83489
+2597,W 1300   S,Pocatello,83471
+2556,W 1400   S,Sun Valley,83475
+2531,W 1300   S,Pocatello,83503
+1326,S 2500   W,Sun Valley,83474
+2465,W 1400   S,Pocatello,83416
+2451,W 1400   S,Pocatello,83550
+2465,W 1400   S,Sun Valley,83484
+2864,W 1500   S,Pocatello,83420
+1450,S 2800   W,Sun Valley,83453
+2923,W 1400   S,Sun Valley,83443
+2954,W 1500   S,Sun Valley,83329
+2954,W 1500   S,Sun Valley,83378
+2923,W 1400   S,Cambridge,83425
+1544,S 2800   W,Caldwell,83460
+1556,S 2800   W,Pocatello,83592
+1521,S 2900   W,Cambridge,83563
+2850,W 1600   S,Cambridge,83572
+2852,W 1600   S,Cambridge,83317
+2831,W 1500   S,Caldwell,83557
+1544,S 2800   W,Cambridge,83594
+1556,S 2800   W,Caldwell,83338
+1551,S 2600   W,Pocatello,83364
+1515,S 2600   W,Cambridge,83561
+1569,S 2600   W,Pocatello,83340
+1540,S 2500   W,Cambridge,83304
+2530,W 1600   S,Caldwell,83504
+1599,S 2600   W,Sun Valley,83572
+2514,W 1600   S,Pocatello,83433
+2531,W 1700   S,Pocatello,83386
+2597,W 1700   S,Caldwell,83587
+1751,S 2600   W,Sun Valley,83439
+2,N 1500   W,Cambridge,83421
+1500,W 6   N,Caldwell,83470
+48,N 1500   W,Pocatello,83391
+2915,W 1800   S,Sun Valley,83358
+2933,W 1800   S,Caldwell,83394
+1876,S 2900   W,Cambridge,83454
+1824,S 2900   W,Caldwell,83455
+1803,S 3200   W,Cambridge,83548
+3205,W 1800   S,Sun Valley,83370
+3042,W 2000   S,Cambridge,83536
+3037,W 1900   S,Pocatello,83399
+3026,W 2100   S,Sun Valley,83390
+3041,W 2000   S,Pocatello,83422
+3005,W 2100   S,Cambridge,83490
+3005,W 2100   S,Sun Valley,83465
+3073,W 2100   S,Sun Valley,83515
+2711,W 1900   S,Cambridge,83367
+2761,W 1900   S,Cambridge,83554
+1905,S 2800   W,Cambridge,83586
+1964,S 2700   W,Sun Valley,83312
+1702,W 200   S,Cambridge,83357
+1767,W 200   S,Caldwell,83507
+1502,S 400   W,Pocatello,83452
+907,S 1500   W,Caldwell,83319
+947,S 1500   W,Caldwell,83403
+1715,W 200   N,Caldwell,83553
+1597,W 1075   S,Pocatello,83422
+586,S 1800   W,Caldwell,83309
+598,S 1800   W,Caldwell,83309
+692,S 1800   W,Caldwell,83491
+655,S 1900   W,Caldwell,83562
+1918,W 700   S,Pocatello,83501
+698,S 1950   W,Caldwell,83322
+2333,W 1100   S,Sun Valley,83590
+2874,W 700   S,Sun Valley,83561
+2459,W 1100   S,Pocatello,83469
+1648,S 2600   W,Pocatello,83507
+2697,W 1600 ST,Sun Valley,83353
+1685,S 2900   W,Pocatello,83601
+2861,W 1600   S,Cambridge,83334
+2852,W 1700   S,Sun Valley,83605
+1694,S 2800   W,Pocatello,83451
+1628,S 2800   W,Pocatello,83473
+1626,S 2800   W,Sun Valley,83449
+2866,W 1700   S,Cambridge,83511
+1633,S 2900   W,Caldwell,83326
+1672,S 2800   W,Sun Valley,83330
+1670,S 2800   W,Sun Valley,83550
+2801,W 1800   S,Caldwell,83582
+2841,W 1800   S,Cambridge,83462
+1852,S 2800   W,Caldwell,83445
+1852,S 2800   W,Sun Valley,83452
+1341,S 2600   W,Cambridge,83354
+2536,W 1400   S,Pocatello,83565
+2950,W 1500   S,Cambridge,83322
+1590,S 2800   W,Cambridge,83474
+2502,W 1800   S,Sun Valley,83546
+3037,W 1900   S,Cambridge,83359
+1981,S 2800   W,Caldwell,83437
+130,N 1700   W,Cambridge,83514
+1796,W TABER RD,Sun Valley,83502
+1796,W TABER RD,Caldwell,83445
+2349,W 300   S,Caldwell,83345
+548,S 1800   W,Sun Valley,83375
+688,S 1800   W,Caldwell,83569
+670,S 1900   W,Cambridge,83567
+1852,S 2800   W,Caldwell,83443
+1865,S 2900   W,Pocatello,83599
+2831,W 1800   S,Sun Valley,83331
+1932,S 2600   W,Sun Valley,83321
+1969,S 2600   W,Caldwell,83550
+1985,S 2600   W,Pocatello,83421
+1932,S 2600   W,Pocatello,83517
+1932,S 2600   W,Cambridge,83381
+1975,S 2600   W,Caldwell,83472
+2699,W 2000   S,Caldwell,83610
+2031,S 2700   W,Cambridge,83373
+2029,S 2700   W,Sun Valley,83323
+2695,W 2000   S,Sun Valley,83328
+2639,W 2000   S,Sun Valley,83509
+2959,W 2100   S,Caldwell,83413
+2979,W 2100   S,Cambridge,83381
+2710,W 2200   S,Cambridge,83536
+2175,S 2800   W,Sun Valley,83563
+2710,W 2200   S,Pocatello,83567
+2735,W 2100   S,Sun Valley,83348
+2241,S 2900   W,Caldwell,83594
+2815,W 2200   S,Sun Valley,83407
+2857,W HWY 39,Cambridge,83396
+2893,W 2200   S,Sun Valley,83607
+2200,S 2900   W,Pocatello,83367
+76,S 1800   W,Sun Valley,83419
+1873,W HOFF RD,Pocatello,83429
+256,S 2200   W,Caldwell,83473
+2214,W 800   S,Caldwell,83566
+2226,W 800   S,Sun Valley,83307
+2202,W HWY 39,Cambridge,83536
+2266,W 800   S,Sun Valley,83324
+822,S 2100   W,Caldwell,83600
+2121,W 850   S,Pocatello,83330
+2151,W HWY 39,Caldwell,83322
+814,S 2100   W,Cambridge,83440
+2146,W 850   S,Caldwell,83426
+2140,W 850   S,Caldwell,83422
+2146,W 850   S,Pocatello,83489
+874,S 2100   W,Cambridge,83400
+2193,W 800   S,Sun Valley,83531
+853,S 2200   W,Pocatello,83514
+802,S 2100   W,Caldwell,83426
+2127,W 800   S,Caldwell,83574
+2127,W 800   S,Pocatello,83404
+838,S 2100   W,Caldwell,83586
+2265,W 800   S,Caldwell,83318
+2308,W 900   S,Pocatello,83505
+852,S 2200   W,Pocatello,83325
+2249,W 800   S,Cambridge,83580
+992,S 2200   W,Sun Valley,83338
+2254,W 1000   S,Caldwell,83533
+960,S 2200   W,Cambridge,83563
+2295,W 900   S,Sun Valley,83334
+1306,S 2700   W,Caldwell,83463
+2704,W 1400   S,Caldwell,83559
+2794,W 1400   S,Caldwell,83443
+1336,S 2700   W,Cambridge,83486
+1352,S 2700   W,Cambridge,83427
+1336,S 2700   W,Cambridge,83566
+2201,W 1200   S,Pocatello,83413
+1267,S 2300   W,Caldwell,83545
+503,N 1500   W,Pocatello,83522
+505,N 1500   W,Caldwell,83611
+1556,W TABER,Caldwell,83378
+1543,W TABER,Sun Valley,83490
+1549,W TABER,Cambridge,83373
+1620,W TABER,Pocatello,83423
+1780,W 400   N,Pocatello,83556
+1721,W 500   N,Caldwell,83405
+491,N 15   W,Sun Valley,83582
+7,S LAVASIDE,Sun Valley,83607
+510,N 15   W,Pocatello,83376
+568,N 15   W,Cambridge,83578
+510,N 15   W,Pocatello,83354
+581,N 15   W,Sun Valley,83577
+582,N 15   W,Cambridge,83506
+77,W 600   N,Caldwell,83453
+567,N 100   W,Caldwell,83531
+583,N 15   W,Caldwell,83532
+583,N 15   W,Caldwell,83596
+583,N 15   W,Cambridge,83322
+597,N 15   W,Pocatello,83436
+502,N 15   W,Caldwell,83402
+502,N 15   W,Sun Valley,83460
+9,W 600   N,Pocatello,83318
+510,N 15   W,Caldwell,83350
+567,N 15   W,Pocatello,83484
+510,N 15   W,Sun Valley,83517
+523,N 100   W,Pocatello,83482
+9,W 600   N,Sun Valley,83386
+568,N 15   W,Pocatello,83447
+568,N 15   W,Caldwell,83591
+581,N 15   W,Caldwell,83543
+384,N 1700   W,Caldwell,83430
+1604,W 200   N,Cambridge,83544
+226,N 1600   W,Pocatello,83408
+1624,W 200   N,Cambridge,83495
+1656,W 200   N,Cambridge,83307
+282,N 1400   W,Cambridge,83406
+1504,W 200   N,Caldwell,83608
+1490,W 200   N,Cambridge,83367
+1021,N 1000   E,Pocatello,83603
+1026,E 1000   N,Sun Valley,83332
+1074,E 1000   N,Caldwell,83377
+1055,E 1100   N,Caldwell,83600
+1055,E 1100   N,Pocatello,83486
+1061,E 1100   N,Caldwell,83304
+1850,S 2800   W,Pocatello,83321
+1971,S 2600   W,Caldwell,83609
+2156,S 2900   W,Sun Valley,83489
+2100,S 2700   W,Cambridge,83566
+2239,S 2900   W,Pocatello,83470
+2218,W 800   S,Cambridge,83602
+1244,S 2800   W,Sun Valley,83326
+874,S 2100   W,Pocatello,83441
+1341,S 2800   W,Pocatello,83512
+851,N 1400   W,Pocatello,83319
+1390,W HWY 26,Caldwell,83579
+1390,W HWY 26,Pocatello,83528
+1676,W 700   N,Cambridge,83523
+1604,W TABER,Cambridge,83359
+1778,W 400   N,Caldwell,83334
+580,N 15   W,Caldwell,83346
+593,N 15   W,Cambridge,83589
+24,RIVER,Caldwell,83328
+580,N 15   W,Pocatello,83442
+580,N 15   W,Sun Valley,83342
+24,RIVER,Cambridge,83402
+495,N 1400   W,Pocatello,83313
+1063,E 1100   N,Cambridge,83313
+1036,N 1100   E,Sun Valley,83555
+1032,N 1100   E,Caldwell,83321
+1028,N 1100   E,Pocatello,83430
+1017,N 1000   E,Caldwell,83524
+1019,N 1000   E,Pocatello,83429
+1015,N 1000   E,Pocatello,83536
+1006,N 1100   E,Sun Valley,83369
+1060,N 1100   E,Sun Valley,83374
+1062,E 1000   N,Sun Valley,83548
+1062,E 1000   N,Cambridge,83323
+1070,E 1000   N,Pocatello,83421
+1091,E 1100   N,Caldwell,83318
+1016,E 1000   N,Sun Valley,83399
+1044,N 1100   E,Caldwell,83407
+1013,N 1000   E,Caldwell,83543
+1338,W 200   N,Caldwell,83425
+253,N 1400   W,Pocatello,83327
+253,N 1400   W,Cambridge,83533
+1395,W 200   N,Caldwell,83395
+1308,W HOFF,Cambridge,83497
+1342,W HOFF,Caldwell,83539
+26,N 1300   W,Caldwell,83403
+30,N 1300   W,Caldwell,83312
+1368,W HOFF,Cambridge,83562
+1336,W HOFF RD,Pocatello,83463
+20,N 1300   W,Pocatello,83364
+8,N 1300   W,Pocatello,83444
+2,N 1300   W,Pocatello,83476
+98,N 1300   W,Cambridge,83326
+2215,W 1100   S,Cambridge,83385
+1172,S 2200   W,Cambridge,83491
+1154,S 2200   W,Caldwell,83578
+1150,S 2200   W,Sun Valley,83481
+2298,W 1200   S,Caldwell,83508
+106,S 1400   W,Caldwell,83541
+1431,W 100   S,Cambridge,83498
+1462,W 200   S,Caldwell,83552
+1450,W 200   S,Caldwell,83302
+1456,W 200   S,Sun Valley,83382
+1416,W 200   S,Sun Valley,83566
+1416,W 200   S,Cambridge,83314
+163,S 1325   W,Pocatello,83351
+172,S 1300   W,Pocatello,83307
+119,S 1400   W,Cambridge,83385
+1376,W 200   S,Pocatello,83437
+1342,W 200   S,Sun Valley,83574
+1370,W 200   S,Cambridge,83456
+1370,W 200   S,Caldwell,83539
+1319,W 100   S,Sun Valley,83501
+1301,W 100   S,Pocatello,83454
+127,S 1400   W,Pocatello,83387
+156,S 1300   W,Pocatello,83389
+1093,S 2175   W,Sun Valley,83314
+2183,W 1090   S,Sun Valley,83457
+2193,W 1085   S,Pocatello,83415
+1021,S 2200   W,Sun Valley,83483
+1001,S 2200   W,Cambridge,83476
+1119,S 2185   W,Sun Valley,83490
+1153,S 2200   W,Caldwell,83574
+1141,S 2200   W,Cambridge,83392
+1384,N 695   E,Pocatello,83414
+1376,N 695   E,Cambridge,83371
+1375,N 695   E,Pocatello,83346
+693,E 1400   N,Sun Valley,83520
+1392,N 695   E,Cambridge,83347
+1386,N 695   E,Sun Valley,83595
+701,E 1400   N,Cambridge,83586
+701,E 1400   N,Caldwell,83568
+1375,N 600   E,Sun Valley,83340
+1404,W 300   S,Caldwell,83570
+202,S 1400   W,Pocatello,83388
+262,S 1400   W,Cambridge,83467
+1286,W 200   S,Sun Valley,83591
+244,S 1400   W,Pocatello,83355
+260,S 1400   W,Sun Valley,83604
+1443,W 200   S,Cambridge,83514
+1190,E 1400   N,Cambridge,83402
+1188,E 1400   N,Sun Valley,83521
+1197,E 1465   N,Pocatello,83404
+1195,E 1465   N,Cambridge,83497
+1463,N 1190   E,Caldwell,83325
+1459,N 1190   E,Sun Valley,83526
+1457,N 1190   E,Pocatello,83385
+1190,E 1440   N,Sun Valley,83580
+1461,N 1180   E,Caldwell,83547
+1451,N 1180   E,Sun Valley,83549
+1449,N 1180   E,Pocatello,83433
+1447,N 1180   E,Sun Valley,83381
+1445,N 1180   E,Pocatello,83514
+1443,N 1180   E,Pocatello,83464
+1441,N 1180   E,Pocatello,83347
+1440,N 1180   E,Sun Valley,83351
+1442,N 1180   E,Sun Valley,83481
+1444,N 1180   E,Sun Valley,83355
+1446,N 1180   E,Pocatello,83458
+1448,N 1180   E,Pocatello,83448
+1450,N 1180   E,Cambridge,83593
+1452,N 1180   E,Cambridge,83363
+1454,N 1180   E,Caldwell,83463
+1456,N 1180   E,Sun Valley,83378
+1458,N 1180   E,Cambridge,83535
+1460,N 1180   E,Sun Valley,83447
+1462,N 1190   E,Cambridge,83572
+1464,N 1190   E,Pocatello,83329
+1406,N 1200   E,Pocatello,83345
+1196,E 1465   N,Caldwell,83311
+1192,E 1465   N,Caldwell,83578
+1423,N 1100   E,Cambridge,83524
+1425,N 1100   E,Cambridge,83506
+1429,N 1100   E,Sun Valley,83415
+1431,N 1100   E,Cambridge,83347
+1437,N 1100   E,Pocatello,83390
+1439,N 1100   E,Pocatello,83569
+1441,N 1100   E,Cambridge,83385
+1445,N 1100   E,Sun Valley,83437
+1449,N 1100   E,Pocatello,83475
+1493,N 1100   E,Caldwell,83558
+1499,N 1100   E,Cambridge,83514
+1105,E 1500   N,Cambridge,83318
+1111,E 1500   N,Cambridge,83459
+1182,E 1400   N,Caldwell,83590
+1180,E 1400   N,Caldwell,83591
+1146,E 1400   N,Pocatello,83345
+1176,E 1400   N,Cambridge,83302
+1417,N 1100   E,Sun Valley,83498
+1157,E 1500   N,Cambridge,83584
+1472,N 1200   E,Caldwell,83308
+1184,E 1400   N,Sun Valley,83433
+1484,N 1200   E,Caldwell,83402
+1193,E 1500   N,Caldwell,83487
+1153,E 1500   N,Caldwell,83557
+1280,W HWY 26,Cambridge,83400
+1296,W HWY 26,Sun Valley,83429
+757,N 1300   W,Cambridge,83486
+779,N 1300   W,Caldwell,83494
+779,N 1300   W,Pocatello,83315
+781,N 1300   W,Sun Valley,83554
+1264,W HWY 26,Cambridge,83445
+436,S 1200   W,Sun Valley,83473
+490,S 1200   W,Sun Valley,83331
+478,S 1200   W,Caldwell,83383
+469,S 1300   W,Cambridge,83522
+440,S 1200   W,Pocatello,83346
+469,S 1300   W,Pocatello,83523
+1283,W 400   S,Pocatello,83455
+462,S 1200   W,Pocatello,83324
+491,S 1300   W,Caldwell,83408
+1374,W 500   S,Pocatello,83330
+491,S 1400   W,Caldwell,83517
+491,S 1400   W,Caldwell,83584
+1321,W 400   S,Caldwell,83477
+435,S 1400   W,Cambridge,83309
+438,S 1300   W,Sun Valley,83354
+475,S 1400   W,Pocatello,83500
+402,S 1300   W,Cambridge,83332
+410,S 1300   W,Cambridge,83457
+464,S 1300   W,Cambridge,83540
+408,S 1300   W,Cambridge,83495
+1375,W 400   S,Sun Valley,83354
+1643,W 500   S,Sun Valley,83481
+598,S 1600   W,Pocatello,83608
+560,S 1600   W,Sun Valley,83412
+1648,W 600   S,Caldwell,83572
+955,N 1000   E,Caldwell,83550
+906,N 1100   E,Sun Valley,83315
+1026,E 900   N,Cambridge,83468
+1069,E 1000   N,Caldwell,83504
+996,N 1100   E,Pocatello,83421
+1050,E 900   N,Pocatello,83503
+1030,E 900   N,Sun Valley,83479
+1034,E 900   N,Pocatello,83395
+1042,E 900   N,Caldwell,83461
+1087,E 1000   N,Sun Valley,83440
+1095,E 1000   N,Pocatello,83453
+1069,E 1000   N,Cambridge,83436
+1069,E 1000   N,Cambridge,83470
+1069,E 1000   N,Sun Valley,83510
+1087,E 1000   N,Pocatello,83581
+1003,E 1000   N,Caldwell,83550
+1069,E 1000   N,Cambridge,83340
+974,N 1100   E,Sun Valley,83306
+1072,E 1000   N,Cambridge,83394
+1098,E 1000   N,Caldwell,83459
+1051,E 1100   N,Pocatello,83405
+1091,E 1100   N,Pocatello,83386
+1051,E 1100   N,Sun Valley,83502
+24,N 1300   W,Pocatello,83477
+1304,HOFF,Sun Valley,83483
+2261,W 1100   S,Cambridge,83432
+1130,S 2200   W,Cambridge,83591
+163,S 1325   W,Cambridge,83385
+156,S 1300   W,Cambridge,83439
+1073,S 2200   W,Cambridge,83576
+1089,S 2175   W,Pocatello,83486
+2194,W 1090   S,Pocatello,83450
+2173,W 1115   S,Pocatello,83564
+687,E 1400   N,Sun Valley,83435
+1146,E 1400   N,Pocatello,83535
+1455,N 1100   E,Sun Valley,83577
+1476,N 1200   E,Caldwell,83405
+1146,E 1400   N,Caldwell,83413
+774,N 1200   W,Pocatello,83403
+1260,W HWY 26,Cambridge,83522
+1278,W HWY 26,Caldwell,83415
+1201,W 400   S,Pocatello,83432
+436,S 1300   W,Sun Valley,83523
+957,S 2200   W,Caldwell,83474
+953,S 2200   W,Caldwell,83415
+672,S 1400   W,Sun Valley,83451
+682,S 1400   W,Sun Valley,83470
+1453,W 600   S,Cambridge,83391
+1403,W 600   S,Sun Valley,83515
+1439,W 600   S,Pocatello,83527
+1479,W 600   S,Pocatello,83327
+610,S 1500   W,Pocatello,83428
+1519,W 600   S,Cambridge,83330
+693,S 1600   W,Cambridge,83465
+615,S 1600   W,Pocatello,83506
+647,S 1600   W,Cambridge,83488
+1583,W HWY 39,Pocatello,83481
+1525,W 600   S,Caldwell,83441
+1581,W 600   S,Sun Valley,83475
+1523,W 600   S,Pocatello,83510
+1581,W 600   S,Cambridge,83441
+1581,W 600   S,Cambridge,83365
+1581,W 600   S,Cambridge,83484
+1581,W 600   S,Caldwell,83482
+1619,W 600   S,Caldwell,83413
+688,S 1600   W,Sun Valley,83552
+1698,W 700   S,Pocatello,83409
+688,S 1600   W,Pocatello,83590
+677,S 1700   W,Sun Valley,83605
+1669,W 600   S,Sun Valley,83561
+1628,W 700   S,Caldwell,83516
+1622,W 700   S,Cambridge,83552
+688,S 1600   W,Sun Valley,83393
+373,S 1400   W,Pocatello,83542
+1385,W HWY 39,Pocatello,83360
+348,S 1300   W,Cambridge,83533
+1324,W 400   S,Caldwell,83519
+1396,W 400   S,Pocatello,83489
+334,S 1300   W,Sun Valley,83310
+304,S 1300   W,Sun Valley,83503
+335,S 1400   W,Pocatello,83433
+373,S 1400   W,Cambridge,83564
+1385,W HWY 39,Sun Valley,83508
+348,S 1300   W,Sun Valley,83435
+1324,W 400   S,Cambridge,83519
+1396,W 400   S,Pocatello,83346
+334,S 1300   W,Sun Valley,83570
+304,S 1300   W,Pocatello,83506
+335,S 1400   W,Cambridge,83598
+2250,S 3200   W,Cambridge,83524
+2202,S 3200   W,Sun Valley,83499
+846,S 2400   W,Pocatello,83456
+856,S 2400   W,Pocatello,83334
+810,S 2400   W,Pocatello,83577
+806,S 2400   W,Pocatello,83557
+808,S 2400   W,Sun Valley,83314
+1054,S 2600   W,Sun Valley,83353
+2652,W 1100   S,Pocatello,83483
+2633,W 1000   S,Sun Valley,83598
+1026,S 2600   W,Caldwell,83577
+2624,W 1100   S,Cambridge,83567
+2690,W 1100   S,Caldwell,83314
+2698,W 1100   S,Sun Valley,83467
+1115,S 2600   W,Sun Valley,83608
+1139,S 2600   W,Pocatello,83353
+1185,S 2600   W,Cambridge,83487
+1173,S 2600   W,Caldwell,83415
+2523,W 1100   S,Cambridge,83328
+651,N 900   E,Sun Valley,83484
+674,N 1000   E,Cambridge,83372
+603,N 900   E,Sun Valley,83465
+603,N 900   E,Sun Valley,83474
+990,PRESTO RD,Cambridge,83504
+938,E 600   N,Cambridge,83482
+655,N 900   E,Sun Valley,83565
+909,E 700   N,Caldwell,83318
+697,N 900   E,Sun Valley,83521
+663,N 900   E,Caldwell,83496
+917,E 700   N,Caldwell,83596
+923,E 700   N,Caldwell,83415
+648,N 1000   E,Caldwell,83573
+985,E 700   N,Caldwell,83322
+991,E 700   N,Pocatello,83310
+644,N 1000   E,Pocatello,83357
+689,N 900   E,Sun Valley,83568
+559,E 600   N,Pocatello,83555
+576,N 600   E,Pocatello,83468
+578,N 600   E,Cambridge,83477
+588,N 600   E,Caldwell,83331
+581,E 600   N,Cambridge,83317
+508,N 600   E,Caldwell,83391
+521,N 500   E,Sun Valley,83539
+541,N 500   E,Cambridge,83538
+572,N 600   E,Caldwell,83564
+572,N 600   E,Caldwell,83338
+597,E 600   N,Sun Valley,83426
+577,E 600   N,Sun Valley,83442
+573,E 600   N,Sun Valley,83321
+561,E 600   N,Cambridge,83580
+547,E 600   N,Pocatello,83535
+541,E 600   N,Pocatello,83386
+593,E 600   N,Sun Valley,83304
+548,N 600   E,Pocatello,83569
+1779,W 600   S,Caldwell,83436
+1752,W 700   S,Caldwell,83434
+631,S 1800   W,Cambridge,83529
+601,S 1800   W,Cambridge,83469
+601,S 1800   W,Pocatello,83347
+635,S 1800   W,Sun Valley,83336
+635,S 1800   W,Cambridge,83375
+774,S 2400   W,Pocatello,83563
+2445,W 700   S,Cambridge,83501
+1447,W 700   S,Sun Valley,83486
+1491,W 700   S,Pocatello,83547
+752,S 1400   W,Pocatello,83391
+742,S 1400   W,Caldwell,83351
+716,S 1400   W,Caldwell,83611
+1420,W 800   S,Sun Valley,83408
+1447,W 700   S,Sun Valley,83450
+744,S 1400   W,Pocatello,83601
+1489,W 700   S,Pocatello,83583
+772,S 1400   W,Cambridge,83399
+731,S 1500   W,Cambridge,83571
+752,S 1400   W,Caldwell,83554
+1481,W 700   S,Sun Valley,83493
+832,W 700   N,Pocatello,83461
+771,N 850   W,Cambridge,83306
+1025,S 1500   W,Cambridge,83437
+731,E 900   N,Caldwell,83560
+778,E 800   N,Pocatello,83482
+708,E 800   N,Sun Valley,83595
+753,E 900   N,Pocatello,83340
+703,E 900   N,Pocatello,83501
+793,E 900   N,Pocatello,83493
+853,N 700   E,Pocatello,83390
+794,E 800   N,Cambridge,83348
+788,E 800   N,Pocatello,83320
+756,E 800   N,Caldwell,83481
+756,E 800   N,Cambridge,83367
+752,E 800   N,Sun Valley,83567
+752,E 800   N,Cambridge,83414
+724,E 800   N,Cambridge,83391
+750,E 800   N,Cambridge,83602
+853,N 700   E,Caldwell,83302
+867,N 700   E,Caldwell,83402
+845,N 700   E,Pocatello,83397
+855,N 700   E,Pocatello,83381
+855,N 700   E,Pocatello,83498
+855,N 700   E,Caldwell,83341
+851,N 700   E,Cambridge,83313
+780,E 800   N,Caldwell,83609
+717,N 900   E,Caldwell,83571
+947,E 800   N,Pocatello,83468
+945,E 800   N,Cambridge,83585
+950,E 700   N,Pocatello,83353
+901,E 800   N,Caldwell,83531
+996,E 700   N,Caldwell,83323
+922,E 700   N,Caldwell,83337
+997,E 800   N,Pocatello,83447
+735,N 900   E,Caldwell,83508
+770,N 1000   E,Cambridge,83379
+950,E 700   N,Cambridge,83397
+965,E 800   N,Pocatello,83566
+1204,E 790   N,Caldwell,83322
+14,N 1800   W,Pocatello,83583
+108,W 400   N,Pocatello,83546
+162,W 400   N,Pocatello,83382
+465,N 150   W,Cambridge,83570
+454,N 150   W,Sun Valley,83458
+438,N 150   W,Cambridge,83568
+440,N 150   W,Sun Valley,83525
+434,N 150   W,Sun Valley,83565
+458,N 150   W,Caldwell,83322
+480,N 150   W,Pocatello,83486
+404,N 150   W,Caldwell,83573
+152,W 400   N,Sun Valley,83572
+422,N 150   W,Pocatello,83499
+414,N 150   W,Cambridge,83579
+417,N 150   W,Sun Valley,83456
+423,N 150   W,Pocatello,83413
+142,W 400   N,Caldwell,83609
+474,N 150   W,Cambridge,83571
+470,N 150   W,Sun Valley,83526
+106,W 400   N,Caldwell,83549
+423,N 150   W,Sun Valley,83534
+426,N 150   W,Sun Valley,83334
+403,N 150   W,Caldwell,83309
+403,N 150   W,Cambridge,83349
+140,W 450   N,Caldwell,83543
+429,N 150   W,Caldwell,83591
+435,N 150   W,Caldwell,83608
+487,N 150   W,Pocatello,83354
+126,W 450   N,Cambridge,83380
+152,W 400   N,Pocatello,83340
+365,ARCHERY RANGE RD,Sun Valley,83377
+953,S 2150   W,Sun Valley,83484
+2173,W 900   S,Pocatello,83416
+953,S 2150   W,Pocatello,83543
+953,S 2150   W,Cambridge,83370
+676,S 1500   W,Caldwell,83465
+1561,W 600   S,Sun Valley,83374
+1595,W 600   S,Sun Valley,83474
+1589,W 600   S,Cambridge,83305
+631,S 1600   W,Cambridge,83358
+1555,W HWY 39,Caldwell,83363
+1639,W 600   S,Cambridge,83545
+1639,W 600   S,Sun Valley,83406
+1639,W 600   S,Sun Valley,83316
+1394,W 400   S,Cambridge,83446
+348,S 1300   W,Cambridge,83316
+1394,W 400   S,Sun Valley,83406
+348,S 1300   W,Caldwell,83511
+1000,S 2698   W,Sun Valley,83517
+2681,W 1100   S,Cambridge,83445
+2624,W 1100   S,Caldwell,83471
+976,PRESTO,Sun Valley,83504
+913,E 700   N,Pocatello,83528
+997,E PRESTO RD,Sun Valley,83341
+550,N 600   E,Caldwell,83369
+543,N 500   E,Sun Valley,83400
+1772,W 700   S,Cambridge,83325
+749,S 1500   W,Sun Valley,83569
+716,N 850   W,Pocatello,83527
+820,W 700   N,Cambridge,83534
+770,N 1000   E,Caldwell,83517
+770,N 1000   E,Caldwell,83525
+945,E 800   N,Sun Valley,83310
+941,E 800   N,Pocatello,83532
+795,N 900   E,Cambridge,83446
+444,N 150   W,Caldwell,83374
+456,N 150   W,Cambridge,83495
+336,N COTTONWOOD LN,Sun Valley,83367
+365,ARCHERY RANGE RD,Pocatello,83555
+932,E PRESTO,Sun Valley,83487
+954,E 600   N,Sun Valley,83548
+954,E 600   N,Caldwell,83464
+954,E 600   N,Pocatello,83439
+948,E WOLVERINE,Pocatello,83446
+928,E PRESTO,Pocatello,83405
+909,E 600   N,Sun Valley,83439
+954,E 600   N,Sun Valley,83518
+2404,W 600   S,Caldwell,83593
+1528,W 550   S,Caldwell,83341
+1501,W 550   S,Cambridge,83504
+1510,W 550   S,Pocatello,83509
+1528,W 550   S,Caldwell,83333
+1521,W 550   S,Cambridge,83416
+546,S 1520   W,Caldwell,83605
+561,S 1530   W,Pocatello,83508
+1531,W 550   S,Sun Valley,83570
+1523,W 550   S,Pocatello,83385
+553,S 1530   W,Pocatello,83333
+558,S 1500   W,Sun Valley,83537
+1518,W 550   S,Sun Valley,83450
+545,S 1520   W,Sun Valley,83566
+1536,W 550   S,Caldwell,83473
+572,S 1500   W,Sun Valley,83553
+598,S 1500   W,Pocatello,83321
+561,S 1530   W,Pocatello,83422
+1523,W 560   S,Sun Valley,83466
+572,S 1500   W,Caldwell,83428
+562,S 1500   W,Pocatello,83575
+1582,W 600   S,Caldwell,83436
+561,S 1600   W,Cambridge,83320
+540,S 1530   W,Cambridge,83373
+1538,W 600   S,Caldwell,83529
+542,S 1530   W,Cambridge,83610
+529,S 1550   W,Caldwell,83506
+1499,W HWY 39,Cambridge,83358
+538,S 1530   W,Sun Valley,83426
+543,S 1520   W,Sun Valley,83308
+1565,W 550   S,Sun Valley,83485
+1552,W 600   S,Caldwell,83386
+544,S 1520   W,Cambridge,83490
+1533,W HWY 39,Sun Valley,83541
+534,S 1550   W,Cambridge,83576
+1373,W 600   S,Pocatello,83494
+634,S 1300   W,Caldwell,83383
+644,S 1300   W,Caldwell,83504
+676,S 1300   W,Pocatello,83565
+679,S 1400   W,Sun Valley,83524
+677,S 1400   W,Caldwell,83496
+626,S 1300   W,Caldwell,83392
+626,S 1300   W,Caldwell,83378
+692,S 1300   W,Sun Valley,83328
+685,S 1400   W,Pocatello,83560
+1597,W 1075   S,Pocatello,83452
+2953,W 1700   S,Caldwell,83373
+2934,W 1800   S,Caldwell,83358
+2923,W 1700   S,Caldwell,83460
+2947,W 1700   S,Cambridge,83360
+1730,S 2900   W,Sun Valley,83358
+2656,W 2000   S,Caldwell,83455
+2656,W 2000   S,Pocatello,83377
+1991,S 2700   W,Caldwell,83323
+1934,S 2600   W,Sun Valley,83609
+2615,W 1900   S,Cambridge,83515
+1962,S 2600   W,Cambridge,83442
+2639,W 1900   S,Cambridge,83352
+2691,W 1900   S,Pocatello,83494
+1990,S 2600   W,Caldwell,83301
+2675,W 1900   S,Caldwell,83398
+2092,S 2900   W,Sun Valley,83545
+2948,W 2100   S,Sun Valley,83455
+2930,W 2100   S,Pocatello,83551
+2084,S 2900   W,Sun Valley,83570
+2054,S 2950   W,Cambridge,83362
+2050,S 2950   W,Sun Valley,83413
+2091,S 2950   W,Sun Valley,83439
+2935,W 2050   S,Cambridge,83465
+2066,S 2950   W,Sun Valley,83483
+530,N 850   W,Cambridge,83549
+521,N 850   W,Cambridge,83358
+519,N 850   W,Caldwell,83422
+1161,W 600   N,Caldwell,83601
+598,N 1100   W,Sun Valley,83417
+405,N 1100   W,Caldwell,83417
+1083,W 500   N,Caldwell,83542
+950,W HWY 26,Sun Valley,83542
+960,W HWY 26,Cambridge,83494
+940,W HWY 26,Cambridge,83550
+920,W HWY 26,Sun Valley,83400
+997,W 500   N,Pocatello,83412
+921,W HWY 26,Caldwell,83594
+919,W HWY 26,Cambridge,83501
+961,W HWY 26,Cambridge,83424
+422,N 900   W,Cambridge,83528
+909,W HWY 26,Sun Valley,83554
+913,W HWY 26,Cambridge,83596
+917,W HWY 26,Pocatello,83424
+965,W HWY 26,Sun Valley,83521
+967,W HWY 26,Caldwell,83539
+993,W HWY 26,Caldwell,83400
+985,W HWY 26,Sun Valley,83573
+975,W HWY 26,Pocatello,83352
+977,W HWY 26,Pocatello,83489
+436,N 900   W,Pocatello,83602
+946,W HWY 26,Caldwell,83418
+428,N 700   W,Sun Valley,83532
+418,N 700   W,Caldwell,83602
+417,N 700   W,Cambridge,83353
+484,N 700   W,Caldwell,83403
+420,N 700   W,Cambridge,83312
+427,N 700   W,Caldwell,83365
+427,N 700   W,Caldwell,83606
+2664,W 1400   S,Pocatello,83435
+1374,S 2600   W,Cambridge,83480
+1385,S 2600   W,Cambridge,83552
+2613,W 1300   S,Pocatello,83609
+2665,W 1300   S,Pocatello,83422
+2665,W 1300   S,Sun Valley,83489
+2665,W 1300   S,Pocatello,83304
+2989,W 1500   S,Cambridge,83455
+1576,S 2900   W,Sun Valley,83459
+1564,S 2900   W,Sun Valley,83353
+2914,W 1600   S,Caldwell,83448
+1574,W 200   N,Pocatello,83505
+1578,W 200,Cambridge,83470
+1523,W 300   N,Sun Valley,83416
+225,N 1600   W,Cambridge,83302
+226,N 1600   W,Sun Valley,83395
+1559,W 300   N,Sun Valley,83577
+346,N 900   W,Sun Valley,83542
+936,W 350   N,Caldwell,83346
+1102,W 200   N,Caldwell,83410
+1875,S 2600   W,Pocatello,83473
+1742,W HOFF DR,Sun Valley,83434
+468,N 1100   W,Sun Valley,83316
+480,N 1100   W,Caldwell,83559
+492,N 1100   W,Pocatello,83430
+1382,E 600   N,Pocatello,83418
+480,N 2700   E,Cambridge,83537
+1532,W 550   S,Caldwell,83512
+255,W 200   N,Caldwell,83384
+1506,W 550   S,Pocatello,83570
+1501,W HWY 39,Caldwell,83603
+561,S 1530   W,Cambridge,83470
+590,N 850   W,Pocatello,83525
+590,N 850   W,Sun Valley,83348
+590,N 850   W,Sun Valley,83362
+413,N 1100   W,Cambridge,83566
+445,N 1100   W,Cambridge,83527
+492,N 900   W,Sun Valley,83526
+498,N 900   W,Sun Valley,83606
+918,W HWY 26,Pocatello,83524
+1574,W 200   N,Cambridge,83482
+348,N 900   W,Sun Valley,83331
+1150,W 200   N,Sun Valley,83502
+1702,W HOFF RD,Sun Valley,83545
+452,N 1100   W,Cambridge,83360
+482,N 1100   W,Sun Valley,83388
+1133,W 500   N,Cambridge,83454
+1125,W 500   N,Sun Valley,83330
+402,N 1100   W,Pocatello,83452
+416,N 1100   W,Caldwell,83540
+875,W 350   N,Caldwell,83509
+380,N 850   W,Pocatello,83339
+818,W 385   N,Pocatello,83553
+367,N 900   W,Cambridge,83380
+332,N 850   W,Pocatello,83371
+336,N 850   W,Pocatello,83439
+340,N 850   W,Caldwell,83454
+367,N 900   W,Sun Valley,83386
+370,N 850   W,Caldwell,83390
+867,W 350   N,Pocatello,83361
+330,N 850   W,Sun Valley,83361
+328,N 850   W,Pocatello,83515
+871,W 350   N,Sun Valley,83585
+871,W 350   N,Sun Valley,83454
+351,N 850   W,Cambridge,83448
+351,N 850   W,Sun Valley,83487
+847,W 390   N,Caldwell,83374
+381,N 850   W,Sun Valley,83329
+385,N 850   W,Sun Valley,83401
+843,W 390   N,Pocatello,83498
+382,N 840   W,Cambridge,83461
+384,N 840   W,Caldwell,83558
+825,W 375   N,Cambridge,83599
+821,W 375   N,Pocatello,83497
+385,N 840   W,Pocatello,83407
+383,N 840   W,Pocatello,83556
+825,W 385   N,Pocatello,83475
+838,W 385   N,Caldwell,83533
+820,W 375   N,Cambridge,83349
+819,W 385   N,Sun Valley,83606
+824,W 385   N,Caldwell,83564
+832,W 385   N,Cambridge,83375
+308,N 850   W,Sun Valley,83586
+2635,W 1750   S,Cambridge,83373
+1759,S 2700   W,Sun Valley,83554
+2635,W 1750   S,Sun Valley,83471
+1753,S 2700   W,Sun Valley,83493
+1755,S 2700   W,Pocatello,83412
+2694,W 1800   S,Caldwell,83317
+2702,W 1800   S,Sun Valley,83611
+2651,W 1750   S,Cambridge,83350
+2635,W 1750   S,Pocatello,83303
+2671,W 1700   S,Pocatello,83510
+2651,W 1750   S,Pocatello,83376
+2683,W 1750   S,Pocatello,83528
+2683,W 1750   S,Sun Valley,83465
+2683,W 1750   S,Cambridge,83582
+2683,W 1750   S,Pocatello,83459
+2683,W 1750   S,Cambridge,83570
+2623,W 1800   S,Pocatello,83594
+1855,S 2700   W,Pocatello,83506
+2620,W 1900   S,Pocatello,83378
+2650,W 1900   S,Pocatello,83585
+2673,W 1800   S,Caldwell,83443
+2633,W 1800   S,Caldwell,83319
+1825,S 2700   W,Caldwell,83546
+1345,N 950   E,Pocatello,83345
+1347,N 950   E,Caldwell,83414
+1303,N 950   E,Sun Valley,83366
+1343,N 950   E,Sun Valley,83501
+1339,N 950   E,Caldwell,83576
+997,E 1400   N,Caldwell,83496
+986,E 1300   N,Sun Valley,83526
+986,E 1300   N,Cambridge,83563
+1373,N 950   E,Pocatello,83575
+903,E 1400   N,Sun Valley,83336
+919,E 1400   N,Pocatello,83432
+984,E 1300   N,Pocatello,83344
+908,E 1300   N,Cambridge,83455
+904,E 1300   N,Sun Valley,83544
+1349,N 950   E,Caldwell,83369
+902,E 1300   N,Cambridge,83421
+924,E 1300   N,Pocatello,83501
+1308,N 950   E,Pocatello,83443
+1346,N 950   E,Sun Valley,83578
+986,E 1300   N,Sun Valley,83540
+959,E 1400   N,Pocatello,83484
+1391,N 950   E,Cambridge,83571
+1387,N 950   E,Pocatello,83406
+927,E 1400   N,Pocatello,83355
+955,E 1400   N,Caldwell,83387
+989,E 1400   N,Sun Valley,83537
+986,E 1300   N,Sun Valley,83551
+944,E 1300   N,Sun Valley,83408
+140,N 900   W,Cambridge,83492
+952,W 100   N,Pocatello,83439
+936,W 100   N,Caldwell,83498
+960,W 100   N,Cambridge,83311
+182,N 900   W,Caldwell,83347
+120,N 900   W,Cambridge,83329
+120,N 900   W,Cambridge,83511
+944,W 100   N,Cambridge,83396
+927,W 200   N,Pocatello,83326
+178,N 900   W,Caldwell,83370
+927,W 200   N,Sun Valley,83311
+927,W 200   N,Pocatello,83457
+975,W 125   N,Caldwell,83466
+1010,W 125   N,Pocatello,83310
+911,W 200   N,Caldwell,83551
+182,N 900   W,Sun Valley,83369
+102,N 900   W,Caldwell,83306
+106,N 900   W,Cambridge,83569
+116,N 900   W,Cambridge,83597
+112,N 900   W,Sun Valley,83357
+110,N 900   W,Caldwell,83602
+126,N 900   W,Caldwell,83451
+1198,W 125   N,Cambridge,83308
+1106,W 200   N,Caldwell,83591
+1105,W 200   N,Cambridge,83354
+1104,W HWY 39,Sun Valley,83382
+23,N 1200   W,Sun Valley,83471
+1158,W HWY 39,Cambridge,83526
+1164,W HWY 39,Sun Valley,83577
+1162,W HWY 39,Sun Valley,83528
+1186,W HOFF,Caldwell,83501
+1184,W HOFF RD,Caldwell,83586
+1184,"W HOFF     ""A""",Sun Valley,83390
+1186,W HOFF,Cambridge,83374
+35,N 1200   W,Cambridge,83530
+1150,W HWY 39,Sun Valley,83468
+221,W 350   N,Sun Valley,83361
+229,W 350   N,Pocatello,83309
+215,W 350   N,Sun Valley,83410
+316,N 200   W,Cambridge,83436
+292,W 300   N,Caldwell,83437
+279,W 350   N,Pocatello,83549
+378,N 200   W,Pocatello,83432
+250,W 350   N,Caldwell,83358
+291,W 330   N,Cambridge,83474
+293,W 330   N,Caldwell,83308
+297,W 330   N,Caldwell,83459
+296,W 320   N,Caldwell,83363
+288,W 320   N,Sun Valley,83399
+292,W 320   N,Pocatello,83511
+324,N 280   W,Pocatello,83466
+322,N 280   W,Caldwell,83391
+287,W 330   N,Caldwell,83540
+281,W 320   N,Pocatello,83531
+283,W 320   N,Pocatello,83415
+287,W 320   N,Caldwell,83436
+291,W 320   N,Sun Valley,83391
+319,N 300   W,Caldwell,83566
+295,W 320   N,Caldwell,83583
+286,W 320   N,Caldwell,83403
+285,W 320   N,Cambridge,83420
+329,N 280   W,Pocatello,83390
+321,N 280   W,Cambridge,83580
+282,W 330   N,Sun Valley,83329
+288,W 330   N,Cambridge,83529
+292,W 330   N,Pocatello,83318
+298,W 330   N,Pocatello,83312
+294,W 330   N,Pocatello,83408
+280,W 330   N,Pocatello,83378
+278,W 350   N,Cambridge,83425
+285,W 400   N,Pocatello,83301
+389,N 300   W,Sun Valley,83348
+344,N 200   W,Cambridge,83350
+391,N 300   W,Caldwell,83519
+275,W 350   N,Cambridge,83385
+279,W 350   N,Cambridge,83566
+309,N 300   W,Caldwell,83496
+305,N 300   W,Pocatello,83582
+298,W 300   N,Pocatello,83419
+208,W 300   N,Sun Valley,83472
+214,W 300   N,Caldwell,83410
+218,W 300   N,Pocatello,83495
+204,W 350   N,Sun Valley,83562
+358,N 200   W,Pocatello,83364
+362,N 200   W,Sun Valley,83544
+364,N 200   W,Pocatello,83588
+374,N 200   W,Sun Valley,83309
+372,N 200   W,Sun Valley,83325
+210,W 350   N,Pocatello,83451
+240,W 350   N,Sun Valley,83414
+400,N 200   W,Cambridge,83432
+400,N 200   W,Sun Valley,83587
+388,N 200   W,Caldwell,83430
+388,N 200   W,Sun Valley,83581
+287,W 400   N,Sun Valley,83433
+377,N 300   W,Cambridge,83346
+256,W 350   N,Sun Valley,83430
+271,W 350   N,Sun Valley,83407
+218,W 300   N,Pocatello,83551
+260,W 300   N,Pocatello,83331
+285,W 350   N,Sun Valley,83546
+262,W 350   N,Pocatello,83386
+344,N 200   W,Caldwell,83325
+375,N 300   W,Cambridge,83606
+53,S 900   W,Sun Valley,83364
+65,S 900   W,Pocatello,83504
+89,S 900   W,Sun Valley,83409
+832,W 100   S,Caldwell,83518
+808,W 100   S,Sun Valley,83316
+98,S 800   W,Cambridge,83496
+66,S 800   W,Sun Valley,83487
+815,W 60   S,Sun Valley,83335
+827,W HWY 39,Cambridge,83383
+821,W HWY 39,Sun Valley,83545
+81,S 900   W,Sun Valley,83599
+30,S 800   W,Caldwell,83478
+80,S 800   W,Sun Valley,83429
+886,W 100   S,Caldwell,83423
+834,W 100   S,Pocatello,83369
+67,S 900   W,Caldwell,83553
+71,S 900   W,Cambridge,83599
+850,W 100   S,Caldwell,83528
+844,W 100   S,Cambridge,83394
+870,W 100   S,Caldwell,83346
+878,W 100   S,Sun Valley,83475
+84,S 800   W,Caldwell,83531
+824,W 100   S,Cambridge,83578
+816,W 100   S,Caldwell,83576
+877,W HWY 39,Pocatello,83548
+81,S 900   W,Sun Valley,83399
+803,W HWY 39,Caldwell,83307
+24,S 800   W,Caldwell,83319
+821,W 40   S,Cambridge,83351
+817,W 40   S,Cambridge,83578
+803,W 40   S,Cambridge,83332
+805,W 40   S,Pocatello,83467
+90,S 800   W,Caldwell,83314
+10,S 800   W,Cambridge,83309
+807,W HWY 39,Sun Valley,83530
+20,S 800   W,Cambridge,83468
+12,S 800   W,Sun Valley,83424
+18,S 800   W,Caldwell,83382
+26,S 800   W,Caldwell,83474
+818,W 40   S,Sun Valley,83478
+818,W 40   S,Sun Valley,83537
+814,W 40   S,Sun Valley,83308
+812,W 40   S,Caldwell,83320
+808,W 40   S,Caldwell,83455
+802,W 40   S,Sun Valley,83491
+804,W 40   S,Sun Valley,83312
+822,W 40   S,Caldwell,83501
+815,W HWY 39,Pocatello,83580
+821,W HWY 39,Caldwell,83560
+58,S 800   W,Cambridge,83462
+74,S 800   W,Cambridge,83516
+854,W 100   S,Sun Valley,83334
+838,W 100   S,Caldwell,83550
+858,W 100   S,Caldwell,83381
+95,S 900   W,Pocatello,83505
+95,S 900   W,Caldwell,83398
+73,S 900   W,Cambridge,83306
+824,W 60   S,Sun Valley,83555
+825,W 60   S,Cambridge,83492
+91,S 900   W,Cambridge,83556
+855,W HWY 39,Cambridge,83343
+866,W 100   S,Caldwell,83527
+886,W 100   S,Cambridge,83481
+1253,S 2600   W,Cambridge,83395
+1217,S 2600   W,Sun Valley,83590
+2554,W 1300   S,Cambridge,83408
+739,E 1200   N,Cambridge,83434
+771,E 1200   N,Cambridge,83351
+751,E 1200   N,Caldwell,83463
+884,E 1100   N,Pocatello,83568
+755,E 1200   N,Caldwell,83398
+757,E 1200   N,Pocatello,83559
+757,E 1200   N,Cambridge,83548
+769,E 1200   N,Caldwell,83304
+767,E 1200   N,Pocatello,83462
+1150,N HWY 91,Sun Valley,83343
+1149,N HWY 91,Caldwell,83456
+874,E 1100   N,Sun Valley,83589
+498,N 1100   W,Pocatello,83351
+412,N 1100   W,Sun Valley,83367
+414,N 1100   W,Sun Valley,83327
+420,N 1100   W,Sun Valley,83380
+430,N 1100   W,Pocatello,83354
+841,W HWY 26,Cambridge,83484
+2745,W 1800   S,Cambridge,83376
+908,W 100   N,Caldwell,83431
+1160,W HWY 39,Cambridge,83373
+281,W 400   N,Sun Valley,83403
+325,N 300   W,Pocatello,83363
+327,N 300   W,Caldwell,83464
+325,N 280   W,Sun Valley,83443
+284,W 330   N,Pocatello,83545
+306,N 200   W,Cambridge,83482
+281,W 400   N,Pocatello,83362
+864,W 100   S,Pocatello,83458
+815,W 40   S,Cambridge,83368
+813,W 40   S,Caldwell,83583
+818,W 60   S,Pocatello,83470
+1147,N HWY 91,Caldwell,83304
+795,E 1200   N,Sun Valley,83557
+795,E 1200   N,Pocatello,83379
+844,E 1100   N,Cambridge,83438
+896,E 1100   N,Cambridge,83440
+870,E 1100   N,Caldwell,83415
+894,E 1100   N,Caldwell,83451
+1148,N 900   E,Caldwell,83305
+779,E 1200   N,Sun Valley,83460
+715,E 1200   N,Pocatello,83305
+1240,S 2600   W,Caldwell,83363
+1225,S 2700   W,Sun Valley,83572
+2653,W 1200   S,Cambridge,83530
+2660,W 1330   S,Cambridge,83558
+1293,S 2700   W,Caldwell,83364
+1292,S 2600   W,Pocatello,83365
+2607,W 1200   S,Cambridge,83465
+2660,W 1330   S,Cambridge,83371
+310,E 200   N,Sun Valley,83531
+351,E 300   N,Sun Valley,83334
+1336,W HWY 26,Sun Valley,83598
+745,N 1400   W,Pocatello,83607
+1375,W HWY 26,Sun Valley,83568
+712,N 1300   W,Pocatello,83600
+711,W 100   N,Caldwell,83469
+707,W 100   N,Caldwell,83562
+76,N 760   W,Caldwell,83524
+75,N 760   W,Sun Valley,83535
+44,N 700   W,Pocatello,83419
+781,W 100   N,Cambridge,83430
+85,N 760   W,Sun Valley,83426
+93,N 760   W,Cambridge,83483
+751,W 100   N,Cambridge,83538
+92,N 700   W,Cambridge,83316
+94,N 700   W,Caldwell,83499
+721,W 100   N,Cambridge,83349
+48,N 740   W,Caldwell,83493
+76,N 760   W,Sun Valley,83485
+86,N 760   W,Caldwell,83403
+80,N 760   W,Pocatello,83604
+767,W 100   N,Sun Valley,83517
+769,W 100   N,Cambridge,83508
+773,W 100   N,Caldwell,83356
+88,N 760   W,Sun Valley,83383
+769,W 100   N,Cambridge,83425
+94,N 760   W,Sun Valley,83423
+92,N 760   W,Cambridge,83453
+767,W 100   N,Caldwell,83591
+74,N 700   W,Sun Valley,83563
+779,W 100   N,Sun Valley,83574
+797,W 100   N,Cambridge,83472
+102,N 755   W,Sun Valley,83461
+754,W 100   N,Caldwell,83325
+724,W 100   N,Caldwell,83420
+101,N 740   W,Pocatello,83611
+102,N 740   W,Sun Valley,83567
+744,W 100   N,Caldwell,83493
+748,W 100   N,Sun Valley,83304
+752,W 100   N,Pocatello,83600
+84,N 740   W,Sun Valley,83431
+96,N 760   W,Cambridge,83578
+98,N 760   W,Cambridge,83534
+760,W 100   N,Caldwell,83393
+95,N 760   W,Sun Valley,83313
+757,W 100   N,Cambridge,83446
+73,N 740   W,Cambridge,83315
+81,N 760   W,Caldwell,83594
+82,N 740   W,Cambridge,83357
+22,N 725   W,Sun Valley,83546
+21,N 740   W,Cambridge,83350
+25,N 740   W,Sun Valley,83333
+33,N 740   W,Pocatello,83342
+42,N 740   W,Sun Valley,83366
+41,N 740   W,Cambridge,83580
+713,W 100   N,Sun Valley,83459
+720,W 100   N,Cambridge,83345
+722,W 100   N,Cambridge,83540
+94,N 740   W,Pocatello,83391
+75,N 800   W,Sun Valley,83562
+752,W HWY 39,Sun Valley,83463
+748,W HWY 39,Cambridge,83417
+762,W HWY 39,Pocatello,83494
+16,N 725   W,Pocatello,83392
+17,N 740   W,Cambridge,83511
+24,N 725   W,Sun Valley,83423
+80,N 740   W,Cambridge,83370
+702,W 100   N,Sun Valley,83362
+83,N 740   W,Sun Valley,83460
+79,N 740   W,Sun Valley,83453
+85,N 740   W,Sun Valley,83441
+19,N 740   W,Sun Valley,83563
+95,N 740   W,Sun Valley,83574
+95,N 740   W,Sun Valley,83426
+49,N 740   W,Caldwell,83369
+63,N 740   W,Caldwell,83525
+73,N 740   W,Caldwell,83485
+79,N 740   W,Sun Valley,83395
+24,N 740   W,Sun Valley,83318
+22,N 740   W,Cambridge,83406
+4,N 725   W,Pocatello,83435
+778,W HWY 39,Caldwell,83601
+790,W HWY 39,Sun Valley,83344
+68,N 700   W,Caldwell,83460
+38,N 700   W,Pocatello,83337
+19,N 710   W,Sun Valley,83431
+3,N 725   W,Caldwell,83445
+8,N 700   W,Pocatello,83529
+23,N 725   W,Caldwell,83329
+24,N 700   W,Caldwell,83348
+702,W 10   N,Caldwell,83458
+714,W HWY 39,Pocatello,83504
+14,N 710   W,Cambridge,83358
+16,N 700   W,Cambridge,83549
+714,W 10   N,Sun Valley,83561
+713,W 10   N,Pocatello,83457
+716,W 10   N,Pocatello,83533
+708,W 10   N,Sun Valley,83563
+34,N 700   W,Pocatello,83590
+30,N 700   W,Cambridge,83430
+60,N 700   W,Pocatello,83318
+48,N 700   W,Pocatello,83324
+589,N 150   W,Caldwell,83432
+119,W 600,Pocatello,83391
+140,W 500   N,Pocatello,83541
+578,N 100   W,Pocatello,83472
+125,W 600   N,Caldwell,83349
+599,N 150   W,Caldwell,83326
+124,W 500   N,Pocatello,83381
+574,N 100   W,Pocatello,83406
+523,N 150   W,Sun Valley,83412
+555,S 1400   W,Caldwell,83392
+1328,W 600   S,Pocatello,83548
+1370,W 600   S,Caldwell,83569
+565,S 1400   W,Sun Valley,83520
+549,S 1400   W,Cambridge,83337
+1328,W 600   S,Cambridge,83577
+502,S 1300   W,Cambridge,83326
+171,S 900   W,Sun Valley,83576
+833,W 100   S,Cambridge,83487
+162,S 800   W,Pocatello,83393
+154,S 800   W,Cambridge,83339
+146,S 800   W,Cambridge,83434
+102,S 800   W,Cambridge,83470
+873,W 100   S,Cambridge,83447
+811,W 100   S,Caldwell,83342
+825,W 100   S,Pocatello,83425
+109,S 900   W,Cambridge,83425
+829,W 100   S,Pocatello,83560
+161,S 900   W,Caldwell,83361
+167,S 900   W,Sun Valley,83510
+167,S 900   W,Sun Valley,83481
+821,W 100   S,Sun Valley,83350
+122,S 800   W,Cambridge,83518
+112,S 800   W,Pocatello,83345
+815,W 100   S,Pocatello,83490
+118,S 800   W,Cambridge,83605
+124,S 800   W,Cambridge,83600
+823,W 100   S,Sun Valley,83583
+190,S 800   W,Caldwell,83474
+174,S 800   W,Pocatello,83467
+180,S 800   W,Pocatello,83567
+171,S 900   W,Pocatello,83474
+891,W 100   S,Pocatello,83387
+835,W 100   S,Caldwell,83431
+1004,W 1000   S,Sun Valley,83488
+1010,S 2500   W,Pocatello,83338
+2503,W 1000   S,Pocatello,83476
+1050,S 2500   W,Cambridge,83360
+1027,S 2600   W,Cambridge,83443
+2509,W 1000   S,Caldwell,83399
+2445,W 1700   S,Sun Valley,83382
+750,E 700   N,Pocatello,83545
+726,N 800   E,Cambridge,83446
+726,N 800   E,Sun Valley,83542
+726,N 800   E,Sun Valley,83553
+723,E 800   N,Sun Valley,83396
+729,E 800   N,Sun Valley,83520
+745,N 700   E,Caldwell,83315
+700,E 723   N,Caldwell,83338
+740,E 700   N,Cambridge,83302
+743,E 800   N,Sun Valley,83476
+701,E 800   N,Sun Valley,83402
+709,E 800   N,Caldwell,83611
+729,E 800   N,Cambridge,83481
+779,N 700   E,Cambridge,83479
+766,N 700   E,Pocatello,83473
+760,N 700   E,Caldwell,83306
+774,N 700   E,Sun Valley,83400
+779,N 700   E,Pocatello,83393
+723,E 800   N,Sun Valley,83443
+724,E 700   N,Caldwell,83468
+740,E 700   N,Cambridge,83479
+734,E 700   N,Caldwell,83489
+776,N 700   E,Pocatello,83313
+726,N 800   E,Cambridge,83440
+726,N 800   E,Cambridge,83517
+726,E 700   N,Cambridge,83351
+740,N 800   E,Sun Valley,83374
+771,E 800   N,Pocatello,83580
+729,E 800   N,Caldwell,83538
+790,N 800   E,Sun Valley,83527
+705,W 100   S,Pocatello,83560
+749,W 100   S,Caldwell,83560
+121,S 725   W,Cambridge,83603
+799,W 100   S,Sun Valley,83368
+157,S 800   W,Cambridge,83389
+125,S 800   W,Pocatello,83523
+753,W 100   S,Sun Valley,83375
+105,S 800   W,Caldwell,83496
+759,W 100   S,Cambridge,83309
+761,W 100   S,Caldwell,83377
+715,W 100   S,Cambridge,83545
+103,S 725   W,Cambridge,83586
+123,S 725   W,Pocatello,83428
+741,W 100   S,Pocatello,83572
+767,W 100   S,Cambridge,83304
+781,W 100   S,Sun Valley,83379
+125,S 725   W,Sun Valley,83461
+158,S 725   W,Caldwell,83375
+151,S 800   W,Pocatello,83473
+153,S 800   W,Pocatello,83586
+185,S 800   W,Pocatello,83307
+735,W 100   S,Cambridge,83460
+106,S 725   W,Cambridge,83423
+158,S 725   W,Caldwell,83359
+155,S 800   W,Caldwell,83550
+189,S 800   W,Cambridge,83499
+785,W 100   S,Sun Valley,83552
+1219,W 600   S,Cambridge,83375
+1217,W 600   S,Pocatello,83510
+1215,W 600   S,Cambridge,83468
+1213,W 600   S,Pocatello,83594
+286,E 200   N,Caldwell,83512
+90,N 740   W,Pocatello,83453
+719,W 100   N,Pocatello,83450
+76,N 760   W,Sun Valley,83420
+90,N 740   W,Sun Valley,83307
+36,N 740   W,Cambridge,83579
+84,N 740   W,Cambridge,83460
+750,W HWY 39,Sun Valley,83592
+98,N 700   W,Pocatello,83408
+4,N 740   W,Pocatello,83355
+738,W HWY 39,Caldwell,83315
+15,N 725   W,Sun Valley,83491
+18,N 710   W,Caldwell,83398
+711,W 10   N,Pocatello,83530
+4,N 740   W,Pocatello,83546
+732,W 100   N,Caldwell,83597
+54,N 700   W,Cambridge,83350
+198,W 500   N,Cambridge,83534
+589,N 150   W,Pocatello,83330
+198,W 500   N,Caldwell,83568
+589,N 150   W,Pocatello,83549
+565,S 1400   W,Caldwell,83534
+146,S 800   W,Cambridge,83302
+141,S 900   W,Caldwell,83324
+161,S 900   W,Pocatello,83405
+828,W 200   S,Caldwell,83412
+828,W 200   S,Cambridge,83542
+1024,S 2500   W,Cambridge,83515
+1096,S 2500   W,Sun Valley,83583
+794,N 800   E,Cambridge,83318
+744,E 700   N,Sun Valley,83387
+792,N 800   E,Caldwell,83394
+747,E 800   N,Cambridge,83369
+183,S 800   W,Pocatello,83467
+737,W 100   S,Pocatello,83541
+187,S 800   W,Caldwell,83391
+127,S 725   W,Pocatello,83304
+651,S 1300   W,Cambridge,83526
+1219,W 600   S,Caldwell,83409
+1901,W 200   S,Sun Valley,83599
+265,S 1900   W,Caldwell,83316
+879,W 200   S,Cambridge,83393
+225,S 900   W,Cambridge,83330
+853,W 200   S,Sun Valley,83548
+275,S 900   W,Cambridge,83519
+825,W 200   S,Pocatello,83316
+881,W 200   S,Cambridge,83336
+893,W 200   S,Pocatello,83325
+203,S 900   W,Sun Valley,83576
+275,S 900   W,Sun Valley,83601
+275,S 900   W,Caldwell,83441
+275,S 900   W,Sun Valley,83335
+275,S 900   W,Caldwell,83382
+275,S 900   W,Pocatello,83400
+275,S 900   W,Pocatello,83610
+275,S 900   W,Pocatello,83359
+805,W 200   S,Sun Valley,83456
+283,S 900   W,Pocatello,83512
+223,S 900   W,Pocatello,83395
+853,W 200   S,Cambridge,83579
+286,S 1100   W,Sun Valley,83549
+297,S 1200   W,Cambridge,83424
+204,S 1100   W,Cambridge,83585
+220,S 1100   W,Caldwell,83610
+1165,W 200   S,Caldwell,83573
+286,S 1100   W,Cambridge,83582
+297,S 1200   W,Sun Valley,83580
+1191,W 200   S,Caldwell,83368
+174,S 1075   W,Pocatello,83367
+348,S 1100   W,Sun Valley,83541
+374,S 1100   W,Pocatello,83498
+357,S 1200   W,Pocatello,83609
+1184,S 2700   W,Caldwell,83588
+660,E 600   N,Cambridge,83409
+612,E 600   N,Caldwell,83367
+651,N 600   E,Pocatello,83576
+651,E 700   N,Sun Valley,83505
+670,E 600   N,Sun Valley,83551
+681,E 700   N,Sun Valley,83377
+681,E 700   N,Cambridge,83430
+607,N 600   E,Pocatello,83364
+681,E 700   N,Sun Valley,83434
+685,E 700   N,Caldwell,83524
+689,E 700   N,Cambridge,83489
+690,N 700   E,Pocatello,83507
+686,N 700   E,Pocatello,83344
+682,N 700   E,Pocatello,83421
+658,N 700   E,Pocatello,83310
+656,N 700   E,Pocatello,83376
+652,N 700   E,Sun Valley,83478
+693,E 700   N,Cambridge,83599
+697,N 600   E,Sun Valley,83397
+615,E 700   N,Pocatello,83598
+691,N 600   E,Sun Valley,83353
+617,E 700   N,Caldwell,83583
+661,N 600   E,Cambridge,83512
+619,E 700   N,Pocatello,83310
+633,E 700   N,Pocatello,83575
+629,E 700   N,Sun Valley,83496
+694,N 700   E,Sun Valley,83350
+651,N 600   E,Cambridge,83413
+651,N 600   E,Cambridge,83588
+685,N 600   E,Caldwell,83450
+655,N 600   E,Pocatello,83569
+675,E 700   N,Cambridge,83470
+669,E 700   N,Cambridge,83597
+669,N 600   E,Caldwell,83306
+667,N 600   E,Sun Valley,83302
+698,E 600   N,Sun Valley,83450
+638,N 700   E,Sun Valley,83478
+690,E 600   N,Pocatello,83311
+1078,W HWY 26,Caldwell,83554
+1040,W HWY 26,Cambridge,83555
+1024,W 500   N,Cambridge,83506
+1001,W HWY 26,Caldwell,83312
+575,N 1100   W,Pocatello,83598
+518,N 1000   W,Caldwell,83419
+1047,W HWY 26,Sun Valley,83466
+1039,W HWY 26,Cambridge,83521
+1036,W 500   N,Pocatello,83593
+1042,W 500   N,Cambridge,83586
+1046,W 500   N,Sun Valley,83391
+1026,W 500   N,Pocatello,83344
+1017,W HWY 26,Caldwell,83331
+1018,W 500   N,Caldwell,83390
+1025,W HWY 26,Pocatello,83395
+1018,W 500   N,Cambridge,83402
+1008,W 500   N,Pocatello,83492
+1005,W HWY 26,Pocatello,83594
+1010,W 500   N,Sun Valley,83535
+1011,W HWY 26,Cambridge,83464
+1012,W 500   N,Sun Valley,83446
+1013,W HWY 26,Sun Valley,83302
+1022,W 500   N,Caldwell,83443
+89,S 1200   W,Sun Valley,83490
+1165,W HWY 39,Sun Valley,83362
+1102,W 100   S,Pocatello,83485
+1174,W 100   S,Sun Valley,83478
+71,S 1200   W,Sun Valley,83488
+75,S 1200   W,Cambridge,83306
+59,S 1200   W,Caldwell,83512
+83,S 1200   W,Caldwell,83569
+1167,W HWY 39,Cambridge,83406
+68,S 1190   W,Cambridge,83340
+40,S 1190   W,Pocatello,83581
+1114,W 100   S,Sun Valley,83489
+1110,W 100   S,Cambridge,83523
+1118,W 100   S,Pocatello,83448
+1124,W 100   S,Pocatello,83484
+1122,W 100   S,Sun Valley,83486
+1146,W 100   S,Pocatello,83340
+70,S 1190   W,Cambridge,83586
+63,S 1190   W,Pocatello,83514
+61,S 1190   W,Sun Valley,83367
+59,S 1190   W,Sun Valley,83524
+57,S 1190   W,Pocatello,83404
+51,S 1190   W,Cambridge,83303
+53,S 1190   W,Caldwell,83535
+49,S 1190   W,Sun Valley,83407
+1193,W HWY 39,Cambridge,83500
+47,S 1190   W,Pocatello,83513
+41,S 1190   W,Sun Valley,83305
+43,S 1190   W,Caldwell,83556
+1193,W HWY 39,Caldwell,83551
+1193,W 45   S,Cambridge,83325
+65,S 1190   W,Cambridge,83435
+67,S 1190   W,Cambridge,83373
+69,S 1190   W,Pocatello,83488
+71,S 1190   W,Pocatello,83424
+73,S 1190   W,Cambridge,83456
+73,S 1200   W,Sun Valley,83347
+68,S 1190   W,Pocatello,83450
+67,S 1200   W,Caldwell,83422
+64,S 1190   W,Caldwell,83545
+65,S 1200   W,Cambridge,83436
+1102,W 100   S,Cambridge,83530
+81,S 1200   W,Caldwell,83439
+1195,W 45   S,Sun Valley,83313
+1191,W HWY 39,Pocatello,83386
+1193,W HWY 39,Sun Valley,83308
+1193,W HWY 39,Cambridge,83305
+1193,W HWY 39,Sun Valley,83542
+1196,W 45   S,Caldwell,83473
+1195,W HWY 39,Caldwell,83492
+44,S 1190   W,Cambridge,83565
+1194,W 45   S,Caldwell,83586
+48,S 1190   W,Cambridge,83479
+52,S 1190   W,Caldwell,83522
+54,S 1190   W,Pocatello,83367
+47,S 1200   W,Caldwell,83588
+56,S 1190   W,Cambridge,83516
+58,S 1190   W,Pocatello,83513
+81,S 1200   W,Cambridge,83463
+81,S 1200   W,Caldwell,83383
+1178,W 100   S,Pocatello,83361
+1160,W 100   S,Pocatello,83607
+1140,W 100   S,Cambridge,83520
+1136,W 100   S,Pocatello,83565
+1130,W 100   S,Cambridge,83368
+1198,W 100   S,Cambridge,83598
+1193,W HWY 39,Pocatello,83429
+58,S 1190   W,Sun Valley,83501
+40,S 1190   W,Pocatello,83310
+70,S 1190   W,Cambridge,83438
+1136,W 100   S,Cambridge,83435
+1193,W HWY 39,Caldwell,83506
+1167,W HWY 39,Caldwell,83363
+1167,W HWY 39,Sun Valley,83438
+1167,W HWY 39,Sun Valley,83480
+57,S 1190   W,Sun Valley,83365
+465,E 1200   N,Pocatello,83554
+1174,N 575   E,Pocatello,83435
+1167,N 575   E,Caldwell,83416
+597,E 1200   N,Pocatello,83368
+1125,N 575   E,Pocatello,83605
+1119,N 575   E,Sun Valley,83340
+1124,N 575   E,Sun Valley,83521
+1174,N 575   E,Sun Valley,83518
+967,W 200   S,Sun Valley,83398
+927,W 250   W,Caldwell,83431
+935,W 250   S,Pocatello,83520
+903,W 200   S,Pocatello,83323
+230,S 900   W,Caldwell,83566
+951,W 250   S,Pocatello,83325
+971,W 250   S,Caldwell,83519
+947,W 200   S,Sun Valley,83489
+943,W 200   S,Sun Valley,83322
+937,W 200   S,Pocatello,83482
+936,W 250   S,Cambridge,83394
+248,S 900   W,Caldwell,83373
+922,W 250   S,Pocatello,83429
+915,W 200   S,Pocatello,83301
+925,W 200   S,Cambridge,83327
+921,W 200   S,Sun Valley,83556
+937,W 200   S,Caldwell,83345
+921,W 250   S,Pocatello,83365
+907,W 275   S,Sun Valley,83430
+905,W 215   S,Caldwell,83423
+930,W 275   S,Cambridge,83547
+931,W 250   S,Pocatello,83440
+925,W 275   S,Cambridge,83321
+1197,N 2000   W,Pocatello,83594
+2079,W 1200   N,Caldwell,83408
+237,S 900   W,Caldwell,83379
+266,S 1100   W,Sun Valley,83502
+266,S 1100   W,Sun Valley,83580
+342,S 1100   W,Pocatello,83419
+322,S 1100   W,Pocatello,83449
+374,S 1100   W,Caldwell,83599
+340,S 1100   W,Cambridge,83596
+1124,S 2700   W,Cambridge,83342
+2796,W 1300   S,Sun Valley,83453
+682,N 700   E,Sun Valley,83452
+680,N 700   E,Sun Valley,83470
+676,N 700   E,Caldwell,83420
+672,N 700   E,Sun Valley,83344
+664,N 700   E,Cambridge,83492
+662,N 700   E,Sun Valley,83330
+620,N 700   E,Sun Valley,83452
+624,N 700   E,Pocatello,83453
+632,N 700   E,Cambridge,83598
+1018,W 500   N,Pocatello,83506
+0,W HWY 26,Caldwell,83506
+1150,W 100   S,Sun Valley,83465
+77,S 1200   W,Cambridge,83569
+79,S 1200   N,Cambridge,83402
+45,S 1190   W,Pocatello,83460
+69,S 1200   W,Caldwell,83318
+1193,W HWY 39,Caldwell,83501
+1193,W HWY 39,Pocatello,83335
+50,S 1190   W,Cambridge,83562
+46,S 1190   W,Cambridge,83495
+55,S 1200   W,Caldwell,83433
+46,S 1190   W,Cambridge,83467
+227,S 1000   W,Caldwell,83410
+960,W 250   S,Caldwell,83472
+934,W 250   S,Caldwell,83469
+226,S 900   W,Pocatello,83507
+0,FERRY BUTTE RD,Caldwell,83555
+0,FERRY BUTTE RD,Caldwell,83486
+1078,N 2000   W,Pocatello,83466
+792,S 2100   W,Sun Valley,83303
+774,S 2100   W,Pocatello,83423
+772,S 2100   W,Caldwell,83467
+2184,W 800   S,Caldwell,83468
+2146,W 800   S,Caldwell,83396
+2120,W HWY 39,Pocatello,83592
+2120,W HWY 39,Cambridge,83529
+2110,W 800   S,Caldwell,83522
+786,S 2100   W,Cambridge,83585
+835,S 1500   W,Sun Valley,83349
+801,S 1500   W,Pocatello,83324
+1716,S 2800   W,Caldwell,83480
+1738,S 2800   W,Caldwell,83575
+1740,S 2800   W,Sun Valley,83310
+2851,W 1700   S,Sun Valley,83567
+2870,W 1800   S,Pocatello,83352
+1792,S 2800   W,Caldwell,83316
+1752,S 2800   W,Caldwell,83424
+2837,W 1700   S,Cambridge,83486
+2837,W 1700   S,Pocatello,83413
+1780,S 2800   W,Pocatello,83500
+1788,S 2800   W,Cambridge,83532
+1746,S 2800   W,Cambridge,83335
+1723,S 2900   W,Sun Valley,83574
+1750,S 2800   W,Cambridge,83423
+1752,S 2800   W,Caldwell,83354
+2854,W 1800   S,Pocatello,83471
+1778,S 2800   W,Pocatello,83379
+3137,W 1500   S,Sun Valley,83537
+1053,W HWY 39,Pocatello,83405
+64,S 1000   W,Pocatello,83314
+50,S 1000   W,Pocatello,83590
+4,S 1000   W,Sun Valley,83362
+28,S 1000   W,Pocatello,83406
+1072,W 100   S,Caldwell,83472
+1062,W 100   S,Cambridge,83342
+67,S 1050   W,Cambridge,83591
+40,S 1050   W,Pocatello,83332
+1076,W 50   S,Sun Valley,83543
+1068,W 50   S,Sun Valley,83553
+1051,W 35   S,Pocatello,83303
+42,S 1050   W,Sun Valley,83451
+1065,W 30   S,Sun Valley,83611
+1069,W 30   S,Caldwell,83308
+1046,W 100   S,Sun Valley,83535
+1042,W 100   S,Caldwell,83591
+28,S 1050   W,Caldwell,83498
+9,S 1050   W,Cambridge,83370
+26,S 1050   W,Caldwell,83534
+1098,W 100   S,Pocatello,83305
+72,S 1000   W,Cambridge,83485
+73,S 1050   W,Sun Valley,83320
+75,S 1050   W,Pocatello,83375
+1060,W 100   S,Cambridge,83329
+1044,W 100   S,Pocatello,83452
+1056,W 100   S,Pocatello,83391
+1040,W 100   S,Pocatello,83340
+20,S 1050   W,Sun Valley,83311
+22,S 1050   W,Sun Valley,83327
+47,S 1050   W,Cambridge,83366
+27,S THOMPSON,Sun Valley,83611
+75,E RICH LN,Pocatello,83490
+7,E 75   S,Caldwell,83417
+62,E 75   S,Caldwell,83574
+95,E RICH LN,Sun Valley,83436
+87,E RICH LN,Cambridge,83434
+87,E RICH LN,Cambridge,83417
+19,E RICH LN,Cambridge,83307
+43,S THOMPSON,Pocatello,83582
+35,S THOMPSON,Sun Valley,83467
+31,S THOMPSON LN,Sun Valley,83573
+23,S THOMPSON LN,Cambridge,83367
+53,E RICH LN,Pocatello,83366
+9,S THOMPSON,Cambridge,83559
+9,E RICH LN,Sun Valley,83447
+17,E RICH LN,Cambridge,83502
+21,E RICH LN,Cambridge,83440
+5,S THOMPSON,Pocatello,83352
+7,E RICH LN,Pocatello,83321
+3,E RICH LN,Cambridge,83384
+1,S THOMPSON LN,Pocatello,83541
+73,E RICH LN,Cambridge,83523
+77,E RICH LN,Caldwell,83582
+53,E RICH LN,Sun Valley,83341
+52,E 75   S,Sun Valley,83441
+2680,W 1000   S,Pocatello,83527
+918,S 2600   W,Sun Valley,83559
+950,S 2600   W,Pocatello,83593
+2624,W 1000   S,Caldwell,83485
+2674,W 1000   S,Caldwell,83577
+116,N 1075   W,Caldwell,83309
+1065,W 125   N,Cambridge,83531
+1025,W 200   N,Pocatello,83322
+1023,W 200   N,Sun Valley,83458
+1024,W 125   N,Caldwell,83349
+1071,W 200   N,Caldwell,83497
+1065,W 125   N,Caldwell,83472
+1037,W 200   N,Sun Valley,83380
+1003,W 200   N,Sun Valley,83440
+124,N 1075   W,Caldwell,83325
+1065,W 125   N,Sun Valley,83499
+1077,W 125   N,Cambridge,83407
+1089,W 100   S,Sun Valley,83366
+1099,W 100   S,Sun Valley,83386
+1095,W 100   S,Cambridge,83511
+1091,W 100   S,Caldwell,83499
+1099,W 100   S,Pocatello,83585
+131,S 1075   W,Cambridge,83457
+174,S 1075   W,Cambridge,83512
+1077,W 100   S,Cambridge,83401
+198,S 1000   W,Pocatello,83598
+142,S 1000   W,Caldwell,83500
+136,S 1000   W,Cambridge,83463
+132,S 1000   W,Cambridge,83488
+124,S 1000   W,Cambridge,83492
+112,S 1000   W,Sun Valley,83420
+181,S 1100   W,Caldwell,83564
+176,S 1100   W,Pocatello,83537
+196,S 1000   W,Caldwell,83483
+178,S 1050   W,Sun Valley,83590
+174,S 1050   W,Pocatello,83314
+116,S 1075   W,Caldwell,83381
+150,S 1075   W,Caldwell,83357
+144,S 1075   W,Cambridge,83505
+107,S 1050   W,Sun Valley,83416
+1021,W 100   S,Cambridge,83531
+1017,W 100   S,Sun Valley,83591
+107,S 1050   W,Sun Valley,83348
+1041,W 100   S,Sun Valley,83500
+105,S 1050   W,Caldwell,83332
+1043,W 100   S,Pocatello,83486
+1043,W 100   S,Cambridge,83445
+105,S 1050   W,Sun Valley,83439
+122,S 1000   W,Caldwell,83584
+102,S 1000   W,Sun Valley,83546
+1057,W 125   S,Sun Valley,83442
+1069,W 125   S,Pocatello,83592
+110,S 1075   W,Cambridge,83358
+1009,W 100   S,Sun Valley,83575
+1071,W 110   S,Cambridge,83611
+122,S 1075   W,Sun Valley,83587
+1043,W 100   S,Caldwell,83594
+1043,W 100   S,Caldwell,83377
+1073,W 125   S,Pocatello,83407
+1069,W 125   S,Pocatello,83574
+118,S 1075   W,Caldwell,83506
+124,S 1075   W,Caldwell,83402
+124,S 1075   W,Sun Valley,83360
+143,S 1075   W,Cambridge,83532
+149,S 1075   W,Caldwell,83486
+1065,W 125   S,Caldwell,83569
+1087,W 100   S,Cambridge,83443
+1083,W 100   S,Cambridge,83304
+1081,W 100   S,Caldwell,83596
+1041,W 100   S,Caldwell,83346
+1041,W 100   S,Cambridge,83595
+1064,W 125   S,Caldwell,83452
+1063,W 110   S,Caldwell,83442
+1068,W 125   S,Caldwell,83410
+1071,W 110   S,Pocatello,83470
+1054,W 125   S,Sun Valley,83574
+1053,W 110   S,Cambridge,83476
+1055,W 110   S,Sun Valley,83481
+1067,W 100   S,Sun Valley,83405
+1070,W 110   S,Pocatello,83504
+1071,W 100   S,Caldwell,83415
+182,S 1050   W,Pocatello,83370
+1023,W 100   S,Sun Valley,83597
+118,S 1075   W,Cambridge,83581
+174,S 1075   W,Cambridge,83599
+1073,W 125   S,Cambridge,83370
+463,N 400   W,Sun Valley,83404
+443,N 400   W,Sun Valley,83561
+434,N 300   W,Sun Valley,83335
+417,N 400   W,Sun Valley,83347
+429,N 400   W,Caldwell,83382
+469,N 400   W,Sun Valley,83510
+406,N 300   W,Sun Valley,83539
+427,N 400   W,Caldwell,83352
+360,W 450   N,Sun Valley,83458
+487,N 400   W,Pocatello,83554
+489,N 400   W,Pocatello,83488
+491,N 400   W,Caldwell,83573
+398,W 450   N,Pocatello,83464
+370,W 450   N,Caldwell,83511
+453,N 325   W,Cambridge,83312
+497,N 400   W,Cambridge,83318
+435,N 400   W,Pocatello,83356
+477,N 325   W,Pocatello,83455
+497,N 400   W,Cambridge,83339
+473,N 400   W,Cambridge,83307
+443,N 400   W,Pocatello,83315
+443,N 400   W,Pocatello,83608
+437,N 400   W,Sun Valley,83552
+337,W 450   N,Cambridge,83490
+405,N 400   W,Caldwell,83460
+408,N 300   W,Sun Valley,83383
+413,N 700   W,Pocatello,83498
+3155,W 1500   S,Cambridge,83466
+3168,W 1600   S,Caldwell,83387
+6,S 1000   W,Cambridge,83449
+2,S 1000   W,Caldwell,83514
+40,S 1000   W,Cambridge,83478
+36,S 1050   W,Sun Valley,83394
+34,S 1050   W,Sun Valley,83321
+1076,W 100   S,Cambridge,83586
+1094,W 100   S,Sun Valley,83391
+1094,W 100   S,Pocatello,83497
+91,E RICH LN,Sun Valley,83584
+51,S THOMPSON LN,Sun Valley,83351
+29,S THOMPSON,Pocatello,83432
+13,E RICH LN,Caldwell,83517
+23,E RICH LN,Caldwell,83332
+69,E RICH LN,Pocatello,83511
+1005,W 200   N,Pocatello,83531
+135,S 1075   W,Cambridge,83494
+1059,W 100   S,Cambridge,83586
+144,S 1000   W,Caldwell,83601
+1063,W 125   S,Cambridge,83565
+135,S 1075   W,Pocatello,83455
+131,S 1075   W,Pocatello,83439
+135,S 1075   W,Cambridge,83390
+144,S 1000   W,Sun Valley,83363
+130,S 1000   W,Sun Valley,83487
+1059,W 100   S,Cambridge,83312
+135,S 1075   W,Cambridge,83429
+139,S 1075   W,Pocatello,83391
+433,N 400   W,Caldwell,83554
+810,W 650   S,Caldwell,83542
+206,W 550   N,Sun Valley,83386
+0,JOHNSON RD,Pocatello,83305
+201,BRONCHO RD,Sun Valley,83452
+0,BRONCHO RD,Pocatello,83321
+178,W FERRY BUTTE RD,Caldwell,83559
+719,BRONCHO RD,Sun Valley,83346
+1312,N 600   E,Caldwell,83417
+1374,N 600   E,Caldwell,83486
+1151,N 1100   E,Pocatello,83550
+1095,E 1200   N,Sun Valley,83470
+1120,N 1200   E,Cambridge,83455
+1151,N 1100   E,Caldwell,83495
+1104,N 1200   E,Cambridge,83378
+1108,N 1200   E,Caldwell,83572
+1114,N 1200   E,Sun Valley,83381
+1063,E 1200   N,Sun Valley,83331
+1126,N 1200   E,Pocatello,83364
+1124,N 1100   E,Cambridge,83434
+971,E 1200   N,Pocatello,83494
+1054,E 1100   N,Sun Valley,83423
+1096,E 1100   N,Cambridge,83407
+983,E 1200   N,Sun Valley,83456
+985,E 1200   N,Sun Valley,83534
+981,E 1200   N,Cambridge,83301
+945,E 1200   N,Sun Valley,83538
+975,E 1200   N,Pocatello,83382
+1118,N 1100   E,Pocatello,83566
+1171,N 1000   E,Cambridge,83569
+1167,N 1000   E,Cambridge,83307
+1179,N 1000   E,Pocatello,83422
+1161,N 1000   E,Pocatello,83412
+1133,N 1000   E,Pocatello,83544
+1177,N 1000   W,Cambridge,83472
+1175,N 1000   E,Cambridge,83471
+1127,W 100   S,Sun Valley,83480
+182,S 1100   W,Cambridge,83479
+1177,W 100   S,Sun Valley,83486
+178,S 1100   W,Cambridge,83344
+1168,W 200   N,Pocatello,83588
+143,S 1200   W,Sun Valley,83355
+1200,W 100   S,Cambridge,83352
+1597,W 1075   S,Cambridge,83398
+1576,W 1075   S,Sun Valley,83417
+1026,S 1500   W,Cambridge,83418
+1057,S 1580   W,Pocatello,83513
+1067,S 1580   W,Sun Valley,83371
+1525,W 1075   S,Caldwell,83372
+1595,W 1075   S,Pocatello,83552
+2204,S 2900   W,Cambridge,83583
+2271,S 3000   W,Sun Valley,83457
+2980,W 2300   S,Pocatello,83595
+2959,W 2200   S,Pocatello,83554
+2902,W 2300   S,Pocatello,83423
+2971,W 2200   S,Caldwell,83420
+267,N 800   W,Cambridge,83600
+269,N 800   W,Pocatello,83305
+756,W 200   N,Pocatello,83408
+764,W 200   N,Caldwell,83450
+206,N 750   W,Caldwell,83449
+216,N 750   W,Cambridge,83539
+218,N 750   W,Pocatello,83513
+787,W 250   N,Caldwell,83358
+223,N 750   W,Cambridge,83522
+710,W 200   N,Caldwell,83544
+726,W 200   N,Pocatello,83590
+208,N 740   W,Cambridge,83404
+718,W 200   N,Caldwell,83397
+730,W 200   N,Cambridge,83482
+254,N 750   W,Sun Valley,83360
+257,N 800   W,Caldwell,83600
+784,W 250   N,Caldwell,83302
+776,W 250   N,Sun Valley,83305
+784,W 250   N,Pocatello,83474
+766,W 250   N,Cambridge,83531
+760,W 250   N,Sun Valley,83478
+758,W 250   N,Sun Valley,83346
+726,W 200   N,Cambridge,83328
+263,N 800   W,Pocatello,83598
+276,N 750   W,Cambridge,83476
+233,N 800   W,Sun Valley,83321
+790,W 200   N,Sun Valley,83487
+266,N 750   W,Pocatello,83449
+747,W HWY 26,Caldwell,83504
+726,W 200   N,Caldwell,83597
+740,W 200   N,Pocatello,83598
+742,W 200   N,Pocatello,83446
+760,W 200   N,Caldwell,83321
+240,N 750   W,Pocatello,83339
+211,N 740   W,Sun Valley,83323
+748,W 200   N,Pocatello,83410
+702,W 200   N,Cambridge,83388
+724,W 200   N,Sun Valley,83461
+207,N 740   W,Caldwell,83310
+792,W 200   N,Sun Valley,83393
+792,W 200   N,Cambridge,83330
+262,N 700   W,Cambridge,83302
+252,N 750   W,Caldwell,83594
+748,W 250   N,Sun Valley,83598
+772,W 200   N,Pocatello,83551
+770,W 200   N,Caldwell,83415
+768,W 200   N,Sun Valley,83453
+259,N 800   W,Sun Valley,83438
+251,N 800   W,Sun Valley,83586
+750,W 200   N,Cambridge,83387
+226,N 750   W,Pocatello,83408
+220,N 740   W,Caldwell,83310
+726,W 200   N,Caldwell,83433
+1065,E 1200   N,Caldwell,83345
+1065,E 1200   N,Cambridge,83343
+1125,N 1000   E,Sun Valley,83354
+1056,E 1100   N,Cambridge,83306
+1044,E 1100   N,Cambridge,83429
+167,S 1200   W,Caldwell,83488
+178,S 1100   W,Caldwell,83496
+1576,W 1075   S,Sun Valley,83523
+210,N 700   W,Cambridge,83479
+704,W 200   N,Caldwell,83403
+272,N 700   W,Pocatello,83520
+788,W 250   N,Cambridge,83359
+266,N 700   W,Sun Valley,83470
+708,W 200   N,Caldwell,83481
+738,W 200   N,Caldwell,83514
+254,N 700   W,Sun Valley,83459
+708,W HWY 26,Cambridge,83337
+258,N 700   W,Caldwell,83348
+250,N 700   W,Sun Valley,83573
+704,W HWY 26,Pocatello,83370
+224,N 750   W,Sun Valley,83511
+792,W 250   N,Caldwell,83456
+726,W 200   N,Pocatello,83543
+769,RIVERTON RD,Sun Valley,83527
+707,W 300   S,Caldwell,83536
+800,W RIVERTON RD,Sun Valley,83598
+737,W RIVERTON RD,Pocatello,83576
+757,W RIVERTON,Cambridge,83413
+717,W 300   S,Sun Valley,83610
+314,S 700   W,Pocatello,83420
+1650,W 800   S,Cambridge,83578
+1655,W 700   S,Caldwell,83312
+1697,W 700   S,Sun Valley,83550
+760,S HWY 39,Pocatello,83592
+1625,W 700   S,Cambridge,83422
+1633,W HWY 39,Cambridge,83362
+760,S HWY 39,Caldwell,83343
+1680,W 800   S,Sun Valley,83545
+705,S 1700   W,Sun Valley,83391
+1601,W 700   S,Cambridge,83451
+760,S HWY 39,Cambridge,83407
+1652,W 800   S,Caldwell,83422
+1652,W 800   S,Pocatello,83508
+1611,W 700   S,Pocatello,83608
+948,E 1100   N,Pocatello,83517
+974,E 1100   N,Caldwell,83473
+841,E 1200   N,Cambridge,83507
+843,E 1200   N,Cambridge,83570
+964,E 1100   N,Caldwell,83402
+962,E 1100   N,Cambridge,83527
+877,E 1200   N,Caldwell,83365
+883,E 1200   N,Pocatello,83563
+875,E 1200   N,Pocatello,83449
+879,E 1200   N,Sun Valley,83537
+881,E 1200   N,Pocatello,83367
+968,E 1100   N,Cambridge,83363
+972,E 1100   N,Cambridge,83404
+946,E 1100   N,Cambridge,83370
+944,E 1100   N,Sun Valley,83390
+1119,N 900   E,Caldwell,83449
+1095,N 900   E,Caldwell,83462
+1131,N 900   E,Cambridge,83334
+869,E 1200   N,Caldwell,83354
+865,E 1200   N,Sun Valley,83344
+865,E 1200   N,Caldwell,83422
+1166,N 1000   E,Pocatello,83530
+950,E 1100   N,Cambridge,83565
+883,E 1200   N,Caldwell,83580
+883,E 1200   N,Pocatello,83604
+883,E 1200   N,Cambridge,83426
+300,LINCOLN,Sun Valley,83565
+237,WASHINGTON,Cambridge,83490
+228,WASHINGTON,Pocatello,83316
+320,LINCOLN,Caldwell,83360
+734,N HWY 91,Sun Valley,83458
+411,S MAIN,Caldwell,83302
+312,S FRANKLIN,Pocatello,83424
+113,N FRANKLIN,Pocatello,83399
+109,N FRANKLIN,Caldwell,83464
+105,N FRANKLIN,Cambridge,83491
+101,FRANKLIN,Caldwell,83336
+118,S FRANKLIN,Sun Valley,83365
+202,E CENTER,Cambridge,83488
+101,S FRANKLIN ST,Cambridge,83424
+217,S FRANKLIN,Sun Valley,83564
+255,S FRANKLIN,Caldwell,83332
+208,S FRANKLIN,Caldwell,83490
+204,E CENTER,Caldwell,83508
+101,S FRANKLIN ST,Pocatello,83414
+224,S FRANKLIN,Pocatello,83353
+200,E CENTER,Pocatello,83577
+124,S FRANKLIN,Pocatello,83373
+124,S FRANKLIN,Cambridge,83449
+124,FRANKLIN,Cambridge,83391
+107,E CENTER,Pocatello,83342
+330,LINCOLN,Caldwell,83319
+232,WASHINGTON,Cambridge,83431
+302,N PARK,Sun Valley,83572
+303,W GARFIELD,Sun Valley,83437
+310,GARFIELD (& 312),Pocatello,83369
+316,S FRANKLIN,Caldwell,83610
+317,S FRANKLIN,Caldwell,83427
+732,HWY 91,Cambridge,83511
+593,E 750   N,Cambridge,83422
+730,N 600   E,Sun Valley,83470
+591,E 750   N,Caldwell,83330
+732,N 600   E,Caldwell,83393
+594,E 750   N,Sun Valley,83356
+598,E 750   N,Caldwell,83485
+758,N 600   E,Pocatello,83547
+596,E 750   N,Pocatello,83559
+206,WILSON,Sun Valley,83324
+108,WILSON,Cambridge,83466
+402,S PINE,Sun Valley,83455
+202,ADAMS,Pocatello,83570
+304,S PINE,Caldwell,83432
+211,WILSON,Caldwell,83434
+226,WILSON,Sun Valley,83304
+224,WILSON,Cambridge,83371
+222,WILSON,Pocatello,83529
+220,WILSON,Sun Valley,83443
+208,WILSON,Cambridge,83364
+225,ROOSEVELT,Sun Valley,83435
+237,ROOSEVELT,Pocatello,83580
+235,ROOSEVELT,Pocatello,83345
+215,ROOSEVELT,Caldwell,83532
+209,ROOSEVELT,Caldwell,83362
+108,N PINE,Pocatello,83392
+124,W CENTER,Sun Valley,83490
+121,W CENTER,Cambridge,83320
+211,LINCOLN,Pocatello,83565
+215,LINCOLN,Sun Valley,83512
+251,LINCOLN,Sun Valley,83337
+252,W CENTER,Sun Valley,83575
+244,W CENTER,Pocatello,83446
+236,W CENTER,Sun Valley,83520
+226,W CENTER,Caldwell,83572
+216,W CENTER,Sun Valley,83342
+206,W CENTER,Sun Valley,83539
+230,ROOSEVELT,Sun Valley,83507
+220,ROOSEVELT,Caldwell,83363
+124,LINCOLN,Caldwell,83371
+220,WASHINGTON,Caldwell,83404
+200,N PARK,Sun Valley,83427
+0,236  1/2  LINCOLN,Sun Valley,83449
+225,WASHINGTON,Sun Valley,83347
+219,WASHINGTON,Cambridge,83584
+215,WASHINGTON,Pocatello,83401
+209,WASHINGTON,Pocatello,83522
+405,N MAIN,Cambridge,83539
+122,WASHINGTON,Sun Valley,83499
+321,N MAIN,Caldwell,83341
+210,W ROOSEVELT,Sun Valley,83406
+204,ADAMS,Cambridge,83542
+109,WILSON,Pocatello,83305
+118,GARFIELD,Caldwell,83566
+109,ROOSEVELT,Caldwell,83399
+118,LINCOLN,Pocatello,83541
+121,LINCOLN,Cambridge,83571
+121,FRANKLIN,Cambridge,83322
+120,N FRANKLIN,Pocatello,83431
+207,E CENTER,Caldwell,83360
+120,N FRANKLIN,Pocatello,83499
+118,N FRANKLIN,Cambridge,83512
+116,N FRANKLIN,Sun Valley,83366
+117,FRANKLIN   N,Pocatello,83351
+205,E CENTER,Caldwell,83319
+202,S FRANKLIN,Pocatello,83410
+218,S FRANKLIN,Caldwell,83446
+125,WASHINGTON,Sun Valley,83474
+301,ROOSEVELT,Sun Valley,83605
+728,N 600   E,Caldwell,83383
+428,LINCOLN,Sun Valley,83400
+320,LINCOLN,Pocatello,83570
+121,WASHINGTON,Sun Valley,83524
+589,E RIVER RD,Sun Valley,83583
+598,E RIVER RD,Cambridge,83312
+762,N 600   E,Caldwell,83578
+706,N HWY 91,Caldwell,83501
+702,N 550   E,Pocatello,83474
+207,ADAMS (C),Cambridge,83491
+209,ADAMS ST,Pocatello,83446
+209,ADAMS ST,Cambridge,83383
+513,E RIVER RD,Caldwell,83521
+515,E RIVER RD,Cambridge,83460
+515,E RIVER RD,Pocatello,83351
+572,E 700   N,Sun Valley,83347
+768,W 250   N,Caldwell,83449
+2535,E SELLARS CREEK RD,Pocatello,83425
+341,N 2550   E,Pocatello,83512
+2535,E SELLARS CREEK RD,Cambridge,83521
+1215,N 950   E,Caldwell,83566
+300,N 2550   E,Cambridge,83594
+350,S 700   W,Pocatello,83563
+350,S 700   W,Sun Valley,83320
+701,W 300   S,Cambridge,83326
+1115,N 900   E,Pocatello,83388
+310,LINCOLN,Pocatello,83556
+201,PARK,Pocatello,83427
+205,N PARK,Caldwell,83422
+593,E RIVER RD,Cambridge,83559
+112,PINE,Pocatello,83358
+409,S MAIN,Pocatello,83336
+112,E CENTER,Sun Valley,83365
+225,S FRANKLIN,Cambridge,83305
+132,S MAIN,Caldwell,83497
+305,GARFIELD,Cambridge,83592
+307,GARFIELD,Pocatello,83315
+309,GARFIELD (& 311),Sun Valley,83312
+314,GARFIELD (& 316),Cambridge,83495
+306,GARFIELD (& 308),Cambridge,83323
+302,PARK,Sun Valley,83552
+304,PARK,Pocatello,83595
+756,N 600   E,Cambridge,83522
+536,E JONES,Sun Valley,83391
+404,S PINE,Sun Valley,83362
+200,ADAMS,Sun Valley,83419
+200,GARFIELD,Pocatello,83495
+225,WILSON,Caldwell,83410
+206,ADAMS,Caldwell,83403
+209,S ADAMS,Sun Valley,83571
+221,GARFIELD,Caldwell,83605
+206,ADAMS,Pocatello,83471
+209,S ADAMS,Pocatello,83524
+222,GARFIELD,Cambridge,83515
+224,GARFIELD,Pocatello,83526
+303,PARK,Cambridge,83562
+221,WILSON,Pocatello,83536
+301,PARK,Sun Valley,83545
+225,ROOSEVELT,Sun Valley,83525
+107,N MAIN,Sun Valley,83347
+127,N MAIN,Caldwell,83595
+231,LINCOLN,Cambridge,83308
+213,CENTER,Pocatello,83375
+217,W CENTER,Caldwell,83487
+228,GARFIELD,Cambridge,83567
+210,LINCOLN,Pocatello,83523
+212,WASHINGTON,Pocatello,83494
+240,LINCOLN,Pocatello,83586
+229,WASHINGTON,Caldwell,83424
+227,WASHINGTON,Cambridge,83431
+245,PARK,Cambridge,83464
+245,PARK,Pocatello,83522
+107,N MAIN,Sun Valley,83524
+120,N MAIN,Caldwell,83563
+595,E RIVER RD,Caldwell,83411
+0,E CENTER,Cambridge,83476
+229,GARFIELD,Sun Valley,83375
+223,GARFIELD ST,Sun Valley,83509
+788,HWY 91,Sun Valley,83572
+587,E RIVER RD,Cambridge,83488
+591,E 800   N,Sun Valley,83360
+786,N HWY 91,Pocatello,83461
+775,N HWY 91,Caldwell,83551
+772,N 600   E,Cambridge,83584
+207,ADAMS (B),Sun Valley,83399
+207,ADAMS,Sun Valley,83447
+207,ADAMS,Caldwell,83511
+730,HWY 91,Sun Valley,83554
+726,N HWY 91,Cambridge,83407
+722,N HWY 91,Sun Valley,83449
+722,N HWY 91,Cambridge,83440
+704,N HWY 91,Cambridge,83431
+510,E 700   N,Cambridge,83382
+504,E 700   N,Cambridge,83309
+508,E 700   N,Cambridge,83334
+516,E 700   N,Cambridge,83349
+704,N HWY 91,Pocatello,83600
+546,E 700   N,Cambridge,83349
+534,E 700   N,Cambridge,83592
+718,N HWY 91,Sun Valley,83526
+536,E JONES,Pocatello,83363
+207,ADAMS,Pocatello,83540
+205,ADAMS,Caldwell,83585
+205,ADAMS,Pocatello,83536
+724,N HWY 91,Sun Valley,83594
+519,E RIVER RD,Cambridge,83334
+744,N 600   E,Cambridge,83548
+744,N 600   E,Sun Valley,83503
+744,N 600   E,Caldwell,83395
+304,S 700   W,Caldwell,83474
+103,S FRANKLIN,Cambridge,83353
+713,N 550   E,Pocatello,83316
+721,N 550   E,Caldwell,83442
+721,N 550   E,Cambridge,83511
+726,N 600   E,Pocatello,83357
+726,N 600   E,Cambridge,83460
+728,N 600   E,Caldwell,83326
+116,N FRANKLIN,Caldwell,83331
+217,S FRANKLIN,Cambridge,83321
+220,WASHINGTON,Caldwell,83468
+125,LINCOLN ST,Pocatello,83498
+1545,W 700   S,Sun Valley,83512
+798,S 1500   W,Caldwell,83320
+749,S 1600   W,Caldwell,83418
+755,S 1600   W,Pocatello,83434
+1524,W 800   S,Cambridge,83596
+756,S 1500   W,Cambridge,83397
+766,S 1500   W,Caldwell,83530
+771,S 1600   W,Caldwell,83346
+793,S 1600   W,Cambridge,83345
+1574,W 800   S,Pocatello,83310
+1518,W 800   S,Pocatello,83491
+1524,W 800   S,Cambridge,83436
+772,S 1500   W,Caldwell,83473
+752,S 1500   W,Sun Valley,83313
+796,S 1500   W,Caldwell,83468
+756,S 1500   W,Caldwell,83545
+880,N 1400   W,Caldwell,83558
+1450,W HWY 26,Sun Valley,83604
+806,N 1400   W,Cambridge,83393
+806,N 1400   W,Cambridge,83566
+862,N 1400   W,Cambridge,83585
+848,N 1400   W,Cambridge,83533
+858,N 1400   W,Cambridge,83369
+878,N 1400   W,Sun Valley,83393
+870,N 1400   W,Cambridge,83509
+884,N 1400   W,Sun Valley,83417
+1439,W HWY 26,Cambridge,83603
+742,N 900   E,Pocatello,83341
+873,E 800   N,Caldwell,83357
+873,E 800   N,Caldwell,83421
+844,E 700   N,Pocatello,83452
+846,E 700   N,Cambridge,83564
+849,E 800   N,Caldwell,83341
+809,E 800   N,Pocatello,83563
+742,N 900   E,Sun Valley,83596
+704,N 900   E,Caldwell,83547
+834,W 700   N,Cambridge,83342
+160,S 900   W,Sun Valley,83420
+929,W 100   S,Caldwell,83509
+933,W 100   S,Caldwell,83521
+191,S 1000   W,Pocatello,83412
+846,E 600   N,Pocatello,83547
+625,N 800   E,Cambridge,83319
+625,N 800   E,Sun Valley,83343
+899,E 700   N,Pocatello,83497
+625,N 800   E,Cambridge,83461
+612,N 900   E,Pocatello,83403
+610,N 900   E,Sun Valley,83406
+894,E 600   N,Cambridge,83495
+876,E 600   N,Caldwell,83524
+858,E 600   N,Pocatello,83422
+674,N 900   E,Sun Valley,83409
+862,E 600   N,Pocatello,83572
+825,E 700   N,Caldwell,83416
+875,E 700   N,Caldwell,83323
+680,N 900   E,Sun Valley,83430
+625,N 800   E,Caldwell,83544
+273,N 1100   W,Sun Valley,83359
+281,N 1100   W,Sun Valley,83492
+277,N 1100   W,Cambridge,83342
+1044,W TABER RD,Sun Valley,83485
+1054,TABER,Sun Valley,83321
+290,N 1000   W,Pocatello,83548
+1036,W TABER,Caldwell,83455
+278,N 1000   W,Cambridge,83507
+230,N 1000   W,Cambridge,83363
+226,N 1000   W,Cambridge,83482
+256,N 900   W,Caldwell,83553
+226,N 900   W,Sun Valley,83431
+253,N 1000   W,Caldwell,83501
+904,W 200   N,Caldwell,83316
+227,N 1000   W,Pocatello,83315
+950,W 200   N,Sun Valley,83552
+950,W 200   N,Pocatello,83525
+954,W TABER,Pocatello,83589
+956,W TABER RD,Cambridge,83585
+904,W 200   N,Sun Valley,83594
+229,N 1000   W,Cambridge,83345
+672,W 200   N,Pocatello,83611
+674,W 200   N,Pocatello,83318
+675,W HWY 26,Cambridge,83471
+673,W HWY 26,Cambridge,83357
+668,W 200   N,Caldwell,83455
+666,W 200   N,Pocatello,83609
+289,N 700   W,Pocatello,83554
+249,N 700   W,Cambridge,83343
+614,W 200   N,Caldwell,83485
+658,W 200   N,Cambridge,83412
+664,W 200   N,Cambridge,83534
+662,W 200   N,Pocatello,83447
+660,W 200   N,Pocatello,83478
+293,N 700   W,Pocatello,83535
+283,N 700   W,Caldwell,83461
+271,N 700   W,Pocatello,83383
+287,N 700   W,Cambridge,83430
+293,N 700   W,Caldwell,83477
+293,N 700   W,Pocatello,83487
+299,N 700   W,Sun Valley,83360
+299,N 700   W,Caldwell,83404
+614,W 200   N,Cambridge,83557
+249,N 700   W,Pocatello,83378
+239,N 700   W,Caldwell,83576
+299,N 700   W,Sun Valley,83373
+265,N 700   W,Sun Valley,83463
+255,N 700   W,Cambridge,83368
+205,N 650   W,Cambridge,83330
+375,W 200   S,Caldwell,83388
+375,W 200   S,Sun Valley,83373
+891,N 700   W,Caldwell,83605
+746,E 1050   N,Cambridge,83419
+778,E 1000   N,Caldwell,83475
+725,E 1100   N,Cambridge,83360
+739,E 1050   N,Caldwell,83455
+712,E 1050   N,Pocatello,83413
+778,E 1000   N,Pocatello,83333
+778,E 1000   N,Cambridge,83415
+778,E 1000   N,Caldwell,83521
+1048,HWY 91,Pocatello,83363
+778,E 1000   N,Caldwell,83322
+737,E 1100   N,Pocatello,83389
+725,E 1100   N,Cambridge,83376
+722,E 1000   N,Sun Valley,83582
+724,E 1000   N,Pocatello,83469
+1006,HWY 91,Caldwell,83443
+778,E 1000   N,Caldwell,83513
+780,E 1000   N,Cambridge,83573
+756,E 1000   N,Sun Valley,83498
+766,E 1000   N,Pocatello,83320
+988,N 1150   E,Pocatello,83501
+1143,E 1000   N,Sun Valley,83525
+905,N 1100   E,Cambridge,83369
+1141,E 1000   N,Caldwell,83598
+953,N 1100   E,Sun Valley,83572
+955,N 1100   E,Cambridge,83600
+702,N 600   E,Caldwell,83516
+594,E 700   N,Cambridge,83476
+728,HWY 91,Sun Valley,83535
+720,N 600   E,Caldwell,83564
+718,N 600   E,Caldwell,83325
+719,N 550   E,Sun Valley,83598
+409,S MAIN,Sun Valley,83430
+776,S 1500   W,Caldwell,83356
+874,N 1400   W,Sun Valley,83426
+1452,W HWY 26,Sun Valley,83497
+890,N 1400   W,Cambridge,83496
+850,E 700   N,Sun Valley,83319
+174,S 900   W,Caldwell,83481
+187,S 1000   W,Caldwell,83589
+954,W 200   S,Caldwell,83336
+151,S 1000   W,Caldwell,83374
+938,W 200   S,Pocatello,83521
+920,W 200   S,Cambridge,83592
+954,W 200   S,Cambridge,83433
+142,S 900   W,Pocatello,83491
+150,S 900   W,Pocatello,83553
+150,S 900   W,Caldwell,83540
+152,S 900   W,Pocatello,83413
+154,S 900   W,Pocatello,83310
+162,S 900   W,Cambridge,83596
+184,S 900   W,Caldwell,83544
+172,S 900   W,Caldwell,83411
+168,S 900   W,Sun Valley,83453
+941,W 100   S,Cambridge,83592
+945,W 100   S,Pocatello,83588
+182,S 900   W,Caldwell,83370
+165,S 1000   W,Cambridge,83371
+155,S 1000   W,Sun Valley,83385
+183,S 1000   W,Sun Valley,83487
+972,W 200   S,Pocatello,83495
+955,W 100   S,Caldwell,83339
+908,W 200   S,Sun Valley,83492
+198,S 900   W,Pocatello,83335
+912,W 200   S,Pocatello,83307
+182,S 900   W,Pocatello,83402
+977,W 100   S,Cambridge,83512
+923,W 100   S,Cambridge,83467
+935,W 100   S,Caldwell,83572
+955,W 100   S,Sun Valley,83522
+955,W 100   S,Sun Valley,83372
+923,W 100   S,Sun Valley,83563
+920,W 200   S,Cambridge,83388
+901,W 100   S,Pocatello,83549
+850,E 600   N,Sun Valley,83337
+820,E 600,Pocatello,83446
+894,E 600   N,Sun Valley,83489
+894,E 600   N,Sun Valley,83547
+823,E 700   N,Cambridge,83597
+860,E 600   N,Sun Valley,83425
+232,N 1000   W,Sun Valley,83586
+277,N 700   W,Cambridge,83532
+644,W 200   N,Sun Valley,83452
+651,W HWY 26,Pocatello,83466
+273,N 700   W,Sun Valley,83307
+262,N 600   W,Sun Valley,83473
+350,W 245   S,Cambridge,83396
+350,W 245   S,Cambridge,83486
+226,S HWY 91,Caldwell,83406
+487,W RIVERTON,Cambridge,83444
+746,E 1000   N,Pocatello,83448
+779,E 1100   N,Caldwell,83301
+731,E 1100   N,Pocatello,83512
+1180,E 800   W,Cambridge,83306
+971,N 1150   E,Caldwell,83514
+498,W 300   S,Cambridge,83354
+599,W 300   S,Pocatello,83355
+1455,S 2600   W,Cambridge,83454
+1477,S 2600   W,Pocatello,83476
+1430,S 2500   W,Cambridge,83311
+1527,S 2750   W,Caldwell,83317
+1540,S 2700   W,Pocatello,83375
+1555,S 2800   W,Sun Valley,83311
+2799,W 1500   S,Sun Valley,83381
+2727,W 1500   S,Cambridge,83454
+2717,W 1500   S,Caldwell,83520
+2748,W 1600   S,Pocatello,83364
+2774,W 1600   S,Pocatello,83497
+2719,W 1500   S,Sun Valley,83303
+320,N 1100   W,Cambridge,83457
+345,N 1200   W,Sun Valley,83303
+1160,W TABER,Caldwell,83517
+397,N 1200   W,Pocatello,83462
+357,N 1200   W,Caldwell,83556
+305,N 1200   W,Pocatello,83589
+304,N 1100   W,Cambridge,83541
+1120,W TABER,Pocatello,83418
+346,N 1100   W,Pocatello,83519
+310,N 1100   W,Caldwell,83576
+699,W 200   N,Cambridge,83391
+192,N 600   W,Cambridge,83468
+619,W HWY 26,Sun Valley,83588
+139,N 700   W,Caldwell,83562
+146,N 600   W,Cambridge,83438
+682,W 150   N,Pocatello,83391
+609,W 150   N,Caldwell,83534
+188,N 685   W,Pocatello,83438
+176,N 685   W,Pocatello,83542
+187,N 685   W,Pocatello,83417
+188,N 685   W,Sun Valley,83368
+185,N 680   W,Pocatello,83410
+181,N 680   W,Sun Valley,83368
+180,N 680   W,Sun Valley,83407
+184,N 680   W,Sun Valley,83582
+190,N 680   W,Sun Valley,83586
+194,N 680   W,Pocatello,83553
+196,N 685   W,Sun Valley,83339
+196,N 685   W,Sun Valley,83597
+197,N 685   W,Sun Valley,83492
+197,N 685   W,Cambridge,83351
+197,N 685   W,Caldwell,83547
+195,N 685   W,Sun Valley,83602
+195,N 685   W,Pocatello,83349
+191,N 685   W,Pocatello,83466
+191,N 685   W,Sun Valley,83518
+187,N 685   W,Sun Valley,83552
+187,N 685   W,Caldwell,83344
+172,N 680   W,Caldwell,83531
+196,N 680   W,Cambridge,83563
+196,N 680   W,Caldwell,83587
+192,N 680   W,Caldwell,83349
+192,N 680   W,Caldwell,83482
+198,N 680   W,Caldwell,83341
+182,N 680   W,Cambridge,83528
+182,N 680   W,Cambridge,83413
+180,N 680   W,Sun Valley,83355
+176,N 680   W,Pocatello,83467
+183,N 680   W,Cambridge,83587
+183,N 680   W,Pocatello,83553
+179,N 680   W,Cambridge,83494
+179,N 680   W,Sun Valley,83430
+177,N 680   W,Cambridge,83314
+178,N 680   W,Caldwell,83539
+687,W 200   N,Caldwell,83425
+199,N 695   W,Caldwell,83371
+197,N 695   W,Cambridge,83315
+174,N 680   W,Caldwell,83580
+195,N 695   W,Cambridge,83436
+184,N 685   W,Caldwell,83499
+193,N 695   W,Cambridge,83542
+189,N 695   W,Cambridge,83434
+194,N 695   W,Pocatello,83611
+198,N 695   W,Sun Valley,83539
+178,N 685   W,Caldwell,83463
+180,N 685   W,Caldwell,83304
+177,N 695   W,Cambridge,83399
+179,N 695   W,Sun Valley,83323
+181,N 695   W,Cambridge,83573
+183,N 685   W,Pocatello,83447
+181,N 685   W,Caldwell,83515
+177,N 685   W,Cambridge,83470
+179,N 685   W,Sun Valley,83328
+185,N 695   W,Caldwell,83453
+183,N 695   W,Pocatello,83517
+182,N 685   W,Caldwell,83597
+175,N 685   W,Caldwell,83320
+687,W 175   N,Sun Valley,83365
+689,W 175   N,Caldwell,83307
+691,W 175   N,Pocatello,83450
+693,W 175   N,Caldwell,83550
+176,N 695   W,Sun Valley,83366
+697,W 175   N,Sun Valley,83543
+178,N 695   W,Pocatello,83533
+180,N 695   W,Sun Valley,83415
+182,N 695   W,Sun Valley,83500
+184,N 695   W,Pocatello,83345
+186,N 695   W,Sun Valley,83304
+112,N 600   W,Caldwell,83555
+630,W 150   N,Sun Valley,83340
+148,N 600   W,Caldwell,83466
+141,N 700   W,Sun Valley,83527
+155,N 690   W,Pocatello,83455
+681,W 150   N,Pocatello,83570
+147,N 700   W,Pocatello,83472
+108,N 600   W,Caldwell,83543
+676,W 150   N,Pocatello,83550
+645,W 150   N,Cambridge,83547
+677,W 200   N,Pocatello,83562
+192,N 600   W,Caldwell,83423
+621,W HWY 26,Sun Valley,83505
+613,W 150   N,Pocatello,83592
+697,W 200   N,Pocatello,83352
+188,N 695   W,Sun Valley,83404
+673,W 200   N,Caldwell,83481
+663,W 200   N,Sun Valley,83580
+665,W 200   N,Sun Valley,83482
+682,W 150   N,Cambridge,83330
+152,N 600   W,Sun Valley,83333
+630,W 150   N,Caldwell,83377
+671,W 200   N,Sun Valley,83446
+695,W 175   N,Caldwell,83311
+659,W 200   N,Pocatello,83458
+661,W 200   N,Caldwell,83389
+667,W 200   N,Caldwell,83306
+669,W 200   N,Sun Valley,83446
+688,W 150   N,Cambridge,83451
+690,W 150   N,Pocatello,83603
+694,W 150   N,Sun Valley,83507
+696,W 150   N,Pocatello,83597
+173,N 680   W,Pocatello,83344
+175,N 680   W,Sun Valley,83518
+159,N 710   W,Caldwell,83599
+161,N 710   W,Sun Valley,83607
+195,N 685   W,Pocatello,83344
+297,W 300   S,Cambridge,83398
+187,S LAVASIDE,Sun Valley,83439
+187,S LAVASIDE,Pocatello,83527
+187,S LAVASIDE,Sun Valley,83371
+187,S LAVASIDE,Cambridge,83357
+187,S LAVASIDE,Caldwell,83419
+187,S LAVASIDE,Cambridge,83368
+187,S LAVASIDE,Sun Valley,83310
+187,S LAVASIDE,Pocatello,83483
+189,S LAVASIDE,Cambridge,83558
+345,N 120   W,Caldwell,83390
+1162,W TABER,Sun Valley,83332
+1162,W TABER,Pocatello,83551
+1162,W TABER,Pocatello,83480
+1162,W TABER,Cambridge,83467
+311,N 1200   W,Cambridge,83564
+345,N 120   W,Caldwell,83602
+1186,W TABER,Sun Valley,83551
+156,N 700   W,Pocatello,83346
+156,N 700   W,Sun Valley,83305
+700,W 150   N,Caldwell,83587
+618,W 100   N,Sun Valley,83518
+147,N 700   W,Sun Valley,83442
+686,W 150   N,Sun Valley,83362
+156,N 700   W,Pocatello,83308
+665,W 150   N,Cambridge,83520
+195,N 680   W,Caldwell,83447
+195,N 680   W,Cambridge,83405
+195,N 680   W,Caldwell,83346
+684,W 150   N,Caldwell,83548
+156,N 600   W,Cambridge,83305
+671,W 150   N,Caldwell,83427
+455,N HWY 91,Cambridge,83521
+340,E 400   N,Cambridge,83572
+351,E 475   N,Caldwell,83538
+343,E 475   N,Caldwell,83462
+346,E 475   N,Caldwell,83497
+316,E 400   N,Sun Valley,83324
+370,E 475   N,Sun Valley,83409
+358,E 475   N,Caldwell,83589
+376,E 475   N,Sun Valley,83393
+380,E 475   N,Cambridge,83374
+386,E 475   N,Sun Valley,83561
+366,E 475   N,Pocatello,83486
+356,E 475   N,Cambridge,83399
+458,HWY 91,Caldwell,83550
+474,N 400   E,Pocatello,83396
+392,E 475   N,Caldwell,83303
+396,E 475   N,Cambridge,83542
+392,E 400   N,Caldwell,83366
+342,E 400   N,Pocatello,83382
+368,E 400   N,Caldwell,83546
+470,N 400   E,Caldwell,83426
+422,N 1500   W,Caldwell,83560
+460,N 1500   W,Pocatello,83356
+402,N 400   W,Cambridge,83303
+464,N 400   W,Caldwell,83601
+476,N 400   W,Caldwell,83572
+420,N 400   W,Pocatello,83534
+430,N 400   W,Pocatello,83538
+424,N 400   W,Caldwell,83328
+448,N 400   W,Sun Valley,83377
+496,N 400   W,Sun Valley,83540
+1690,W 500   S,Caldwell,83456
+472,S 1600   W,Sun Valley,83417
+408,S 1600   W,Pocatello,83453
+450,S 1600   W,Sun Valley,83318
+482,S 1600   W,Cambridge,83522
+1688,W 500   S,Cambridge,83562
+348,N 400   E,Cambridge,83505
+356,N 400   E,Sun Valley,83373
+319,E 400   N,Pocatello,83419
+339,E 400   N,Cambridge,83424
+310,N 400   E,Pocatello,83465
+332,N 400   E,Caldwell,83362
+329,E 400   N,Sun Valley,83466
+327,E 400   N,Sun Valley,83429
+354,E 300   N,Sun Valley,83365
+339,N 300   E,Sun Valley,83422
+374,E 300   N,Caldwell,83592
+332,N 400   E,Caldwell,83453
+372,E 300   N,Caldwell,83550
+380,N 400   E,Caldwell,83368
+352,E 300   N,Sun Valley,83591
+347,N 300   E,Sun Valley,83352
+397,N 300   E,Cambridge,83332
+353,N 300   E,Cambridge,83468
+325,N 300   E,Cambridge,83606
+337,N 200   E,Caldwell,83450
+228,E 300   N,Cambridge,83377
+227,E 350   N,Pocatello,83383
+281,E 400   N,Pocatello,83517
+260,E 350   N,Sun Valley,83496
+254,E 350   N,Cambridge,83525
+287,E 400   N,Sun Valley,83585
+228,E 300   N,Sun Valley,83595
+309,N 200   E,Sun Valley,83399
+321,N 200   E,Sun Valley,83502
+303,N 200   E,Caldwell,83450
+313,N 200   E,Pocatello,83320
+317,N 200   E,Cambridge,83306
+319,N 200   E,Caldwell,83522
+398,N 300   E,Cambridge,83534
+388,N 300   E,Cambridge,83464
+380,N 300   E,Sun Valley,83332
+376,N 300   E,Sun Valley,83394
+358,N 300   E,Caldwell,83331
+366,N 300   E,Sun Valley,83522
+292,E 350   N,Cambridge,83607
+275,E 350   N,Sun Valley,83346
+344,N 300   E,Cambridge,83572
+283,E 350   N,Caldwell,83594
+289,E 350   N,Cambridge,83599
+291,E 350   N,Pocatello,83311
+344,N 300   E,Sun Valley,83380
+253,E 350   N,Cambridge,83586
+238,E 350   N,Cambridge,83503
+204,E 350   N,Caldwell,83476
+375,N 200   E,Pocatello,83494
+232,E 350   N,Pocatello,83455
+331,N 200   E,Sun Valley,83536
+218,E 325   N,Pocatello,83438
+222,E 325   N,Sun Valley,83458
+220,E 350   N,Pocatello,83508
+345,N 200   E,Cambridge,83599
+344,N 210   E,Caldwell,83602
+378,N 230   E,Sun Valley,83328
+371,N 230   E,Caldwell,83454
+339,N 210   E,Cambridge,83494
+267,E 350   N,Cambridge,83509
+247,E 350   N,Caldwell,83537
+241,E 350   N,Pocatello,83418
+220,E 350   N,Cambridge,83337
+240,E 350   N,Cambridge,83492
+215,E 325   N,Sun Valley,83429
+379,N 230   E,Cambridge,83585
+203,E 350   N,Caldwell,83463
+209,E 350   N,Sun Valley,83339
+217,E 325   N,Caldwell,83500
+207,E 325   N,Pocatello,83449
+205,E 325   N,Sun Valley,83480
+203,E 325   N,Sun Valley,83585
+283,E 350   N,Sun Valley,83436
+276,E 350   N,Caldwell,83431
+373,N 200   E,Cambridge,83483
+374,N HWY 91,Caldwell,83517
+224,E 300   N,Caldwell,83395
+347,N 200   E,Cambridge,83522
+218,E 350   N,Caldwell,83338
+223,E 350   N,Caldwell,83346
+219,E 350   N,Sun Valley,83356
+1569,N 800   E,Pocatello,83587
+1501,N 805   E,Sun Valley,83513
+1505,N 805   E,Caldwell,83428
+1547,N 800   E,Cambridge,83507
+850,E 1500   N,Cambridge,83331
+1521,N 800   E,Pocatello,83360
+1537,N 800   E,Sun Valley,83441
+850,E 1500   N,Caldwell,83343
+1543,N 800   E,Cambridge,83334
+1539,N 800   E,Cambridge,83433
+1521,N 800   E,Pocatello,83305
+858,E 1500   N,Pocatello,83423
+882,E 1500   N,Sun Valley,83426
+884,E 1500   N,Sun Valley,83379
+899,E 1600   N,Cambridge,83550
+1555,N 800   E,Cambridge,83332
+1535,N 800   E,Sun Valley,83508
+1535,N 800   E,Caldwell,83513
+1553,N 800   E,Pocatello,83434
+377,N 100   E,Cambridge,83330
+173,E 400   N,Caldwell,83416
+375,N 100   E,Caldwell,83380
+375,N 100   E,Caldwell,83565
+375,N 100   E,Sun Valley,83587
+164,E 350   N,Sun Valley,83369
+188,E 350   N,Pocatello,83376
+175,E 350   N,Caldwell,83445
+349,N 100   E,Cambridge,83500
+119,E 350   N,Sun Valley,83609
+137,E 350   N,Sun Valley,83590
+159,E 350   N,Cambridge,83585
+344,N HWY 91,Cambridge,83426
+188,E 350   N,Cambridge,83393
+151,E 350   N,Pocatello,83329
+376,N 200   E,Cambridge,83511
+374,N 200   E,Pocatello,83529
+358,N HWY 91,Caldwell,83377
+176,E 350   N,Pocatello,83508
+358,N HWY 91,Sun Valley,83464
+358,N HWY 91,Caldwell,83361
+358,N HWY 91,Pocatello,83354
+358,N HWY 91,Pocatello,83325
+358,N HWY 91,Caldwell,83610
+358,N HWY 91,Sun Valley,83529
+358,N HWY 91,Sun Valley,83352
+358,N HWY 91,Cambridge,83534
+356,N HWY 91,Cambridge,83343
+356,N HWY 91,Sun Valley,83395
+354,N HWY 91,Caldwell,83554
+354,N HWY 91,Sun Valley,83319
+138,E 350   N,Pocatello,83472
+381,N 100   E,Cambridge,83343
+141,E 350   N,Cambridge,83345
+149,E 350   N,Cambridge,83502
+326,N HWY 91,Pocatello,83311
+298,N 150   E,Cambridge,83516
+306,N 150   E,Cambridge,83441
+380,N 200   E,Sun Valley,83589
+312,N 150   E,Sun Valley,83560
+184,E 335   N,Caldwell,83588
+196,E 335   N,Sun Valley,83443
+126,E 350   N,Pocatello,83523
+133,E 350   N,Pocatello,83599
+133,N 400   E,Caldwell,83359
+387,N 100   E,Caldwell,83590
+112,E 350   N,Caldwell,83354
+324,N 200   E,Sun Valley,83537
+2604,W 600   S,Caldwell,83339
+2604,W 600   S,Caldwell,83509
+727,W 700   N,Cambridge,83425
+144,E 400   N,Sun Valley,83314
+102,E 400   N,Pocatello,83307
+196,E 400   N,Caldwell,83592
+198,E 400   N,Caldwell,83485
+138,E 400   N,Pocatello,83389
+136,E 400   N,Cambridge,83587
+390,N 100   E,Caldwell,83346
+358,N 100   E,Sun Valley,83345
+352,N 100   E,Caldwell,83504
+384,N 100   E,Pocatello,83489
+339,N COTTONWOOD,Pocatello,83532
+302,N 100   E,Pocatello,83609
+378,N 100   E,Pocatello,83592
+298,N 1700   W,Caldwell,83494
+527,W 255   N,Pocatello,83528
+226,N 500   W,Caldwell,83549
+556,W 200   N,Cambridge,83389
+525,W 300   N,Cambridge,83370
+513,W 300   N,Cambridge,83322
+543,W 300   N,Pocatello,83593
+527,W 300   N,Sun Valley,83607
+401,N 500   W,Sun Valley,83329
+342,N 400   E,Pocatello,83423
+325,E 400   N,Sun Valley,83579
+390,E 300   N,Cambridge,83456
+380,N 400   E,Pocatello,83568
+252,E 350   N,Cambridge,83598
+294,E 350   N,Sun Valley,83597
+380,N 300   E,Caldwell,83604
+241,E 400   N,Pocatello,83322
+228,E 350   N,Cambridge,83394
+364,N 230   E,Sun Valley,83495
+366,N 230   E,Pocatello,83435
+326,N 300   E,Pocatello,83464
+1561,N 800   E,Caldwell,83576
+876,E 1500   N,Cambridge,83308
+1506,N 805   E,Caldwell,83303
+1502,N 805   E,Cambridge,83308
+878,E 1500   N,Sun Valley,83341
+876,E 1500   N,Cambridge,83439
+1551,N 800   E,Sun Valley,83428
+803,E 1600   N,Cambridge,83332
+334,HWY 91,Caldwell,83522
+2610,W 600   S,Cambridge,83341
+572,W 200   N,Caldwell,83502
+537,W 300   N,Cambridge,83597
+539,W 300   N,Sun Valley,83431
+545,W 300   N,Pocatello,83455
+541,W 300   N,Caldwell,83527
+270,N 500   W,Sun Valley,83385
+1545,N 800   E,Caldwell,83489
+266,N 500   W,Sun Valley,83535
+208,N 500   W,Cambridge,83476
+263,N 600   W,Caldwell,83308
+520,W 200   N,Caldwell,83497
+522,W 200   N,Sun Valley,83348
+520,W 200   N,Cambridge,83485
+207,N 524   W,Pocatello,83492
+516,W 200   N,Sun Valley,83439
+526,W 200   N,Caldwell,83327
+212,N 524   W,Sun Valley,83450
+208,N 524   W,Sun Valley,83400
+210,N 524   W,Caldwell,83512
+216,N 524   W,Pocatello,83445
+538,W 200   N,Cambridge,83341
+218,N 524   W,Pocatello,83508
+209,N 524   W,Cambridge,83547
+213,N 524   W,Caldwell,83400
+215,N 524   W,Cambridge,83430
+219,N 524   W,Pocatello,83506
+223,N 524   W,Cambridge,83526
+524,W 200   N,Sun Valley,83431
+528,W 200   N,Sun Valley,83543
+550,W 200   N,Pocatello,83432
+280,N 500   W,Pocatello,83325
+288,N 500   W,Cambridge,83366
+574,W 200   N,Sun Valley,83592
+568,W 200   N,Sun Valley,83601
+556,W 200   N,Pocatello,83405
+546,W 200   N,Pocatello,83582
+532,W 200   N,Pocatello,83304
+516,W 200   N,Cambridge,83427
+222,N 524   W,Caldwell,83325
+2391,W 1000   S,Cambridge,83422
+1061,S 2400   W,Pocatello,83339
+1077,S 2400   W,Sun Valley,83587
+2365,W 1000   S,Pocatello,83321
+2397,W 1000   S,Pocatello,83476
+1033,S 2400   W,Caldwell,83385
+3034,W 1300   S,Sun Valley,83404
+1226,S 2700   W,Sun Valley,83441
+1210,S 2700   W,Caldwell,83340
+1264,S 2700   W,Caldwell,83461
+2796,W 1300   S,Caldwell,83475
+1295,S 2700   W,Pocatello,83610
+1226,S 2700   W,Caldwell,83511
+120,E 560   N,Caldwell,83446
+543,N 100   E,Caldwell,83365
+115,E 560   N,Cambridge,83496
+557,N 100   E,Caldwell,83418
+109,E 560   N,Pocatello,83562
+559,N 100   E,Pocatello,83472
+137,E 600   N,Pocatello,83611
+147,E 600   N,Caldwell,83534
+129,E 600   N,Caldwell,83419
+119,E 600   N,Caldwell,83506
+577,N 100   E,Sun Valley,83367
+577,N 100   E,Caldwell,83341
+116,E 560   N,Cambridge,83430
+119,E 560   N,Sun Valley,83460
+583,N 100   E,Caldwell,83354
+591,N 150   E,Cambridge,83329
+175,S LAVASIDE,Caldwell,83389
+177,S LAVASIDE,Sun Valley,83541
+171,S LAVASIDE,Caldwell,83559
+155,S LAVASIDE,Caldwell,83506
+161,S LAVASIDE,Caldwell,83553
+139,S LAVASIDE,Sun Valley,83322
+135,S LAVASIDE,Cambridge,83305
+131,S LAVASIDE,Pocatello,83348
+153,S LAVASIDE,Caldwell,83458
+151,S LAVASIDE,Cambridge,83375
+121,S LAVASIDE,Sun Valley,83608
+127,S LAVASIDE,Cambridge,83479
+141,S LAVASIDE,Cambridge,83546
+597,N 150   E,Sun Valley,83496
+590,N 150   E,Cambridge,83452
+147,S LAVASIDE,Caldwell,83590
+145,S LAVASIDE RD,Sun Valley,83569
+121,S LAVASIDE,Sun Valley,83554
+129,E 200   N,Cambridge,83354
+149,E 200   N,Cambridge,83404
+196,N 200   E,Caldwell,83358
+107,E 200   N,Caldwell,83405
+120,E 100   N,Caldwell,83455
+168,N 200   E,Sun Valley,83424
+166,N 200   E,Sun Valley,83424
+162,N 200   E,Caldwell,83563
+150,N 200   E,Sun Valley,83610
+160,N 200   E,Caldwell,83438
+152,N 200   E,Sun Valley,83411
+154,E 100   N,Pocatello,83344
+152,E 100   N,Pocatello,83603
+150,E 100   N,Cambridge,83301
+192,E 100   N,Cambridge,83333
+115,E 200   N,Pocatello,83506
+144,E 100   N,Caldwell,83401
+137,E 200   N,Caldwell,83464
+153,E 200   N,Sun Valley,83380
+146,N 200   E,Caldwell,83429
+146,N 200   E,Pocatello,83363
+50,E 100   N,Sun Valley,83336
+95,E 200   N,Cambridge,83465
+27,E 200   N,Caldwell,83544
+105,N PROUSE,Caldwell,83347
+20,E 100   N,Pocatello,83540
+16,E 100   N,Pocatello,83480
+150,N PROUSE,Sun Valley,83486
+34,E 100   N,Cambridge,83515
+21,E 200   N,Caldwell,83470
+15,E 200   N,Sun Valley,83519
+96,E 100   N,Pocatello,83458
+1019,E 1400   N,Caldwell,83363
+1074,E 1300   N,Pocatello,83487
+1003,E 1400   N,Caldwell,83508
+1089,E 1400   N,Sun Valley,83471
+1087,E 1400   N,Caldwell,83306
+1017,E 1400   N,Cambridge,83375
+1077,E 1400   N,Sun Valley,83504
+1067,E 1400   N,Sun Valley,83448
+1368,N 1100   E,Cambridge,83515
+1370,N 1100   E,Pocatello,83531
+1023,E 1400   N,Pocatello,83364
+1370,N 1100   E,Caldwell,83337
+1088,E 1300   N,Pocatello,83342
+1078,E 1300   N,Cambridge,83448
+1076,E 1300   N,Sun Valley,83317
+1054,E 1300   N,Caldwell,83390
+1046,E 1300   N,Sun Valley,83314
+1302,N 1100   E,Caldwell,83503
+1017,E 1400   N,Cambridge,83605
+1015,E 1400   N,Caldwell,83315
+1026,E 1300   N,Caldwell,83366
+1020,E 1300   N,Cambridge,83423
+1364,N 1100   E,Cambridge,83449
+1390,N 1100   E,Cambridge,83525
+1390,N 1100   E,Cambridge,83343
+1390,N 1100   E,Caldwell,83530
+1398,N 1100   E,Sun Valley,83425
+1020,E 1300   N,Sun Valley,83336
+1049,E 1400   N,Caldwell,83416
+54,N 50   E,Caldwell,83383
+36,E RICH LN,Cambridge,83453
+2,E RICH LN,Caldwell,83515
+2,E RICH LN,Sun Valley,83384
+58,E RICH LN,Caldwell,83452
+70,E RICH LN,Cambridge,83334
+77,E 100   N,Cambridge,83594
+79,E 100   N,Sun Valley,83596
+64,N 50   E,Sun Valley,83371
+77,N 50   E,Pocatello,83579
+89,E 100   N,Caldwell,83445
+20,E RICH LN,Caldwell,83467
+24,E RICH LN,Cambridge,83510
+36,E RICH LN,Pocatello,83500
+24,E RICH LN,Sun Valley,83541
+26,E RICH LN,Cambridge,83480
+34,E RICH LN,Pocatello,83484
+21,E 100   N,Caldwell,83370
+30,E RICH LN,Pocatello,83309
+2,E RICH LN,Caldwell,83543
+25,E 100   N,Sun Valley,83402
+25,E 100   N,Cambridge,83572
+11,E 100   N,Cambridge,83464
+58,E RICH LN,Caldwell,83597
+52,N 100   E,Caldwell,83354
+9,E 100   N,Cambridge,83423
+27,E 100   N,Cambridge,83505
+98,N 50   E,Caldwell,83473
+58,E RICH LN,Cambridge,83468
+57,N 50   E,Caldwell,83449
+65,E 100   N,Cambridge,83449
+17,N 50   E,Cambridge,83547
+99,E 100   N,Sun Valley,83586
+2068,S 2900   W,Cambridge,83400
+2759,W 2000   S,Cambridge,83544
+2703,W 2000   S,Caldwell,83385
+2068,S 2900   W,Sun Valley,83319
+2719,W 2000   S,Pocatello,83442
+404,S 900   W,Caldwell,83387
+817,W RIVERTON,Sun Valley,83564
+275,S 900   W,Cambridge,83355
+839,W RIVERTON,Pocatello,83492
+839,W RIVERTON,Pocatello,83466
+839,W RIVERTON,Caldwell,83544
+839,W RIVERTON,Caldwell,83523
+443,S 900   W,Pocatello,83602
+452,S 900   W,Cambridge,83477
+406,S 900   W,Pocatello,83432
+408,S 900   W,Caldwell,83406
+452,S 900   W,Caldwell,83364
+477,S 1100   W,Sun Valley,83403
+471,S 1100   W,Pocatello,83381
+451,S 1100   W,Sun Valley,83436
+473,S 1100   W,Cambridge,83524
+455,S 1100   W,Cambridge,83426
+1067,FERRY BUTTE RD,Pocatello,83442
+1059,W FERRY BUTTE RD,Pocatello,83515
+429,S 1100   W,Caldwell,83468
+1054,W FERRYBUTTE RD,Pocatello,83493
+1051,W FERRY BUTTE RD,Caldwell,83455
+431,S 1200   W,Pocatello,83346
+424,S 1150   W,Sun Valley,83313
+1153,W 400   S,Cambridge,83425
+470,S 1100   W,Sun Valley,83383
+435,S 1150   W,Cambridge,83603
+410,S 1100   W,Pocatello,83315
+1131,W 475   S,Caldwell,83311
+493,S 1200   W,Pocatello,83446
+1125,W 400   S,Cambridge,83305
+410,S 1100   W,Pocatello,83464
+472,S 1100   W,Cambridge,83339
+1117,W 475   S,Pocatello,83440
+471,S 1200   W,Sun Valley,83505
+402,S 1100   W,Caldwell,83603
+430,S 1100   W,Caldwell,83328
+425,S 1100   W,Cambridge,83449
+1137,W 400   S,Caldwell,83379
+262,N 500   W,Sun Valley,83573
+528,W 255   N,Caldwell,83610
+260,N 500   W,Caldwell,83489
+508,W 255   N,Sun Valley,83604
+511,W 255   N,Sun Valley,83457
+513,E 255   N,Sun Valley,83325
+203,N 600   W,Sun Valley,83545
+272,N 500   W,Pocatello,83434
+254,N 500   W,Caldwell,83611
+252,N 500   W,Pocatello,83419
+98,E 100   N,Sun Valley,83322
+158,N 200   E,Cambridge,83455
+156,N 200   E,Cambridge,83465
+158,N 200   E,Caldwell,83351
+130,N 200   E,Cambridge,83427
+178,N 200   E,Sun Valley,83414
+98,E 100   N,Sun Valley,83522
+52,E 100   N,Pocatello,83308
+101,N PROUSE,Caldwell,83608
+1037,E 1400   N,Caldwell,83552
+1087,E 1400   N,Caldwell,83515
+1057,E 1400   N,Sun Valley,83440
+1081,E 1400   N,Sun Valley,83463
+22,E RICH LN,Pocatello,83396
+49,N 25   W,Sun Valley,83581
+58,N 50   E,Cambridge,83551
+83,E 100   N,Caldwell,83465
+81,E 100   N,Caldwell,83585
+839,W RIVERTON,Pocatello,83430
+839,W RIVERTON,Pocatello,83513
+438,S 900   W,Sun Valley,83304
+453,S 1100   W,Sun Valley,83347
+417,S 1200   W,Caldwell,83340
+1111,W 475   S,Caldwell,83463
+2065,S 2800   W,Sun Valley,83420
+202,N 500   W,Cambridge,83442
+1121,W 475   S,Cambridge,83327
+450,S 1100   W,Pocatello,83526
+1125,W 400   S,Sun Valley,83385
+1125,W 400   S,Cambridge,83364
+1149,W 475   S,Caldwell,83409
+1196,W 600   S,Cambridge,83603
+1196,W 600   S,Cambridge,83565
+501,S 1200   W,Cambridge,83438
+978,E 1200   N,Caldwell,83416
+908,E 1230   N,Caldwell,83546
+914,E 1230   N,Pocatello,83494
+1237,N 915   E,Cambridge,83551
+912,E 1240   N,Sun Valley,83431
+984,E 1200   N,Pocatello,83542
+986,E 1200   N,Caldwell,83546
+905,E 1240   N,Pocatello,83397
+903,E 1240   N,Caldwell,83462
+901,E 1240   N,Cambridge,83430
+906,E 1240   N,Caldwell,83301
+904,E 1240   N,Caldwell,83366
+902,E 1240   N,Caldwell,83330
+1247,N 900   E,Caldwell,83610
+1249,N 900   E,Pocatello,83517
+975,E 1300   N,Cambridge,83587
+1203,N 990   E,Pocatello,83597
+1209,N 990   E,Pocatello,83378
+1207,N 990   E,Caldwell,83464
+1205,N 990   E,Sun Valley,83342
+1296,N 950   E,Caldwell,83354
+923,E 1300   N,Pocatello,83470
+963,E 1300   N,Caldwell,83517
+1291,N 900   E,Caldwell,83441
+985,E 1300   N,Cambridge,83333
+1271,N 900   E,Caldwell,83524
+1227,N 950   E,Sun Valley,83416
+959,E 1300   N,Sun Valley,83310
+998,E 1200   N,Cambridge,83534
+1225,N 900   E,Caldwell,83511
+1227,N 900   E,Caldwell,83386
+915,E 1300   N,Sun Valley,83568
+1281,N 900   E,Caldwell,83361
+1269,N 900   E,Caldwell,83416
+1261,N 900   E,Cambridge,83366
+957,E 1300   N,Pocatello,83560
+905,E 1300   N,Cambridge,83415
+1249,N 950   E,Sun Valley,83588
+994,E 1200   N,Sun Valley,83565
+921,E 1300   N,Pocatello,83371
+905,E 1300   N,Sun Valley,83521
+1215,N 950   E,Pocatello,83314
+916,E 1200   N,Caldwell,83541
+839,E 600   N,Cambridge,83509
+862,E PRESTO RD,Sun Valley,83593
+836,E PRESTO RD,Caldwell,83582
+897,PRESTO RD,Pocatello,83448
+843,E 600   N,Sun Valley,83310
+1068,W 300   S,Caldwell,83611
+1027,W 200   S,Pocatello,83411
+201,S 1100   W,Cambridge,83462
+1059,W 200   S,Pocatello,83561
+1075,W 200   S,Sun Valley,83468
+1047,W 200   S,Cambridge,83428
+1035,W 200   S,Pocatello,83529
+1040,W 300   S,Pocatello,83323
+1034,W 300   S,Pocatello,83561
+1044,W 300   S,Cambridge,83362
+1070,W 300   S,Sun Valley,83571
+274,S 1000   W,Cambridge,83474
+1011,W 200   S,Cambridge,83325
+905,S 1700   W,Pocatello,83310
+943,S 1700   W,Caldwell,83392
+597,E 1500   N,Caldwell,83424
+590,E 1445   N,Sun Valley,83306
+584,E 1445   N,Cambridge,83479
+1447,N 580   E,Cambridge,83605
+1441,N 570   E,Caldwell,83306
+574,E 1430   N,Caldwell,83427
+580,E 1430   N,Pocatello,83379
+1435,N 585   E,Cambridge,83600
+579,E 1430   N,Cambridge,83551
+1427,N 570   E,Pocatello,83432
+583,E 1430   N,Pocatello,83586
+581,E 1430   N,Cambridge,83507
+1448,N 580   E,Cambridge,83537
+1428,N 600   E,Cambridge,83454
+1431,N 585   E,Sun Valley,83568
+1452,N 600   E,Cambridge,83587
+1444,N 600   E,Sun Valley,83604
+1444,N 600   E,Caldwell,83565
+547,E 1500   N,Pocatello,83302
+597,E 1500   N,Cambridge,83367
+547,E 1500   N,Cambridge,83487
+136,S MILTON,Caldwell,83557
+224,E CENTER,Pocatello,83467
+389,E FIR,Sun Valley,83581
+460,S LINCOLN,Caldwell,83332
+458,S LINCOLN AVE,Caldwell,83556
+354,E ELM,Sun Valley,83521
+452,S LINCOLN AVE,Cambridge,83352
+428,S LINCOLN,Cambridge,83587
+438,S LINCOLN,Caldwell,83529
+468,S LINCOLN AVE,Cambridge,83380
+327,E PINE,Caldwell,83520
+483,S HOLMES,Cambridge,83421
+493,S HOLMES,Pocatello,83398
+469,S HOLMES,Pocatello,83550
+425,S HOLMES,Caldwell,83447
+447,S HOLMES,Sun Valley,83316
+437,S HOLMES,Caldwell,83401
+459,S HOLMES,Pocatello,83367
+331,S HOLMES,Caldwell,83544
+130,E ELM,Cambridge,83357
+144,E ELM,Caldwell,83420
+405,S PARK,Cambridge,83508
+173,E ELM,Cambridge,83603
+374,S HOLMES,Cambridge,83440
+406,S HOLMES,Sun Valley,83608
+392,S HOLMES,Caldwell,83450
+161,E ELM,Caldwell,83451
+144,E LOCUST,Sun Valley,83592
+130,E LOCUST,Sun Valley,83532
+369,S HOLMES,Sun Valley,83517
+356,S HOLMES,Pocatello,83561
+389,S HOLMES,Sun Valley,83444
+330,MILTON,Pocatello,83330
+348,S MILTON,Pocatello,83609
+368,S MILTON,Sun Valley,83530
+356,S MILTON,Pocatello,83307
+338,S MILTON,Cambridge,83515
+330,MILTON,Pocatello,83487
+345,S HOLMES,Cambridge,83451
+355,S HOLMES,Caldwell,83458
+331,S HOLMES,Pocatello,83587
+331,S HOLMES,Pocatello,83318
+240,E ELM,Cambridge,83510
+409,S HOLMES,Pocatello,83325
+276,E ELM,Cambridge,83438
+256,E ELM,Cambridge,83530
+210,S MILTON,Pocatello,83374
+284,E PINE,Caldwell,83506
+276,E PINE,Caldwell,83507
+238,E PINE,Sun Valley,83513
+226,E PINE,Caldwell,83394
+278,S MILTON,Sun Valley,83599
+268,S MILTON,Caldwell,83435
+260,E PINE,Sun Valley,83602
+246,S MILTON,Cambridge,83400
+220,S MILTON,Pocatello,83463
+235,S HOLMES,Caldwell,83498
+265,S HOLMES,Caldwell,83402
+255,S HOLMES,Caldwell,83424
+235,S HOLMES,Pocatello,83450
+227,S HOLMES,Pocatello,83463
+221,S HOLMES,Cambridge,83451
+210,E PINE,Sun Valley,83377
+190,S MILTON,Cambridge,83547
+170,S MILTON,Cambridge,83567
+156,S MILTON,Caldwell,83531
+146,S MILTON,Sun Valley,83606
+256,E CENTER,Caldwell,83550
+278,E CENTER,Cambridge,83359
+259,E PINE,Sun Valley,83450
+211,E PINE,Pocatello,83325
+227,E PINE,Pocatello,83522
+239,E PINE,Cambridge,83585
+217,E PINE,Caldwell,83607
+234,E CENTER,Cambridge,83303
+244,E CENTER,Sun Valley,83395
+131,S HOLMES,Caldwell,83443
+141,S HOLMES,Caldwell,83377
+121,S HOLMES,Sun Valley,83401
+212,E CENTER,Pocatello,83526
+159,HOLMES,Caldwell,83404
+168,S HOLMES,Caldwell,83515
+154,S HOLMES,Sun Valley,83418
+103,SPUD ALLEY,Sun Valley,83567
+190,E CENTER,Caldwell,83577
+144,S HOLMES,Caldwell,83486
+130,S HOLMES,Sun Valley,83384
+225,S PARK,Pocatello,83571
+190,E PINE,Cambridge,83474
+174,E PINE,Pocatello,83315
+140,PINE,Cambridge,83316
+130,E PINE,Pocatello,83486
+158,E PINE,Caldwell,83455
+137,E ELM,Caldwell,83441
+358,S HOLMES,Cambridge,83378
+367,S PARK,Sun Valley,83429
+387,S PARK,Pocatello,83364
+341,S PARK,Caldwell,83413
+355,S PARK,Pocatello,83319
+323,S PARK,Sun Valley,83408
+313,S PARK,Pocatello,83514
+305,S PARK,Cambridge,83462
+130,E ELM,Pocatello,83448
+423,S PARK,Sun Valley,83550
+492,S HOLMES,Sun Valley,83474
+177,E FIR,Sun Valley,83456
+143,E FIR,Sun Valley,83365
+145,E FIR,Cambridge,83314
+479,S PARK,Caldwell,83497
+459,S PARK,Cambridge,83447
+478,S HOLMES,Sun Valley,83525
+491,S PARK,Caldwell,83611
+155,E FIR,Sun Valley,83402
+452,S HOLMES,Sun Valley,83584
+426,S HOLMES,Pocatello,83515
+451,S PARK,Pocatello,83384
+168,E ELM,Pocatello,83316
+414,S HOLMES,Caldwell,83331
+158,E ELM,Caldwell,83315
+330,E CENTER,Sun Valley,83434
+355,E ELM,Sun Valley,83480
+396,LINCOLN,Sun Valley,83451
+385,E ELM,Caldwell,83469
+375,E ELM,Cambridge,83412
+345,E ELM,Cambridge,83569
+323,E FIR,Cambridge,83327
+335,E FIR,Cambridge,83364
+323,E FIR,Caldwell,83433
+459,S MILTON,Cambridge,83400
+459,S MILTON,Cambridge,83507
+375,E FIR,Pocatello,83397
+305,E FIR,Pocatello,83511
+901,E 1230   N,Cambridge,83373
+1233,N 915   E,Cambridge,83314
+1235,N 915   E,Caldwell,83434
+975,E 1300   N,Pocatello,83366
+975,E 1300   N,Pocatello,83519
+1215,N 950   E,Cambridge,83577
+959,E 1300   N,Cambridge,83460
+1275,N 900   E,Caldwell,83540
+281,S 1100   W,Sun Valley,83493
+240,S 1000   W,Pocatello,83540
+202,S 1000   W,Cambridge,83501
+241,S 1100   W,Caldwell,83321
+1055,W 200   S,Pocatello,83425
+241,S 1100   W,Pocatello,83319
+247,S 1100   W,Pocatello,83590
+1053,W 200   S,Sun Valley,83426
+242,S 1000   W,Sun Valley,83486
+248,S 1000   W,Pocatello,83569
+202,S 1000   W,Pocatello,83462
+202,S 1000   W,Sun Valley,83332
+1456,N 600   E,Caldwell,83341
+597,E 1500   N,Caldwell,83478
+1456,N 600   E,Cambridge,83506
+597,E 1500   N,Sun Valley,83581
+354,E ELM,Cambridge,83548
+376,E ELM,Caldwell,83411
+458,E CENTER,Sun Valley,83335
+456,E CENTER,Sun Valley,83534
+456,E CENTER,Caldwell,83599
+325,E LOCUST,Caldwell,83598
+428,E CENTER,Sun Valley,83339
+225,E FIR,Pocatello,83395
+255,E FIR,Caldwell,83499
+342,S HOLMES,Pocatello,83342
+328,S HOLMES,Cambridge,83490
+170,E LOCUST,Sun Valley,83559
+158,E LOCUST,Caldwell,83451
+195,SPUD ALLEY,Sun Valley,83473
+195,SPUD ALLEY,Pocatello,83372
+273,E ELM,Caldwell,83321
+267,E ELM,Cambridge,83421
+194,E LOCUST,Caldwell,83546
+218,E LOCUST,Cambridge,83430
+239,E ELM,Caldwell,83404
+239,E ELM,Pocatello,83460
+221,E ELM,Caldwell,83538
+259,E ELM,Sun Valley,83448
+292,E LOCUST,Cambridge,83610
+282,E LOCUST,Caldwell,83425
+264,E LOCUST,Sun Valley,83548
+240,E LOCUST,Sun Valley,83532
+208,E LOCUST,Caldwell,83550
+205,E LOCUST,Caldwell,83582
+225,E LOCUST,Caldwell,83560
+259,E LOCUST,Caldwell,83605
+271,E LOCUST,Cambridge,83352
+293,E LOCUST,Sun Valley,83364
+241,E LOCUST,Cambridge,83374
+290,E CENTER,Pocatello,83499
+267,PINE,Pocatello,83507
+103,S SPUD ALLEY,Cambridge,83449
+174,E CENTER,Sun Valley,83456
+241,S PARK,Sun Valley,83374
+209,S PARK,Sun Valley,83442
+105,E LOCUST,Pocatello,83560
+115,E LOCUST,Sun Valley,83535
+123,E LOCUST,Caldwell,83348
+139,E LOCUST,Cambridge,83593
+123,E LOCUST,Pocatello,83354
+123,E LOCUST,Pocatello,83344
+269,S PARK,Sun Valley,83509
+257,S PARK,Sun Valley,83580
+240,HOLMES,Caldwell,83569
+252,S HOLMES,Caldwell,83313
+264,S HOLMES,Sun Valley,83325
+252,S HOLMES,Pocatello,83304
+252,S HOLMES,Caldwell,83582
+183,E LOCUST,Caldwell,83408
+193,E LOCUST,Cambridge,83338
+175,E LOCUST,Sun Valley,83470
+155,E LOCUST,Pocatello,83539
+165,E LOCUST,Cambridge,83463
+264,S HOLMES,Cambridge,83388
+130,SHORT,Caldwell,83517
+376,E ELM,Sun Valley,83392
+386,E LOCUST,Caldwell,83463
+394,E ELM,Caldwell,83311
+1028,W 300   S,Caldwell,83566
+1028,W 300   S,Pocatello,83324
+479,S MILTON,Pocatello,83490
+427,S MILTON,Sun Valley,83359
+441,S MILTON,Pocatello,83581
+411,S MILTON,Sun Valley,83433
+405,S MILTON,Sun Valley,83533
+294,E ELM,Cambridge,83512
+286,E ELM,Sun Valley,83597
+373,S MILTON,Caldwell,83422
+325,E ELM,Pocatello,83368
+397,S MILTON,Pocatello,83586
+383,S MILTON,Caldwell,83489
+359,S MILTON,Sun Valley,83330
+339,MILTON,Cambridge,83536
+329,S MILTON,Cambridge,83441
+319,S MILTON,Sun Valley,83319
+309,S MILTON,Sun Valley,83316
+395,E LOCUST,Cambridge,83354
+370,E CENTER,Sun Valley,83445
+358,E CENTER,Pocatello,83303
+380,E CENTER,Cambridge,83598
+396,E CENTER,Pocatello,83426
+143,S MILTON,Pocatello,83413
+179,S MILTON,Sun Valley,83573
+326,E CENTER,Cambridge,83330
+316,E CENTER,Sun Valley,83477
+306,E CENTER,Pocatello,83583
+131,S MILTON,Pocatello,83399
+1238,N 900   E,Caldwell,83470
+1246,N 900   E,Sun Valley,83559
+1236,N 900   E,Caldwell,83370
+1234,N 900   E,Pocatello,83351
+1230,N 900   E,Cambridge,83331
+1228,N 900   E,Cambridge,83323
+1225,N 885   E,Sun Valley,83378
+1219,N 885   E,Cambridge,83589
+874,E 1200   N,Sun Valley,83379
+1226,N 900   E,Sun Valley,83332
+866,E 1200   N,Cambridge,83371
+1222,N 900   E,Pocatello,83410
+1224,N 900   E,Caldwell,83566
+892,E 1200   N,Cambridge,83516
+1212,N 900   E,Cambridge,83385
+1212,N 900   E,Pocatello,83400
+1225,N 885   E,Cambridge,83381
+890,E 1200   N,Cambridge,83455
+876,E 1200   N,Pocatello,83391
+1206,N 885   E,Caldwell,83309
+1210,N 900   E,Caldwell,83346
+894,E 1200   N,Sun Valley,83362
+868,E 1200   N,Cambridge,83608
+898,E 1200   N,Cambridge,83584
+876,E 1200   N,Caldwell,83417
+880,E 1200   N,Caldwell,83417
+714,S MILTON AVE,Caldwell,83499
+860,S MILTON AVE,Pocatello,83325
+730,S MILTON AVE,Caldwell,83494
+590,SEMINARY,Sun Valley,83315
+572,S MILTON,Pocatello,83577
+554,S MILTON AVE,Caldwell,83510
+528,S MILTON,Caldwell,83362
+546,S MILTON,Pocatello,83316
+273,BIRCH,Cambridge,83596
+598,MILTON,Sun Valley,83534
+121,E BASELINE RD,Cambridge,83377
+167,E BASELINE RD,Pocatello,83543
+189,E BASELINE RD,Pocatello,83540
+850,KELLEY DR,Pocatello,83600
+830,KELLEY DR,Caldwell,83342
+820,KELLEY DR,Pocatello,83373
+810,KELLEY DR,Caldwell,83405
+790,KELLEY DR,Caldwell,83386
+780,S MILTON AVE,Cambridge,83345
+750,S MILTON AVE,Sun Valley,83552
+825,KELLEY DR,Pocatello,83373
+855,KELLEY DR,Pocatello,83576
+895,KELLEY DR,Pocatello,83410
+840,S MILTON AVE,Sun Valley,83342
+820,S MILTON AVE,Sun Valley,83519
+695,ASPEN,Sun Valley,83588
+685,ASPEN,Caldwell,83605
+675,ASPEN,Pocatello,83409
+665,ASPEN,Caldwell,83548
+655,ASPEN,Caldwell,83433
+635,ASPEN,Caldwell,83386
+255,SPRUCE,Cambridge,83595
+636,ASPEN,Pocatello,83604
+235,SPRUCE,Sun Valley,83483
+215,SPRUCE,Caldwell,83461
+216,BIRCH,Pocatello,83462
+228,BIRCH,Sun Valley,83531
+205,SPRUCE,Sun Valley,83355
+199,SPRUCE,Pocatello,83400
+206,BIRCH,Cambridge,83350
+185,SPRUCE,Sun Valley,83557
+182,BIRCH,Cambridge,83434
+230,E SPRUCE,Caldwell,83597
+210,SPRUCE,Sun Valley,83418
+204,SPRUCE,Cambridge,83387
+194,SPRUCE,Sun Valley,83357
+715,CEDAR,Sun Valley,83459
+705,CEDAR,Cambridge,83326
+695,CEDAR,Sun Valley,83405
+154,SPRUCE,Cambridge,83578
+171,SPRUCE,Caldwell,83468
+745,S PARK,Pocatello,83385
+735,S PARK,Cambridge,83591
+715,S PARK,Caldwell,83399
+700,CEDAR,Pocatello,83414
+690,CEDAR,Sun Valley,83392
+126,SPRUCE,Sun Valley,83359
+123,SPRUCE,Sun Valley,83543
+831,S PARK,Sun Valley,83599
+767,ASPEN,Pocatello,83513
+765,ASPEN,Cambridge,83517
+761,ASPEN,Pocatello,83367
+759,ASPEN,Cambridge,83429
+757,ASPEN,Cambridge,83405
+753,ASPEN,Caldwell,83572
+751,ASPEN,Sun Valley,83514
+749,ASPEN,Caldwell,83509
+729,ASPEN,Caldwell,83387
+707,ASPEN,Pocatello,83432
+703,ASPEN,Cambridge,83333
+700,ASPEN,Sun Valley,83449
+710,ASPEN,Caldwell,83417
+720,ASPEN AVE,Pocatello,83499
+180,SPRUCE,Sun Valley,83322
+730,ASPEN AVE,Sun Valley,83353
+166,SPRUCE,Sun Valley,83327
+740,ASPEN,Caldwell,83313
+750,ASPEN,Sun Valley,83547
+755,CEDAR,Pocatello,83449
+724,CEDAR,Sun Valley,83507
+756,CEDAR,Sun Valley,83496
+758,CEDAR,Pocatello,83554
+760,ASPEN,Pocatello,83520
+757,S PARK,Caldwell,83314
+757,S PARK,Caldwell,83584
+755,S PARK AVE,Sun Valley,83537
+146,BIRCH,Cambridge,83359
+134,BIRCH,Caldwell,83472
+159,SPRUCE,Pocatello,83404
+147,SPRUCE,Cambridge,83331
+135,SPRUCE,Caldwell,83499
+158,BIRCH,Sun Valley,83450
+170,BIRCH,Sun Valley,83599
+124,BIRCH,Sun Valley,83580
+701,S PARK,Caldwell,83368
+714,CEDAR,Cambridge,83363
+691,S PARK,Cambridge,83358
+677,S PARK,Cambridge,83337
+655,S PARK,Caldwell,83515
+635,S PARK,Caldwell,83534
+609,S PARK,Cambridge,83553
+715,CEDAR,Caldwell,83562
+273,BIRCH,Caldwell,83359
+606,S MILTON AVE,Sun Valley,83487
+895,E 1300   N,Pocatello,83442
+891,E 1300   N,Cambridge,83443
+883,E 1300   N,Cambridge,83445
+865,E 1300   N,Cambridge,83491
+889,E 1300   N,Sun Valley,83458
+1260,N 900   E,Caldwell,83548
+860,E 1200   N,Caldwell,83458
+483,S HOLMES,Cambridge,83563
+1212,W 600   N,Pocatello,83444
+610,N 1200   W,Sun Valley,83384
+614,N 1200   W,Caldwell,83454
+618,N 1200   W,Cambridge,83344
+632,N 1200   W,Sun Valley,83607
+1235,W HWY 26,Cambridge,83565
+1286,W 600   N,Cambridge,83528
+1298,W 600   N,Pocatello,83415
+697,N 1300   W,Caldwell,83363
+25,N 470   W,Cambridge,83345
+29,N 470   W,Caldwell,83469
+33,N 470   W,Pocatello,83596
+5,N 470   W,Pocatello,83547
+9,N 470   W,Sun Valley,83454
+13,N 470   W,Pocatello,83573
+15,N 470   W,Pocatello,83365
+19,N 470   W,Cambridge,83540
+492,W HWY 39,Caldwell,83454
+430,W HWY 39,Cambridge,83418
+401,W HWY 39,Pocatello,83491
+453,W 100   N,Caldwell,83418
+431,W 100   N,Cambridge,83507
+426,W HWY 26,Cambridge,83358
+439,W HWY 26,Caldwell,83480
+24,N 470   W,Caldwell,83447
+95,N 415   W,Caldwell,83513
+424,W HWY 26,Sun Valley,83443
+433,W 100   N,Cambridge,83464
+64,N 400   W,Pocatello,83333
+425,W HWY 26,Sun Valley,83302
+442,COLONIAL LOOP,Caldwell,83504
+54,N 400   W,Pocatello,83482
+421,W 100   N,Pocatello,83365
+336,E ELM,Cambridge,83322
+295,E ELM,Caldwell,83375
+285,E ELM,Cambridge,83568
+316,E LOCUST,Caldwell,83555
+386,E LOCUST,Caldwell,83492
+369,E LOCUST,Sun Valley,83473
+376,E LOCUST,Sun Valley,83421
+366,E LOCUST,Sun Valley,83447
+355,E LOCUST,Sun Valley,83392
+325,E LOCUST,Cambridge,83533
+358,E LOCUST,Sun Valley,83329
+145,SHORT,Sun Valley,83598
+151,S MILTON,Sun Valley,83568
+146,SHORT,Cambridge,83446
+158,SHORT,Caldwell,83491
+191,S MILTON,Caldwell,83578
+170,SHORT,Pocatello,83546
+460,E CENTER,Pocatello,83363
+452,E CENTER,Sun Valley,83442
+494,E CENTER,Cambridge,83518
+454,E CENTER,Pocatello,83326
+394,E LOCUST,Cambridge,83464
+404,E CENTER,Caldwell,83320
+255,SHORT,Cambridge,83417
+324,E ELM,Caldwell,83439
+257,S PARK,Cambridge,83439
+1240,N 900   E,Cambridge,83597
+1226,N 900   E,Pocatello,83526
+1226,N 900   E,Sun Valley,83361
+888,E 1200   N,Caldwell,83334
+505,S MILTON,Caldwell,83495
+290,E FIR,Cambridge,83606
+543,S PARK,Sun Valley,83444
+675,S MILTON,Sun Valley,83328
+597,S MILTON,Caldwell,83313
+356,E FIR,Sun Valley,83450
+230,E FIR,Sun Valley,83416
+566,SEMINARY,Pocatello,83595
+554,SEMINARY,Pocatello,83382
+580,SEMINARY,Caldwell,83424
+591,S PARK,Cambridge,83342
+513,S PARK,Pocatello,83570
+569,S PARK,Cambridge,83506
+555,S PARK,Sun Valley,83556
+504,S MILTON,Pocatello,83323
+240,E FIR,Sun Valley,83488
+579,S PARK,Cambridge,83550
+536,S MILTON,Sun Valley,83592
+520,S MILTON,Caldwell,83607
+562,S MILTON,Caldwell,83440
+580,S MILTON,Sun Valley,83582
+590,S MILTON,Cambridge,83552
+362,E FIR,Cambridge,83563
+374,E FIR,Caldwell,83353
+143,E BASELINE RD,Caldwell,83604
+763,ASPEN,Cambridge,83306
+606,SEMINARY,Sun Valley,83497
+121,E BIRCH,Sun Valley,83516
+454,E CENTER,Caldwell,83587
+403,W COLLINS,Cambridge,83322
+74,N 400   W,Caldwell,83537
+442,HWY 26,Cambridge,83316
+74,N 400   W,Sun Valley,83447
+404,W HWY 39,Sun Valley,83456
+401,W COLLINS,Pocatello,83414
+64,N 400   W,Cambridge,83607
+74,N 400   W,Sun Valley,83441
+462,W HWY 26,Sun Valley,83588
+64,N 400   W,Caldwell,83490
+430,W HWY 26,Caldwell,83339
+77,N 430   W,Sun Valley,83351
+496,W HWY 39,Sun Valley,83569
+410,HWY 26,Cambridge,83355
+423,W 100   N,Cambridge,83312
+441,W HWY 26,Caldwell,83342
+445,W HWY 26,Cambridge,83517
+72,N 400   W,Cambridge,83511
+427,W 100   N,Caldwell,83488
+431,W 100   N,Caldwell,83603
+431,W 100   N,Sun Valley,83573
+435,W 100   N,Cambridge,83554
+431,W 100   N,Sun Valley,83561
+431,W 100   N,Pocatello,83319
+443,W 100   N,Caldwell,83389
+441,W 100   N,Pocatello,83607
+426,W HWY 26,Sun Valley,83401
+431,W HWY 26,Cambridge,83564
+447,W 100   N,Caldwell,83344
+443,W COLONIAL LOOP,Sun Valley,83344
+441,W COLONIAL LOOP,Cambridge,83451
+437,COLONIAL LOOP,Cambridge,83414
+435,W COLONIAL LOOP,Cambridge,83435
+448,COLONIAL LOOP,Caldwell,83481
+435,W HWY 26,Cambridge,83416
+433,W HWY 26,Pocatello,83403
+429,W HWY 26,Sun Valley,83467
+487,W HWY 26,Pocatello,83601
+497,W 100   N,Caldwell,83301
+495,W 100   N,Sun Valley,83580
+455,W 100   N,Cambridge,83486
+476,W HWY 26,Caldwell,83572
+449,W HWY 39,Caldwell,83590
+407,W HWY 39,Caldwell,83375
+409,W HWY 39,Sun Valley,83429
+411,W HWY 39,Sun Valley,83426
+445,W HWY 39,Cambridge,83451
+435,W HWY 39,Pocatello,83302
+439,W HWY 39,Cambridge,83481
+433,W HWY 39,Cambridge,83451
+448,W HWY 39,Cambridge,83308
+446,W HWY 39,Pocatello,83422
+440,W HWY 39,Cambridge,83553
+450,W HWY 39,Cambridge,83427
+454,W HWY 39,Sun Valley,83359
+30,N 470   W,Sun Valley,83466
+36,N 470   W,Caldwell,83509
+415,W 100   N,Caldwell,83555
+19,N 460   W,Pocatello,83308
+18,N 460   W,Pocatello,83438
+16,N 460   W,Pocatello,83454
+14,N 460   W,Caldwell,83533
+10,N 460   W,Sun Valley,83353
+4,N 460   W,Pocatello,83483
+4,N 460   W,Caldwell,83480
+8,N 470   W,Pocatello,83442
+4,N 470   W,Cambridge,83583
+472,W HWY 39,Sun Valley,83371
+462,W HWY 39,Sun Valley,83308
+486,W HWY 39,Sun Valley,83533
+14,N 470   W,Pocatello,83479
+490,W HWY 39,Cambridge,83470
+458,W HWY 39,Sun Valley,83397
+33,N 460   W,Sun Valley,83426
+26,N 460   W,Caldwell,83403
+25,N 460   W,Pocatello,83380
+21,N 460   W,Caldwell,83416
+21,N 470   W,Cambridge,83424
+34,N 460   W,Pocatello,83307
+30,N 460   W,Cambridge,83508
+24,N 460   W,Cambridge,83486
+20,N 460   W,Pocatello,83498
+36,N 460   W,Caldwell,83389
+20,N 470   W,Sun Valley,83360
+35,N 460   W,Sun Valley,83479
+447,W HWY 39,Sun Valley,83473
+448,COLONIAL LOOP,Caldwell,83610
+448,COLONIAL LOOP,Pocatello,83584
+36,N 470   W,Sun Valley,83420
+164,E 200   N,Sun Valley,83508
+108,E 200   N,Pocatello,83552
+126,E 200   N,Pocatello,83413
+126,E 200   N,Cambridge,83507
+138,E 200   N,Cambridge,83573
+206,N 200   E,Pocatello,83362
+104,E 200   N,Sun Valley,83345
+228,N 200   E,Caldwell,83362
+296,N 150   E,Cambridge,83590
+270,N 150   E,Caldwell,83528
+395,E 550   N,Pocatello,83397
+362,E 550   N,Caldwell,83380
+365,E 550   N,Caldwell,83309
+530,N HWY 91,Cambridge,83373
+362,E 550   N,Sun Valley,83342
+542,N HWY 91,Caldwell,83421
+382,E 475   N,Cambridge,83314
+383,E 525   N,Caldwell,83504
+399,E 525   N,Pocatello,83515
+391,E 525   N,Sun Valley,83387
+516,N 400   E,Sun Valley,83523
+514,N 400   E,Caldwell,83395
+387,E 525   N,Cambridge,83417
+528,N HWY 91,Caldwell,83418
+358,E 475   N,Caldwell,83304
+368,E 550   N,Caldwell,83509
+526,N HWY 91,Caldwell,83609
+395,E 550   N,Pocatello,83400
+512,N HWY 91,Pocatello,83354
+508,HWY 91,Sun Valley,83468
+382,E 550   N,Sun Valley,83374
+504,N 400   E,Caldwell,83390
+508,N 400   E,Caldwell,83404
+948,N 2000   W,Cambridge,83591
+334,N 700   W,Cambridge,83597
+364,N 700   W,Sun Valley,83453
+784,W HWY 26,Pocatello,83595
+384,N 700   W,Sun Valley,83487
+392,N 700   W,Pocatello,83468
+391,N 700   W,Pocatello,83348
+398,N 700   W,Sun Valley,83386
+1402,S 2600   W,Caldwell,83383
+2676,W 1500   S,Caldwell,83325
+1427,S 2700   W,Caldwell,83578
+1454,S 2600   W,Caldwell,83598
+2667,W 1400   S,Cambridge,83556
+2653,W 1400   S,Cambridge,83590
+1476,S 2600   W,Caldwell,83511
+2644,W 1500   S,Caldwell,83417
+1466,N 610   E,Cambridge,83334
+436,W HWY 26,Pocatello,83377
+448,W HWY 26,Cambridge,83432
+448,W HWY 26,Cambridge,83534
+469,W HWY 26,Pocatello,83603
+436,W HWY 26,Sun Valley,83339
+448,W HWY 26,Pocatello,83557
+414,W HWY 26,Caldwell,83563
+430,W HWY 26,Pocatello,83316
+430,W HWY 26,Sun Valley,83461
+416,HWY 26,Caldwell,83392
+420,W HWY 26,Pocatello,83558
+453,W HWY 26,Pocatello,83575
+467,W HWY 26,Sun Valley,83556
+447,W HWY 26,Sun Valley,83502
+483,W HWY 26,Sun Valley,83547
+499,W 100   N,Pocatello,83301
+450,W HWY 26,Sun Valley,83495
+454,W HWY 26,Caldwell,83383
+454,W HWY 26,Cambridge,83440
+464,W HWY 26,Cambridge,83310
+474,W HWY 26,Pocatello,83420
+405,W COLLINS,Pocatello,83456
+411,W COLLNS,Caldwell,83565
+403,W COLLINS,Sun Valley,83453
+403,W COLLINS,Caldwell,83567
+417,W HWY 39,Sun Valley,83411
+436,W HWY 39,Pocatello,83587
+436,W HWY 39,Pocatello,83386
+429,W HWY 39,Pocatello,83520
+443,W HWY 26,Cambridge,83601
+405,W COLLINS,Sun Valley,83481
+0,446A W HWY 39,Pocatello,83312
+494,W HWY 39,Cambridge,83329
+16,N 470   W,Pocatello,83373
+460,W HWY 39,Sun Valley,83462
+472,W HWY 39,Sun Valley,83414
+442,HWY 26,Pocatello,83485
+21,N 460   W,Caldwell,83580
+411,W COLLNS,Sun Valley,83432
+430,W HWY 26,Sun Valley,83450
+362,E 550   N,Sun Valley,83392
+362,E 550   N,Sun Valley,83610
+374,E 550   N,Sun Valley,83370
+362,E 550   N,Sun Valley,83502
+362,E 550   N,Caldwell,83488
+362,E 550   N,Caldwell,83532
+362,E 550   N,Caldwell,83505
+352,N 700   W,Sun Valley,83433
+318,N 700   W,Sun Valley,83566
+780,W HWY 26,Caldwell,83332
+382,N 700   W,Cambridge,83346
+415,N 700   W,Caldwell,83354
+338,N 700   W,Pocatello,83500
+348,N 700   W,Cambridge,83571
+346,N 700   W,Sun Valley,83540
+318,N 700   W,Caldwell,83317
+690,E 1400   N,Sun Valley,83360
+288,N 150   E,Pocatello,83486
+404,N 500   W,Sun Valley,83525
