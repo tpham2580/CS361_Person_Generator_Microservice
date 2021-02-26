@@ -84,7 +84,7 @@ class PersonGenerator(Tk):
             lines = sum(1 for line in infile)
 
         with open(states[state_input], 'r') as infile, open('output.csv', 'w') as outfile:
-            random_numbers = random.sample(range(0, lines), number_input)
+            random_numbers = [random.randint(1, lines) for x in range(number_input)]
             random_numbers.sort()
 
             writer = csv.writer(outfile)
@@ -121,20 +121,31 @@ def input_to_output():
 
     with open("input.csv", "r") as infile:
         header = next(csv.reader(infile))
-        if header[0] != "input_state" or header[1] != "input_number_to_generate":
-            print("Please format input.csv correctly with input_state "
-                  "in 1st column and input_number_to_generate in 2nd column")
-            return
+        input_col_index = None
+        input_number_col_index = None
+        for col_index, col in enumerate(header):
+            if col == "input_state":
+                input_col_index = col_index
+            if col == "input_number_to_generate" or col == "output_population_size":
+                input_number_col_index = col_index
+        
+        if input_col_index == None or input_number_col_index == None:
+            print("Unable to read input.csv format")
+
         row_input = next(csv.reader(infile))
-        state_input = row_input[0]
-        number_input = int(row_input[1])
+        state_input = row_input[input_col_index]
+        number_input = int(row_input[input_number_col_index])
+    
+    if state_input not in states:
+        print(state_input, "is not one of the states covered by the person-generator")
+        return
 
     with open(states[state_input], 'r') as infile:
         lines = sum(1 for line in infile)
 
     with open(states[state_input], 'r') as infile, open('output.csv', 'w') as outfile:
 
-        random_numbers = random.sample(range(0, lines), number_input)
+        random_numbers = [random.randint(1, lines) for x in range(number_input)]
         random_numbers.sort()
 
         writer = csv.writer(outfile)
@@ -145,7 +156,7 @@ def input_to_output():
         index = 0
         for line_number, row in enumerate(csv.reader(infile)):
             if index < number_input:
-                if line_number == random_numbers[index]:
+                while line_number == random_numbers[index]:
                     new_street = list(row)
                     new_street = [x.lower().title() for x in new_street]
                     new_street[1] = " " + new_street[1]
@@ -161,12 +172,23 @@ def input_to_output():
     return
 
 
+def pop_request():
+    """requests data from population generator"""
+    os.system("python3 population-generator.py input.csv")
+    return
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('-i', '--input', action='store_true', help='run program with input.csv')
+    parser.add_argument('-p', '--population', action='store_true', help='request data from population generator with input.csv')
+    parser.add_argument('-l', '--life', action='store_true', help='run program with input.csv by feeding data to life '
+                                                                  'generator')
     args = parser.parse_args()
     if args.input is True:
         input_to_output()
+    elif args.input is True:
+        pop_input_to_output()
     else:
         person = PersonGenerator()
         person.mainloop()
