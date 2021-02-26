@@ -5,6 +5,7 @@ import csv
 import random
 import argparse
 from tkinter import *
+import os
 
 """This program uses preprocessed csv files to extract data from"""
 
@@ -30,21 +31,33 @@ class PersonGenerator(Tk):
         super().__init__()
         self.title("Person Generator")
         self.paddings = {'padx': 5, 'pady': 5}
+        self.listbox = Listbox(self)
+        self.int_var = IntVar(self)
+        self.year_var = IntVar(self)
+
+        self.create_year()
 
         self.state_keys = list(states.keys())
         self.option_var = StringVar(self)
         self.create_states()
 
-        self.int_var = IntVar(self)
         self.create_streets()
 
         self.create_generate_button()
+        self.create_population_button()
+
+    def create_year(self):
+        """creates label for year"""
+        label_year = Label(self, text="Input year between 1986 & 2019: ")
+        label_year.grid(column=1, row=1, sticky='', **self.paddings)
+
+        year_input = Entry(self, textvariable=self.year_var).grid(column=2, row=1, sticky='', **self.paddings)
 
     def create_states(self):
 
         # create label for selecting state
         label_state = Label(self, text="Select a US State in the options: ")
-        label_state.grid(column=1, row=1, sticky='', **self.paddings)
+        label_state.grid(column=1, row=2, sticky='', **self.paddings)
 
         state_options = OptionMenu(
             self,
@@ -52,32 +65,61 @@ class PersonGenerator(Tk):
             *self.state_keys
         )
 
-        state_options.grid(column=2, row=1, sticky='', **self.paddings)
+        state_options.grid(column=2, row=2, sticky='', **self.paddings)
 
     def create_streets(self):
 
         # create label for inputting number of street addresses
         label_street = Label(self, text="Input number of street addresses: ")
-        label_street.grid(column=1, row=2, sticky='', **self.paddings)
+        label_street.grid(column=1, row=3, sticky='', **self.paddings)
 
-        number_state = Entry(self, textvariable=self.int_var).grid(column=2, row=2, sticky='', **self.paddings)
+        number_state = Entry(self, textvariable=self.int_var).grid(column=2, row=3, sticky='', **self.paddings)
 
     def create_generate_button(self):
         button_generate = Button(self,
                                  text="Generate Output",
                                  command=lambda: self.create_output_file())
-        button_generate.grid(column=2, row=3, sticky='', **self.paddings)
+        button_generate.grid(column=2, row=4, sticky='', **self.paddings)
 
+    def create_population_button(self):
+        button_pop = Button(self,
+                                 text="Call Population-Generator",
+                                 command=lambda: self.create_population_output())
+        button_pop.grid(column=1, row=4, sticky='', **self.paddings)
+
+    def create_population_output(self):
+        """creates input.csv, calls population-generator and generate output window"""
+
+        state_input = self.option_var.get()
+        year_input = self.year_var.get()
+
+        if year_input < 1986 or year_input > 2019 or state_input not in states:
+            self.listbox.insert(1, "Year or State not properly inputted")
+            self.listbox.grid(column=1, row=5, columnspan=3, sticky='EW', **self.paddings)
+            return
+
+        with open('input.csv', 'w') as outfile:
+
+            writer = csv.writer(outfile)
+
+            writer.writerow(["input_year", "input_state"])
+            writer.writerow([year_input, state_input])
+
+        pop_request()
+        with open('output.csv', 'r') as infile:
+            header = next(csv.reader(infile))
+            row_output = next(csv.reader(infile))
+            self.listbox.insert(1, row_output)
+            self.listbox.grid(column=1, row=5, columnspan=3, sticky='EW', **self.paddings)
+            
     def create_output_file(self):
         """creates output.csv file"""
         state_input = self.option_var.get()
         number_input = self.int_var.get()
 
-        listbox = Listbox(self)
-
         if state_input == "" or number_input == 0:
-            listbox.insert(1, "Please fill all appropriate inputs")
-            listbox.grid(column=1, row=4, columnspan=3, sticky='EW', **self.paddings)
+            self.listbox.insert(1, "Please fill all appropriate inputs")
+            self.listbox.grid(column=1, row=5, columnspan=3, sticky='EW', **self.paddings)
             return
 
         with open(states[state_input], 'r') as infile:
@@ -112,8 +154,8 @@ class PersonGenerator(Tk):
                     break
 
         for x, y in enumerate(output_list):
-            listbox.insert(x+1, y)
-        listbox.grid(column=1, row=4, columnspan=3, sticky='EW', **self.paddings)
+            self.listbox.insert(x+1, y)
+        self.listbox.grid(column=1, row=4, columnspan=3, sticky='EW', **self.paddings)
 
 
 def input_to_output():
