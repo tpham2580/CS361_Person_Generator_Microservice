@@ -1,2 +1,11 @@
-input_year,input_state,output_population_size
-2013,Alaska,735132
+input_state,input_number_to_generate,output_content_type,output_content_value
+Alaska,10,street address,"11608 Salmon Creek Rd, Bear Creek, AK, 99664"
+Alaska,10,street address,"37875 Greer Rd, Fritz Creek, AK, 99603"
+Alaska,10,street address,"38570 Tranquility Rd, Fritz Creek, AK, 99603"
+Alaska,10,street address,"354 W Bering Ave, Soldotna, AK, 99669"
+Alaska,10,street address,"259 W Corral Ave, Soldotna, AK, 99669"
+Alaska,10,street address,"47350 Log Ave, Kalifornsky, AK, 99669"
+Alaska,10,street address,"37003 Card St, Sterling, AK, 99672"
+Alaska,10,street address,"34224 Eastland Loop, Fritz Creek, AK, 99603"
+Alaska,10,street address,"601 Broad St, Kenai, AK, 99611"
+Alaska,10,street address,"352 Bunchberry Ln, Ketchikan, AK, 99901"

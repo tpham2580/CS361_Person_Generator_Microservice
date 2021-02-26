@@ -168,13 +168,16 @@ def input_to_output():
         for col_index, col in enumerate(header):
             if col == "input_state":
                 input_col_index = col_index
+
             if col == "input_number_to_generate" or col == "output_population_size":
                 input_number_col_index = col_index
-        
+
+
         if input_col_index == None or input_number_col_index == None:
             print("Unable to read input.csv format")
 
         row_input = next(csv.reader(infile))
+
         state_input = row_input[input_col_index]
         number_input = int(row_input[input_number_col_index])
     
@@ -197,7 +200,7 @@ def input_to_output():
         new_street = None
         index = 0
         for line_number, row in enumerate(csv.reader(infile)):
-            if index < number_input:
+            if index < len(random_numbers):
                 while line_number == random_numbers[index]:
                     new_street = list(row)
                     new_street = [x.lower().title() for x in new_street]
@@ -208,6 +211,9 @@ def input_to_output():
                     writer.writerow([state_input, number_input, "street address", street_string])
 
                     index += 1
+
+                    if index >= len(random_numbers):
+                        break
 
             else:
                 break
