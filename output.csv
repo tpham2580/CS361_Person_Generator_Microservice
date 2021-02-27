@@ -1,11 +1,17 @@
-input_state,input_number_to_generate,output_content_type,output_content_value
-Alaska,10,street address,"11608 Salmon Creek Rd, Bear Creek, AK, 99664"
-Alaska,10,street address,"37875 Greer Rd, Fritz Creek, AK, 99603"
-Alaska,10,street address,"38570 Tranquility Rd, Fritz Creek, AK, 99603"
-Alaska,10,street address,"354 W Bering Ave, Soldotna, AK, 99669"
-Alaska,10,street address,"259 W Corral Ave, Soldotna, AK, 99669"
-Alaska,10,street address,"47350 Log Ave, Kalifornsky, AK, 99669"
-Alaska,10,street address,"37003 Card St, Sterling, AK, 99672"
-Alaska,10,street address,"34224 Eastland Loop, Fritz Creek, AK, 99603"
-Alaska,10,street address,"601 Broad St, Kenai, AK, 99611"
-Alaska,10,street address,"352 Bunchberry Ln, Ketchikan, AK, 99901"
+input_state,input_number_to_generate,output_content_type,output_content_value,favorite_board_game
+Alaska,16,street address,"37847 Mackey Lake Rd, Ridgeway, AK, 99669",BrainBites Dinosaurs
+Alaska,16,street address,"1340 Nighthawk Ln, Kenai, AK, 99611",NCIS The Board Game
+Alaska,16,street address,"2915 Schooner Cir, Kenai, AK, 99611",Story Cubes Spurensuche [German Version]
+Alaska,16,street address,"49425 Tote Rd, Kalifornsky, AK, 99669",HABA Brandon The Brave
+Alaska,16,street address,"37915 Ralph Ln, Kalifornsky, AK, 99611",Chinese Checkers - Handmade Luxury - Jaques London
+Alaska,16,street address,"533 Third Ave, Seward, AK, 99664",Chinese Checkers - Solid Maple Wood with Glass Marbles - 11 inch (Made in USA)
+Alaska,16,street address,"32556 Wizard Ave, Bear Creek, AK, 99664",Chinese Checkers - Handmade Luxury - Jaques London
+Alaska,16,street address,"668 E Redoubt Ave, Soldotna, AK, 99669",NCIS The Board Game
+Alaska,16,street address,"10060 Resurrection River Rem Ne, Bear Creek, AK, 99664",NCIS The Board Game
+Alaska,16,street address,"39850 Valley View Rd, Sterling, AK, 99672",NCIS The Board Game
+Alaska,16,street address,"41460 Skittles St, Diamond Ridge, AK, 99603",Dartboard Set
+Alaska,16,street address,"1504 Stellar Dr, Kenai, AK, 99611",Chinese Checkers - Solid Maple Wood with Glass Marbles - 11 inch (Made in USA)
+Alaska,16,street address,"51747 Mcgahan Dr, Nikiski, AK, 99611",NCIS The Board Game
+Alaska,16,street address,"49215 Ez Down Ct, Kalifornsky, AK, 99610",HABA Brandon The Brave
+Alaska,16,street address,"51770 Stickleback Rd, Nikiski, AK, 99611",Story Cubes Spurensuche [German Version]
+Alaska,16,street address,"41119 Prominent Ct, Sterling, AK, 99669",NCIS The Board Game

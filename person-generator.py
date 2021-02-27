@@ -6,6 +6,7 @@ import random
 import argparse
 from tkinter import *
 import os
+import subprocess
 
 """This program uses preprocessed csv files to extract data from"""
 
@@ -33,9 +34,10 @@ class PersonGenerator(Tk):
         self.paddings = {'padx': 5, 'pady': 5}
         self.listbox = Listbox(self)
         self.int_var = IntVar(self)
-        self.year_var = IntVar(self)
+        self.board_var = IntVar(self)
+        self.board_game_list = []
 
-        self.create_year()
+        self.create_board_games()
 
         self.state_keys = list(states.keys())
         self.option_var = StringVar(self)
@@ -44,14 +46,15 @@ class PersonGenerator(Tk):
         self.create_streets()
 
         self.create_generate_button()
-        self.create_population_button()
+        self.create_content_button()
 
-    def create_year(self):
-        """creates label for year"""
-        label_year = Label(self, text="Input year between 1986 & 2019: ")
-        label_year.grid(column=1, row=1, sticky='', **self.paddings)
 
-        year_input = Entry(self, textvariable=self.year_var).grid(column=2, row=1, sticky='', **self.paddings)
+    def create_board_games(self):
+        """creates checkbox label for year"""
+        board_game = Label(self, text="Add favorite board game? ")
+        board_game.grid(column=1, row=1, sticky='', **self.paddings)
+
+        self.button_checkbox = Checkbutton(self, variable=self.board_var).grid(column=2, row=1, sticky='', **self.paddings)
 
     def create_states(self):
 
@@ -78,84 +81,113 @@ class PersonGenerator(Tk):
     def create_generate_button(self):
         button_generate = Button(self,
                                  text="Generate Output",
-                                 command=lambda: self.create_output_file())
+                                 command=lambda: self.create_output_gui(self.option_var.get(), self.int_var.get(), self.board_var.get()))
         button_generate.grid(column=2, row=4, sticky='', **self.paddings)
 
-    def create_population_button(self):
-        button_pop = Button(self,
-                                 text="Call Population-Generator",
-                                 command=lambda: self.create_population_output())
-        button_pop.grid(column=1, row=4, sticky='', **self.paddings)
+    def create_content_button(self):
+        button_content = Button(self,
+                                text="Call Content-Generator",
+                                command=lambda: self.create_content_output())
+        button_content.grid(column=1, row=4, sticky='', **self.paddings)
 
-    def create_population_output(self):
-        """creates input.csv, calls population-generator and generate output window"""
+    def create_content_output(self):
+        """creates input.csv, calls content-generator and generate output window of top ten items"""
 
-        state_input = self.option_var.get()
-        year_input = self.year_var.get()
+        board_input = self.board_var.get()
 
-        if year_input < 1986 or year_input > 2019 or state_input not in states:
-            self.listbox.insert(1, "Year or State not properly inputted")
-            self.listbox.grid(column=1, row=5, columnspan=3, sticky='EW', **self.paddings)
+        self.listbox.delete(0, END)
+
+        if board_input != 1:
+            self.listbox.insert(1, "Please check game option to request content-generator")
+            self.listbox.grid(column=1, row=5, columnspan=4, sticky='EW', **self.paddings)
             return
 
-        with open('input.csv', 'w') as outfile:
+        content_request()
 
-            writer = csv.writer(outfile)
-
-            writer.writerow(["input_year", "input_state"])
-            writer.writerow([year_input, state_input])
-
-        pop_request()
-        with open('output.csv', 'r') as infile:
+        with open('life_generator_output.csv', 'r') as infile:
             header = next(csv.reader(infile))
-            row_output = next(csv.reader(infile))
-            self.listbox.insert(1, row_output)
-            self.listbox.grid(column=1, row=5, columnspan=3, sticky='EW', **self.paddings)
-            
-    def create_output_file(self):
-        """creates output.csv file"""
-        state_input = self.option_var.get()
-        number_input = self.int_var.get()
+            for x, row in enumerate(csv.reader(infile)):
+                self.board_game_list.append(row[3])
+                self.listbox.insert(x, row[3])
+                self.listbox.grid(column=1, row=5, columnspan=3, sticky='EW', **self.paddings)
 
+    def check_state_and_people(self, state_input, number_input):
         if state_input == "" or number_input == 0:
             self.listbox.insert(1, "Please fill all appropriate inputs")
             self.listbox.grid(column=1, row=5, columnspan=3, sticky='EW', **self.paddings)
             return
 
+    def count_lines_state_csv(self, state_input):
         with open(states[state_input], 'r') as infile:
             lines = sum(1 for line in infile)
+        return lines
+
+    def create_street_address(self, state_input, infile_row):
+        print(infile_row)
+        new_street = list(infile_row)
+        new_street = [x.lower().title() for x in new_street]
+        new_street[1] = " " + new_street[1]
+        new_street[2] = ", " + new_street[2]
+        new_street[3] = ", " + states[state_input].strip(".csv").upper() + ", " + new_street[3]
+        street_string = "".join(new_street)
+        return  street_string
+
+    def get_random_sorted_list(self, number_input, lines):
+        random_numbers = [random.randint(1, lines) for x in range(number_input)]
+        random_numbers.sort()
+        return random_numbers
+
+    def make_header_output_list(self, board_input):
+        if len(self.board_game_list) > 0 and board_input == 1:
+            header_list = ["input_state", "input_number_to_generate",
+                          "output_content_type", "output_content_value", "favorite_board_game"]
+        else:
+            header_list = ["input_state", "input_number_to_generate",
+                          "output_content_type", "output_content_value"]
+        return header_list
+
+    def write_output_file(self, state_input, number_input, board_input):
+        """creates an output csv with information and return output list"""
+        if len(self.board_game_list) == 0:
+            self.create_content_output()
+
+        self.check_state_and_people(state_input, number_input)
+        lines = self.count_lines_state_csv(state_input)
 
         with open(states[state_input], 'r') as infile, open('output.csv', 'w') as outfile:
-            random_numbers = [random.randint(1, lines) for x in range(number_input)]
-            random_numbers.sort()
+            random_numbers = self.get_random_sorted_list(number_input, lines)
 
             writer = csv.writer(outfile)
-            writer.writerow(["input_state", "input_number_to_generate",
-                             "output_content_type", "output_content_value"])
+            writer.writerow(self.make_header_output_list(board_input))
 
             output_list = []
             new_street = None
             index = 0
+            random_board_game = ""
             for line_number, row in enumerate(csv.reader(infile)):
                 if index < number_input:
                     if line_number == random_numbers[index]:
-                        new_street = list(row)
-                        new_street = [x.lower().title() for x in new_street]
-                        new_street[1] = " " + new_street[1]
-                        new_street[2] = ", " + new_street[2]
-                        new_street[3] = ", " + states[state_input].strip(".csv").upper() + ", " + new_street[3]
-                        street_string = "".join(new_street)
-                        writer.writerow([state_input, number_input, "street address", street_string])
+                        street_string = self.create_street_address(state_input, row)
+                        if len(self.board_game_list) > 0 and board_input == 1:
+                            random_board_game = random.choice(tuple(self.board_game_list))
+                            writer.writerow([state_input, number_input, "street address", street_string, random_board_game])
+                        else:
+                            writer.writerow([state_input, number_input, "street address", street_string])
 
+                        output_list.append(street_string + " | " + random_board_game)
                         index += 1
-
-                        output_list.append(street_string)
                 else:
                     break
+        return output_list
 
+    def create_output_gui(self, state_input, number_input, board_input):
+        """reads output_list and create GUI element for output"""
+        output_list = self.write_output_file(state_input, number_input, board_input)
+
+        self.listbox.delete(0, END)
         for x, y in enumerate(output_list):
             self.listbox.insert(x+1, y)
-        self.listbox.grid(column=1, row=4, columnspan=3, sticky='EW', **self.paddings)
+        self.listbox.grid(column=0, row=5, columnspan=4, sticky='EW', **self.paddings)
 
 
 def input_to_output():
@@ -219,10 +251,8 @@ def input_to_output():
                 break
     return
 
-
-def pop_request():
-    """requests data from population generator"""
-    os.system("python3 population-generator.py input.csv")
+def content_request():
+    subprocess.run(['python3', 'content-generator.py', 'input.csv'])
     return
 
 
